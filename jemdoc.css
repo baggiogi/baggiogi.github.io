@@ -57,7 +57,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #224b8d;
+	color: rgb(45, 108, 192);
 	text-decoration: none;
 }
 
@@ -248,18 +248,18 @@ div.codeblock, div.infoblock {
 
 div.blocktitle {
 	font-weight: bold;
-	color: #cd7b62;
+	color: rgb(45, 108, 192);
 	margin-top: 1.2em;
 	margin-bottom: 0.1em;
 }
 
 div.blockcontent {
-	border: 1px solid silver;
+	border: 1px solid rgb(200, 200, 200);
 	padding: 0.3em 0.5em;
 }
 
 div.infoblock > div.blockcontent {
-	background: #ffffee;
+	background: rgb(250, 250, 250);
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
