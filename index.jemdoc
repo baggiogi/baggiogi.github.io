@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{index.html}, showsource 
+# jemdoc: addcss{jemdoc.css}
+# jemdoc: addcss{bibover.css}
+= Giacomo Baggio
+
+
+~~~
+{}{img_left}{./images/Myself2.jpg}{Myself}{160}{160}{}
+# {}{img_left}{./images/GiacomoBaggio.jpg}{Myself}{110}{140}{}
+# {}{img_left}{./images/Myself.jpg}{Myself}{110}{156}{} 
+# {}{img_left}{./images/charlie_brown_philosophy.gif}{Life}{}{}{peanuts} 
+*PostDoctoral Scholar* \n
+
+[http://www.me.ucr.edu Department of Mechanical Engineering] \n
+[http://www.engr.ucr.edu Bourns College of Engineering] \n
+[https://www.ucr.edu University of California, Riverside] \n
+900 University Avenue \n
+Riverside, CA, USA, 92521 \n
+
+Email: giacomob@ucr.edu \n
+Skype: giacomo.baggio
+~~~
+
+\n
+
+
+ 	
