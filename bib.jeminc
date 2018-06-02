@@ -1,0 +1,560 @@
+#item: aghajan2009multi
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_aghajan2009multi" onmousedown="javascript:lockMouse(event,'aghajan2009multi')" onmouseup="javascript:unLockMouse(event,'aghajan2009multi')">
+<div class="cross"><a href="javascript:closeCite('aghajan2009multi')">X</a></div>
+<p>
+~~~
+
+/Multi-camera networks: principles and applications/\n
+Aghajan, H. and Cavallaro, A.\n
+Academic press, 2009\n
+[javascript:toggleBibtex('aghajan2009multi') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_aghajan2009multi" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@book{aghajan2009multi,
+  author = {Aghajan, Hamid and Cavallaro, Andrea},
+  title = {Multi-camera networks: principles and applications},
+  publisher = {Academic press},
+  year = {2009}
+}
+</pre></div>
+</div>
+~~~
+#item: baggio2015minimal
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_baggio2015minimal" onmousedown="javascript:lockMouse(event,'baggio2015minimal')" onmouseup="javascript:unLockMouse(event,'baggio2015minimal')">
+<div class="cross"><a href="javascript:closeCite('baggio2015minimal')">X</a></div>
+<p>
+~~~
+
+/On Minimal Spectral Factors with Zeroes and Poles lying on Prescribed Region/\n
+Baggio, G. and Ferrante, A.\n
+arXiv preprint arXiv:1506.00883, 2015\n
+[javascript:toggleBibtex('baggio2015minimal') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_baggio2015minimal" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{baggio2015minimal,
+  author = {Baggio, Giacomo and Ferrante, Augusto},
+  title = {On Minimal Spectral Factors with Zeroes and Poles lying on Prescribed Region},
+  journal = {arXiv preprint arXiv:1506.00883},
+  year = {2015}
+}
+</pre></div>
+</div>
+~~~
+#item: baggio2014factorization
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_baggio2014factorization" onmousedown="javascript:lockMouse(event,'baggio2014factorization')" onmouseup="javascript:unLockMouse(event,'baggio2014factorization')">
+<div class="cross"><a href="javascript:closeCite('baggio2014factorization')">X</a></div>
+<p>
+~~~
+
+/On the Factorization of Rational Discrete-Time Spectral Densities/\n
+Baggio, G. and Ferrante, A.\n
+arXiv preprint arXiv:1410.0765, 2014\n
+[javascript:toggleBibtex('baggio2014factorization') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_baggio2014factorization" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{baggio2014factorization,
+  author = {Baggio, Giacomo and Ferrante, Augusto},
+  title = {On the Factorization of Rational Discrete-Time Spectral Densities},
+  journal = {arXiv preprint arXiv:1410.0765},
+  year = {2014}
+}
+</pre></div>
+</div>
+~~~
+#item: barreiro2011open
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_barreiro2011open" onmousedown="javascript:lockMouse(event,'barreiro2011open')" onmouseup="javascript:unLockMouse(event,'barreiro2011open')">
+<div class="cross"><a href="javascript:closeCite('barreiro2011open')">X</a></div>
+<p>
+~~~
+
+/An open-system quantum simulator with trapped ions/\n
+Barreiro, J.T., Muller, M., Schindler, P., Nigg, D., Monz, T., Chwalla, M., Hennrich, M., Roos, C.F., Zoller, P. and Blatt, R.\n
+Nature, 2011, Vol. 470 (7335), pp. 486-491\n
+[javascript:toggleBibtex('barreiro2011open') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_barreiro2011open" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{barreiro2011open,
+  author = {Barreiro, Julio T and Muller, Markus and Schindler, Philipp and Nigg, Daniel and Monz, Thomas and Chwalla, Michael and Hennrich, Markus and Roos, Christian F and Zoller, Peter and Blatt, Rainer},
+  title = {An open-system quantum simulator with trapped ions},
+  journal = {Nature},
+  year = {2011},
+  volume = {470},
+  number = {7335},
+  pages = {486--491}
+}
+</pre></div>
+</div>
+~~~
+#item: feynman1982simulating
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_feynman1982simulating" onmousedown="javascript:lockMouse(event,'feynman1982simulating')" onmouseup="javascript:unLockMouse(event,'feynman1982simulating')">
+<div class="cross"><a href="javascript:closeCite('feynman1982simulating')">X</a></div>
+<p>
+~~~
+
+/Simulating physics with computers/\n
+Feynman, R.P.\n
+International journal of theoretical physics, 1982, Vol. 21 (6/7), pp. 467-488\n
+[javascript:toggleBibtex('feynman1982simulating') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_feynman1982simulating" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{feynman1982simulating,
+  author = {Feynman, Richard P},
+  title = {Simulating physics with computers},
+  journal = {International journal of theoretical physics},
+  year = {1982},
+  volume = {21},
+  number = {6/7},
+  pages = {467--488}
+}
+</pre></div>
+</div>
+~~~
+#item: feynman1960there
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_feynman1960there" onmousedown="javascript:lockMouse(event,'feynman1960there')" onmouseup="javascript:unLockMouse(event,'feynman1960there')">
+<div class="cross"><a href="javascript:closeCite('feynman1960there')">X</a></div>
+<p>
+~~~
+
+/There's plenty of room at the bottom/\n
+Feynman, R.P.\n
+Engineering and Science, 1960, Vol. 23 (5), pp. 22-36\n
+[javascript:toggleBibtex('feynman1960there') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_feynman1960there" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{feynman1960there,
+  author = {Feynman, Richard P},
+  title = {There's plenty of room at the bottom},
+  journal = {Engineering and Science},
+  year = {1960},
+  volume = {23},
+  number = {5},
+  pages = {22--36}
+}
+</pre></div>
+</div>
+~~~
+#item: kolmogorov1939interpolation
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_kolmogorov1939interpolation" onmousedown="javascript:lockMouse(event,'kolmogorov1939interpolation')" onmouseup="javascript:unLockMouse(event,'kolmogorov1939interpolation')">
+<div class="cross"><a href="javascript:closeCite('kolmogorov1939interpolation')">X</a></div>
+<p>
+~~~
+
+/Sur l'interpolation et extrapolation des suites stationnaires/\n
+Kolmogorov, A.N.\n
+CR Acad. Sci, 1939, Vol. 208, pp. 2043-2045\n
+[javascript:toggleBibtex('kolmogorov1939interpolation') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_kolmogorov1939interpolation" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{kolmogorov1939interpolation,
+  author = {Kolmogorov, Andrei Nikolaevitch},
+  title = {Sur l'interpolation et extrapolation des suites stationnaires},
+  journal = {CR Acad. Sci},
+  year = {1939},
+  volume = {208},
+  pages = {2043--2045}
+}
+</pre></div>
+</div>
+~~~
+#item: lin1974structural
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_lin1974structural" onmousedown="javascript:lockMouse(event,'lin1974structural')" onmouseup="javascript:unLockMouse(event,'lin1974structural')">
+<div class="cross"><a href="javascript:closeCite('lin1974structural')">X</a></div>
+<p>
+~~~
+
+/Structural controllability/\n
+Lin, C.T.\n
+Automatic Control, IEEE Transactions on, 1974, Vol. 19 (3), pp. 201-208\n
+[javascript:toggleBibtex('lin1974structural') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_lin1974structural" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{lin1974structural,
+  author = {Lin, Ching Tai},
+  title = {Structural controllability},
+  journal = {Automatic Control, IEEE Transactions on},
+  year = {1974},
+  volume = {19},
+  number = {3},
+  pages = {201--208}
+}
+</pre></div>
+</div>
+~~~
+#item: liu2011controllability
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_liu2011controllability" onmousedown="javascript:lockMouse(event,'liu2011controllability')" onmouseup="javascript:unLockMouse(event,'liu2011controllability')">
+<div class="cross"><a href="javascript:closeCite('liu2011controllability')">X</a></div>
+<p>
+~~~
+
+/Controllability of complex networks/\n
+Liu, Y.-Y., Slotine, J.-J. and Barabasi, A.-L.\n
+Nature, 2011, Vol. 473 (7346), pp. 167-173\n
+[javascript:toggleBibtex('liu2011controllability') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_liu2011controllability" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{liu2011controllability,
+  author = {Liu, Yang-Yu and Slotine, Jean-Jacques and Barabasi, Albert-Lˆszl˜;},
+  title = {Controllability of complex networks},
+  journal = {Nature},
+  year = {2011},
+  volume = {473},
+  number = {7346},
+  pages = {167--173}
+}
+</pre></div>
+</div>
+~~~
+#item: newman2010networks
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_newman2010networks" onmousedown="javascript:lockMouse(event,'newman2010networks')" onmouseup="javascript:unLockMouse(event,'newman2010networks')">
+<div class="cross"><a href="javascript:closeCite('newman2010networks')">X</a></div>
+<p>
+~~~
+
+/Networks: an introduction/\n
+Newman, M.\n
+Oxford University Press, 2010\n
+[javascript:toggleBibtex('newman2010networks') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_newman2010networks" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@book{newman2010networks,
+  author = {Newman, Mark},
+  title = {Networks: an introduction},
+  publisher = {Oxford University Press},
+  year = {2010}
+}
+</pre></div>
+</div>
+~~~
+#item: nielsen2010quantum
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_nielsen2010quantum" onmousedown="javascript:lockMouse(event,'nielsen2010quantum')" onmouseup="javascript:unLockMouse(event,'nielsen2010quantum')">
+<div class="cross"><a href="javascript:closeCite('nielsen2010quantum')">X</a></div>
+<p>
+~~~
+
+/Quantum computation and quantum information/\n
+Nielsen, M.A. and Chuang, I.L.\n
+Cambridge university press, 2010\n
+[javascript:toggleBibtex('nielsen2010quantum') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_nielsen2010quantum" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@book{nielsen2010quantum,
+  author = {Nielsen, Michael A and Chuang, Isaac L},
+  title = {Quantum computation and quantum information},
+  publisher = {Cambridge university press},
+  year = {2010}
+}
+</pre></div>
+</div>
+~~~
+#item: pasqualetti2014controllability
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_pasqualetti2014controllability" onmousedown="javascript:lockMouse(event,'pasqualetti2014controllability')" onmouseup="javascript:unLockMouse(event,'pasqualetti2014controllability')">
+<div class="cross"><a href="javascript:closeCite('pasqualetti2014controllability')">X</a></div>
+<p>
+~~~
+
+/Controllability metrics, limitations and algorithms for complex networks/\n
+Pasqualetti, F., Zampieri, S. and Bullo, F.\n
+Control of Network Systems, IEEE Transactions on, 2014, Vol. 1 (1), pp. 40-52\n
+[javascript:toggleBibtex('pasqualetti2014controllability') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_pasqualetti2014controllability" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{pasqualetti2014controllability,
+  author = {Pasqualetti, Fabio and Zampieri, Sandro and Bullo, Francesco},
+  title = {Controllability metrics, limitations and algorithms for complex networks},
+  journal = {Control of Network Systems, IEEE Transactions on},
+  year = {2014},
+  volume = {1},
+  number = {1},
+  pages = {40--52}
+}
+</pre></div>
+</div>
+~~~
+#item: sarlette2009consensus
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_sarlette2009consensus" onmousedown="javascript:lockMouse(event,'sarlette2009consensus')" onmouseup="javascript:unLockMouse(event,'sarlette2009consensus')">
+<div class="cross"><a href="javascript:closeCite('sarlette2009consensus')">X</a></div>
+<p>
+~~~
+
+/Consensus optimization on manifolds/\n
+Sarlette, A. and Sepulchre, R.\n
+SIAM Journal on Control and Optimization, 2009, Vol. 48 (1), pp. 56-76\n
+[javascript:toggleBibtex('sarlette2009consensus') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_sarlette2009consensus" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{sarlette2009consensus,
+  author = {Sarlette, Alain and Sepulchre, Rodolphe},
+  title = {Consensus optimization on manifolds},
+  journal = {SIAM Journal on Control and Optimization},
+  year = {2009},
+  volume = {48},
+  number = {1},
+  pages = {56--76}
+}
+</pre></div>
+</div>
+~~~
+#item: sayed2001survey
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_sayed2001survey" onmousedown="javascript:lockMouse(event,'sayed2001survey')" onmouseup="javascript:unLockMouse(event,'sayed2001survey')">
+<div class="cross"><a href="javascript:closeCite('sayed2001survey')">X</a></div>
+<p>
+~~~
+
+/A survey of spectral factorization methods/\n
+Sayed, A.H. and Kailath, T.\n
+Numerical linear algebra with applications, 2001, Vol. 8 (6-7), pp. 467-496\n
+[javascript:toggleBibtex('sayed2001survey') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_sayed2001survey" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{sayed2001survey,
+  author = {Sayed, Ali H and Kailath, Thomas},
+  title = {A survey of spectral factorization methods},
+  journal = {Numerical linear algebra with applications},
+  year = {2001},
+  volume = {8},
+  number = {6-7},
+  pages = {467--496}
+}
+</pre></div>
+</div>
+~~~
+#item: ticozzi2014steady
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_ticozzi2014steady" onmousedown="javascript:lockMouse(event,'ticozzi2014steady')" onmouseup="javascript:unLockMouse(event,'ticozzi2014steady')">
+<div class="cross"><a href="javascript:closeCite('ticozzi2014steady')">X</a></div>
+<p>
+~~~
+
+/Steady-state entanglement by engineered quasi-local Markovian dissipation: Hamiltonian-assisted and conditional stabilization/\n
+Ticozzi, F. and Viola, L.\n
+Quantum Information &amp;amp; Computation, 2014, Vol. 14 (3-4), pp. 265-294\n
+[javascript:toggleBibtex('ticozzi2014steady') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_ticozzi2014steady" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{ticozzi2014steady,
+  author = {Ticozzi, Francesco and Viola, Lorenza},
+  title = {Steady-state entanglement by engineered quasi-local Markovian dissipation: Hamiltonian-assisted and conditional stabilization},
+  journal = {Quantum Information &amp;amp; Computation},
+  year = {2014},
+  volume = {14},
+  number = {3-4},
+  pages = {265--294}
+}
+</pre></div>
+</div>
+~~~
+#item: ticozzi2012stabilizing
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_ticozzi2012stabilizing" onmousedown="javascript:lockMouse(event,'ticozzi2012stabilizing')" onmouseup="javascript:unLockMouse(event,'ticozzi2012stabilizing')">
+<div class="cross"><a href="javascript:closeCite('ticozzi2012stabilizing')">X</a></div>
+<p>
+~~~
+
+/Stabilizing entangled states with quasi-local quantum dynamical semigroups/\n
+Ticozzi, F. and Viola, L.\n
+Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences, 2012, Vol. 370 (1979), pp. 5259-5269\n
+[javascript:toggleBibtex('ticozzi2012stabilizing') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_ticozzi2012stabilizing" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{ticozzi2012stabilizing,
+  author = {Ticozzi, Francesco and Viola, Lorenza},
+  title = {Stabilizing entangled states with quasi-local quantum dynamical semigroups},
+  journal = {Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences},
+  year = {2012},
+  volume = {370},
+  number = {1979},
+  pages = {5259--5269}
+}
+</pre></div>
+</div>
+~~~
+#item: tron2009distributed
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_tron2009distributed" onmousedown="javascript:lockMouse(event,'tron2009distributed')" onmouseup="javascript:unLockMouse(event,'tron2009distributed')">
+<div class="cross"><a href="javascript:closeCite('tron2009distributed')">X</a></div>
+<p>
+~~~
+
+/Distributed image-based 3-d localization of camera sensor networks/\n
+Tron, R. and Vidal, R.\n
+In Decision and Control, 2009 held jointly with the 2009 28th Chinese Control Conference. CDC/CCC 2009. Proceedings of the 48th IEEE Conference on, 2009, pp. 901-908\n
+[javascript:toggleBibtex('tron2009distributed') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_tron2009distributed" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@inproceedings{tron2009distributed,
+  author = {Tron, Roberto and Vidal, Rene;},
+  title = {Distributed image-based 3-d localization of camera sensor networks},
+  booktitle = {Decision and Control, 2009 held jointly with the 2009 28th Chinese Control Conference. CDC/CCC 2009. Proceedings of the 48th IEEE Conference on},
+  year = {2009},
+  pages = {901--908}
+}
+</pre></div>
+</div>
+~~~
+#item: verstraete2009quantum
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_verstraete2009quantum" onmousedown="javascript:lockMouse(event,'verstraete2009quantum')" onmouseup="javascript:unLockMouse(event,'verstraete2009quantum')">
+<div class="cross"><a href="javascript:closeCite('verstraete2009quantum')">X</a></div>
+<p>
+~~~
+
+/Quantum computation and quantum-state engineering driven by dissipation/\n
+Verstraete, F., Wolf, M.M. and Cirac, J.I.\n
+Nature physics, 2009, Vol. 5 (9), pp. 633-636\n
+[javascript:toggleBibtex('verstraete2009quantum') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_verstraete2009quantum" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{verstraete2009quantum,
+  author = {Verstraete, Frank and Wolf, Michael M and Cirac, J Ignacio},
+  title = {Quantum computation and quantum-state engineering driven by dissipation},
+  journal = {Nature physics},
+  year = {2009},
+  volume = {5},
+  number = {9},
+  pages = {633--636}
+}
+</pre></div>
+</div>
+~~~
+#item: wiener1949extrapolation
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_wiener1949extrapolation" onmousedown="javascript:lockMouse(event,'wiener1949extrapolation')" onmouseup="javascript:unLockMouse(event,'wiener1949extrapolation')">
+<div class="cross"><a href="javascript:closeCite('wiener1949extrapolation')">X</a></div>
+<p>
+~~~
+
+/Extrapolation, interpolation, and smoothing of stationary time series/\n
+Wiener, N.\n
+MIT press Cambridge, MA, 1949, Vol. 2\n
+[javascript:toggleBibtex('wiener1949extrapolation') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_wiener1949extrapolation" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@book{wiener1949extrapolation,
+  author = {Wiener, Norbert},
+  title = {Extrapolation, interpolation, and smoothing of stationary time series},
+  publisher = {MIT press Cambridge, MA},
+  year = {1949},
+  volume = {2}
+}
+</pre></div>
+</div>
+~~~
+#item: youla1961factorization
+~~~
+{}{raw}
+<div class="bibover noshow" id="bibover_youla1961factorization" onmousedown="javascript:lockMouse(event,'youla1961factorization')" onmouseup="javascript:unLockMouse(event,'youla1961factorization')">
+<div class="cross"><a href="javascript:closeCite('youla1961factorization')">X</a></div>
+<p>
+~~~
+
+/On the factorization of rational matrices/\n
+Youla, D.\n
+Information Theory, IRE Transactions on, 1961, Vol. 7 (3), pp. 172-189\n
+[javascript:toggleBibtex('youla1961factorization') \[BibTeX\]]
+~~~
+{}{raw}
+</p>
+<div id="bib_youla1961factorization" class="bibtex noshow" onmousedown="event.stopPropagation()" onmouseup="event.stopPropagation()">
+<pre>
+@article{youla1961factorization,
+  author = {Youla, D},
+  title = {On the factorization of rational matrices},
+  journal = {Information Theory, IRE Transactions on},
+  year = {1961},
+  volume = {7},
+  number = {3},
+  pages = {172--189}
+}
+</pre></div>
+</div>
+~~~

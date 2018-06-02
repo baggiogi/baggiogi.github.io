@@ -1,0 +1,184 @@
+% This file was created with JabRef 2.11b3.
+% Encoding: MacRoman
+
+
+@Book{aghajan2009multi,
+  Title                    = {Multi-camera networks: principles and applications},
+  Author                   = {Aghajan, Hamid and Cavallaro, Andrea},
+  Publisher                = {Academic press},
+  Year                     = {2009}
+}
+
+@Article{baggio2015minimal,
+  Title                    = {On Minimal Spectral Factors with Zeroes and Poles lying on Prescribed Region},
+  Author                   = {Baggio, Giacomo and Ferrante, Augusto},
+  Journal                  = {arXiv preprint arXiv:1506.00883},
+  Year                     = {2015}
+}
+
+@Article{baggio2014factorization,
+  Title                    = {On the Factorization of Rational Discrete-Time Spectral Densities},
+  Author                   = {Baggio, Giacomo and Ferrante, Augusto},
+  Journal                  = {arXiv preprint arXiv:1410.0765},
+  Year                     = {2014}
+}
+
+@Article{barreiro2011open,
+  Title                    = {An open-system quantum simulator with trapped ions},
+  Author                   = {Barreiro, Julio T and Muller, Markus and Schindler, Philipp and Nigg, Daniel and Monz, Thomas and Chwalla, Michael and Hennrich, Markus and Roos, Christian F and Zoller, Peter and Blatt, Rainer},
+  Journal                  = {Nature},
+  Year                     = {2011},
+  Number                   = {7335},
+  Pages                    = {486--491},
+  Volume                   = {470}
+}
+
+@Article{feynman1982simulating,
+  Title                    = {Simulating physics with computers},
+  Author                   = {Feynman, Richard P},
+  Journal                  = {International journal of theoretical physics},
+  Year                     = {1982},
+  Number                   = {6/7},
+  Pages                    = {467--488},
+  Volume                   = {21}
+}
+
+@Article{feynman1960there,
+  Title                    = {There's plenty of room at the bottom},
+  Author                   = {Feynman, Richard P},
+  Journal                  = {Engineering and Science},
+  Year                     = {1960},
+  Number                   = {5},
+  Pages                    = {22--36},
+  Volume                   = {23}
+}
+
+@Article{kolmogorov1939interpolation,
+  Title                    = {Sur l'interpolation et extrapolation des suites stationnaires},
+  Author                   = {Kolmogorov, Andrei Nikolaevitch},
+  Journal                  = {CR Acad. Sci},
+  Year                     = {1939},
+  Pages                    = {2043--2045},
+  Volume                   = {208}
+}
+
+@Article{lin1974structural,
+  Title                    = {Structural controllability},
+  Author                   = {Lin, Ching Tai},
+  Journal                  = {Automatic Control, IEEE Transactions on},
+  Year                     = {1974},
+  Number                   = {3},
+  Pages                    = {201--208},
+  Volume                   = {19}
+}
+
+@Article{liu2011controllability,
+  Title                    = {Controllability of complex networks},
+  Author                   = {Liu, Yang-Yu and Slotine, Jean-Jacques and Barab\&aacute;si, Albert-L\&aacute;szl\&oacute;},
+  Journal                  = {Nature},
+  Year                     = {2011},
+  Number                   = {7346},
+  Pages                    = {167--173},
+  Volume                   = {473}
+}
+
+@Book{newman2010networks,
+  Title                    = {Networks: an introduction},
+  Author                   = {Newman, Mark},
+  Publisher                = {Oxford University Press},
+  Year                     = {2010}
+}
+
+@Book{nielsen2010quantum,
+  Title                    = {Quantum computation and quantum information},
+  Author                   = {Nielsen, Michael A and Chuang, Isaac L},
+  Publisher                = {Cambridge university press},
+  Year                     = {2010}
+}
+
+@Article{pasqualetti2014controllability,
+  Title                    = {Controllability metrics, limitations and algorithms for complex networks},
+  Author                   = {Pasqualetti, Fabio and Zampieri, Sandro and Bullo, Francesco},
+  Journal                  = {Control of Network Systems, IEEE Transactions on},
+  Year                     = {2014},
+  Number                   = {1},
+  Pages                    = {40--52},
+  Volume                   = {1}
+}
+
+@Article{sarlette2009consensus,
+  Title                    = {Consensus optimization on manifolds},
+  Author                   = {Sarlette, Alain and Sepulchre, Rodolphe},
+  Journal                  = {SIAM Journal on Control and Optimization},
+  Year                     = {2009},
+  Number                   = {1},
+  Pages                    = {56--76},
+  Volume                   = {48}
+}
+
+@Article{sayed2001survey,
+  Title                    = {A survey of spectral factorization methods},
+  Author                   = {Sayed, Ali H and Kailath, Thomas},
+  Journal                  = {Numerical linear algebra with applications},
+  Year                     = {2001},
+  Number                   = {6-7},
+  Pages                    = {467--496},
+  Volume                   = {8}
+}
+
+@Article{ticozzi2014steady,
+  Title                    = {Steady-state entanglement by engineered quasi-local Markovian dissipation: Hamiltonian-assisted and conditional stabilization},
+  Author                   = {Ticozzi, Francesco and Viola, Lorenza},
+  Journal                  = {Quantum Information \&amp; Computation},
+  Year                     = {2014},
+  Number                   = {3-4},
+  Pages                    = {265--294},
+  Volume                   = {14}
+}
+
+@Article{ticozzi2012stabilizing,
+  Title                    = {Stabilizing entangled states with quasi-local quantum dynamical semigroups},
+  Author                   = {Ticozzi, Francesco and Viola, Lorenza},
+  Journal                  = {Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences},
+  Year                     = {2012},
+  Number                   = {1979},
+  Pages                    = {5259--5269},
+  Volume                   = {370}
+}
+
+@InProceedings{tron2009distributed,
+  Title                    = {Distributed image-based 3-d localization of camera sensor networks},
+  Author                   = {Tron, Roberto and Vidal, Ren\&eacute;},
+  Booktitle                = {Decision and Control, 2009 held jointly with the 2009 28th Chinese Control Conference. CDC/CCC 2009. Proceedings of the 48th IEEE Conference on},
+  Year                     = {2009},
+  Pages                    = {901--908}
+}
+
+@Article{verstraete2009quantum,
+  Title                    = {Quantum computation and quantum-state engineering driven by dissipation},
+  Author                   = {Verstraete, Frank and Wolf, Michael M and Cirac, J Ignacio},
+  Journal                  = {Nature physics},
+  Year                     = {2009},
+  Number                   = {9},
+  Pages                    = {633--636},
+  Volume                   = {5}
+}
+
+@Book{wiener1949extrapolation,
+  Title                    = {Extrapolation, interpolation, and smoothing of stationary time series},
+  Author                   = {Wiener, Norbert},
+  Publisher                = {MIT press Cambridge, MA},
+  Year                     = {1949},
+  Volume                   = {2}
+}
+
+@Article{youla1961factorization,
+  Title                    = {On the factorization of rational matrices},
+  Author                   = {Youla, D},
+  Journal                  = {Information Theory, IRE Transactions on},
+  Year                     = {1961},
+  Number                   = {3},
+  Pages                    = {172--189},
+  Volume                   = {7}
+}
+
