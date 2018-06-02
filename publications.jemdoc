@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{publications.html}, showsource 
+= Publications & Preprints
+
+=== Journal Papers
+
+- _G. Baggio_, [http://www.dei.unipd.it/~augusto/ A. Ferrante], and [https://sites.google.com/site/rsepulchre/ R. Sepulchre], “Conal Distances Between Rational Spectral Densities”, /(under review)/, 2018. \[[http://arxiv.org/abs/1708.02818 arXiv]\] \n
+
+- B. Zhu and _G. Baggio_ “On the Existence of a Solution to a Spectral Estimation Problem /à la/ Byrnes–Georgiou–Lindquist”, /IEEE Transactions on Automatic Control/, (to appear), 2018. \[[http://arxiv.org/abs/1709.09012 arXiv]\] \n
+
+- _G. Baggio_ and [http://www.dei.unipd.it/~augusto/ A. Ferrante], “Parametrization of Minimal Spectral Factors of Discrete-Time Rational Spectral Densities”, /IEEE Transactions on Automatic Control/, (to appear), 2018. \[[http://arxiv.org/abs/1609.02711 arXiv]\] \n
+
+- _G. Baggio_, “Further Results on the Convergence of the Pavon–Ferrante Algorithm for Spectral Estimation”, /IEEE Transactions on Automatic Control/, (to appear), 2018. \[[http://arxiv.org/abs/1612.03570 arXiv]\] \n
+
+- N. Bof, _G. Baggio_, and [http://automatica.dei.unipd.it/people/zampieri.html S. Zampieri], “On the Role of Network Centrality in the Controllability of Complex Networks”, /IEEE Transactions on Control of Network Systems/, vol. 4, no. 3, pp. 643-653, Sept. 2017. \[[http://arxiv.org/abs/1509.04154 arXiv]\]  \[[http://ieeexplore.ieee.org/document/7447762 online]\] \n
+
+- _G. Baggio_ and [http://www.dei.unipd.it/~augusto/ A. Ferrante], “On Minimal Spectral Factors with Zeroes and Poles lying on Prescribed Regions”, /IEEE Transactions on Automatic Control/, vol. 61, no. 8, pp. 2251-2255, Aug. 2016. \[[http://arxiv.org/abs/1506.00883 arXiv]\] \[[http://ieeexplore.ieee.org/document/7286755 online]\] \n
+
+- _G. Baggio_ and [http://www.dei.unipd.it/~augusto/ A. Ferrante], “On the Factorization of Rational Discrete-Time Spectral Densities”, /IEEE Transactions on Automatic Control/, vol. 61, no. 4, pp. 969-981, April 2016. \[[http://arxiv.org/abs/1410.0765 arXiv]\] \[[http://ieeexplore.ieee.org/document/7128353 online]\] \n
+
+=== Conference Papers
+
+- _G. Baggio_, [https://ghennequin.github.io G. Hennequin], and [http://automatica.dei.unipd.it/people/zampieri.html S. Zampieri], “Information Transmission in Dynamical Networks: The Normal Network Case”, (submitted), 2018. \n
+
+- _G. Baggio_ and [http://automatica.dei.unipd.it/people/zampieri.html S. Zampieri], “On the Relation between Non-normality and Diameter in Linear Dynamical Networks”, /European Control Conference (ECC)/, (to appear), 2018. \n
+
+- [http://automatica.dei.unipd.it/people/michieletto.html G. Michieletto], S. Milani, [http://automatica.dei.unipd.it/people/cenedese.html A. Cenedese], and _G. Baggio_, “Improving Consensus-based Distributed Camera Calibration via Edge Pruning and Graph Traversal Initialization”, /IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, (to appear), 2018. \n
+
+- _G. Baggio_ and [https://sites.google.com/site/rsepulchre/ R. Sepulchre], “Stochastic LTI Processes: a Behavioral Perspective”, /Proceedings of 20th IFAC World Congress/, Toulouse, 2017. \[[http://www.sciencedirect.com/science/article/pii/S2405896317310108 online]\] \n
+
+- _G. Baggio_, “On the Convergence of a Matricial Fixed-Point Iteration Connected with Spectral Estimation”, /Proceedings of 20th IFAC World Congress/, Toulouse, 2017. \[[http://www.sciencedirect.com/science/article/pii/S2405896317320785 online]\]\n
+
+- _G. Baggio_ and [https://sites.google.com/site/rsepulchre/ R. Sepulchre], “Stochastic Processes: a Behavioral Perspective”, /Workshop - Biological Control Across Scales/, Cambridge, 27-28 June 2016. \[[download/BCAS-poster.pdf Poster]\]\n
+
+- _G. Baggio_, [http://www.dei.unipd.it/~ticozzi/ F. Ticozzi], and [https://sites.dartmouth.edu/lorenzaviola-group/ L. Viola], “Quantum State Preparation by Controlled Dissipation in Finite Time: From Classical to Quantum Controllers”, /IEEE 51st Conference on Decision and Control/, pp. 1072-1077, 2012. \[[http://arxiv.org/abs/1209.5568 arXiv]\] \[[http://ieeexplore.ieee.org/document/6426787 online]\] \n
+

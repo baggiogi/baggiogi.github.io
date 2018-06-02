@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{teaching.html}, showsource 
+# jemdoc: addcss{jemdoc.css}
+= Teaching
+
+== Signal and Systems (3F1) 2015/16 — Dept. Engineering, Univ. Cambridge
+~~~
+*Supervisions 1-2*: \ \ [download/Ex_Paper_I_sol.pdf Solutions Examples Paper I] (updated 27.11.15)
+~~~
+
+~~~
+*Supervision 3*: [download/Ex_Paper_II_sol.pdf Solutions Examples Paper II] (updated 15.01.16)
+~~~
+
+~~~
+*Supervision 4*: [download/Ex_Paper_III_sol.pdf Solutions Examples Paper III] (updated 22.01.16)
+~~~
+
+== Stima e Filtraggio 2016/17 — Dip. Ingegneria dell’Informazione, Univ. Padova
+~~~
+*Lab 1* _(Intro Matlab + Static estimation)_: \ \ [download/SeF_Lab1.pdf Slides], code: [download/zeroTail.m zeroTail.m] · [download/flipDiag.m flipDiag.m] · [download/testSchur.m testSchur.m] · [download/centralMMSE.m centralMMSE.m] · [download/distrMMSE.m distrMMSE.m]  (updated 19.04.17)
+~~~
+
+~~~
+*Lab 2* _(Kalman Filtering and Applications)_: \ \ [download/SeF_Lab2.pdf Slides], code: [download/checkStability.m checkStability.m] · [download/checkReachStab.m checkReachStab.m] · [download/checkObsDetec.m checkObsDetec.m] · [download/predKalman.m predKalman.m] · [download/predKalmanSS.m predKalmanSS.m] · [download/test\_kalman.m test\_kalman.m] · [download/USpresident\_polls\_data\_2016.mat Polls data] · [download/kalman\_USpresident\_polls.m kalman\_USpresident\_polls.m] (updated 24.04.17)
+~~~
+
+~~~
+*Lab 3* _(Wiener Filtering and Applications I)_: \ \ [download/SeF_Lab3.pdf Slides], code:  [download/checkTFStability.m checkTFStability.m] · [download/plotSpectrum.m plotSpectrum.m] · [download/resIntegral.m resIntegral.m] · [download/causalPart.m causalPart.m] (updated 05.06.17)
+~~~
+
+~~~
+*Lab 4* _(Wiener Filtering and Applications II)_: \ \ [download/SeF_Lab4.pdf Slides], code:  [download/spectralFactor.m spectralFactor.m] · [download/WienerPredictor.m WienerPredictor.m] (updated 07.06.17)
+~~~
