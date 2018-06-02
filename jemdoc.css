@@ -16,7 +16,7 @@ body {
 #layout-menu {
 	background: #f6f6f6;
 	border: 1px solid #dddddd;
-	padding-top: 0.5em;
+	padding-top: 4em;
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
@@ -39,6 +39,7 @@ body {
     background: white;
     text-align: left;
     vertical-align: top;
+width:100%;
 }
 
 #layout-menu a {
@@ -90,9 +91,14 @@ div.menu-item {
 }
 
 div#toptitle {
-	padding-bottom: 0.2em;
-	margin-bottom: 1.5em;
-	border-bottom: 3px double gray;
+	padding-bottom: 0.3em;
+	margin-bottom: 1em;
+	padding-top: 1em;
+	margin-top: -1em;
+	margin-left: -8.25em;
+	padding-left: 1em;
+	margin-right: 0em;
+	background: rgb(45, 108, 192);
 }
 
 /* Reduce space if we begin the page with a title. */
@@ -117,7 +123,8 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
+	/*color: rgb(241, 171, 0);*/
+	color: rgb(45, 108, 192);
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -127,7 +134,8 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 165%;
+	color: white;
+	font-size: 175%;
 }
 
 h2 {
@@ -140,6 +148,7 @@ h2 + h3 {
 }
 
 h3 {
+	padding-top: 1em;
 	font-size: 110%;
 	border-bottom: none;
 }
