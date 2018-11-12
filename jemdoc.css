@@ -275,7 +275,7 @@ div.infoblock > div.blockcontent {
 	background: rgb(250, 250, 250);
 }
 
-div.blockcontent p + ul, div.blockcontent p + ol {
+div.blockcontent p + ul, div.blockcontent p + ul.accept, div.blockcontent p + ul.submit, div.blockcontent p + ol {
 	margin-top: 0.4em;
 }
 
