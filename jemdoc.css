@@ -182,7 +182,7 @@ div#footer-text {
 	padding-bottom: 8px;
 }
 
-ul, ol, dl {
+ul, ul.accept, ul.submit, ol, dl {
 	margin-top: 0.2em;
 	padding-top: 0;
 	margin-bottom: 0.8em;
@@ -211,19 +211,23 @@ ul {
 }
 
 ul.submit {
+    list-style-position: outside; 
+    list-style-type: square;
     color:orange;
 }
 
 ul.accept {
+    list-style-position: outside;
+    list-style-type: square;
     color:green;
 }
 
 
-p + ul, p + ol {
+p + ul, p + ul.accept, p + ul.submit, p + ol {
 	margin-top: -0.5em;
 }
 
-li ul,  li ol {
+li ul, li ul.accept, li ul.submit, li ol {
 	margin-top: -0.3em;
 }
 
