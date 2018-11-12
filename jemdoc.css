@@ -207,18 +207,18 @@ dd > *:first-child {
 
 ul {
 	list-style-position: outside;
-	list-style-type: circle;
+	list-style-type: disc;
 }
 
 ul.submit {
     list-style-position: outside; 
-    list-style-type: circle;
+    list-style-type: disc;
     color: orange;
 }
 
 ul.accept {
     list-style-position: outside;
-    list-style-type: circle;
+    list-style-type: disc;
     color: green;
 }
 
