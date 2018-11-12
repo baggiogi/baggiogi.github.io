@@ -211,14 +211,10 @@ ul {
 }
 
 ul.submit {
-    list-style-position: outside;
-    list-style-type:square;
     color:orange;
 }
 
 ul.accept {
-    list-style-position: outside;
-    list-style-type:square;
     color:green;
 }
 
