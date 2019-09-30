@@ -6,6 +6,32 @@ table#tlayout {
     background: white;
 }
 
+table#lezioni tr.r2 { background: hsla(120, 100%, 50%, 0.1); }
+table#lezioni tr.r3 { background: hsla(120, 100%, 50%, 0.1); }
+table#lezioni tr.r4 { background: hsla(120, 100%, 50%, 0.1); }
+table#lezioni tr.r5 { background: hsla(120, 100%, 50%, 0.1); }
+table#lezioni tr.r6 { background: hsla(120, 100%, 50%, 0.1); }
+table#lezioni tr.r7 { background: hsla(120, 100%, 50%, 0.1); }
+table#lezioni tr.r8 { background: hsla(0, 0%, 75%, 0.1); }
+table#lezioni tr.r9 { background: hsla(240,100%,50%,0.1); }
+table#lezioni tr.r10 { background: hsla(240,100%,50%,0.1); }
+table#lezioni tr.r11 { background: hsla(240,100%,50%,0.1); }
+table#lezioni tr.r12 { background: hsla(240,100%,50%,0.1); }
+table#lezioni tr.r13 { background: hsla(0, 0%, 75%, 0.1); }
+table#lezioni tr.r14 { background: hsla(0,100%,50%,0.1); }
+table#lezioni tr.r15 { background: hsla(0,100%,50%,0.1); }
+table#lezioni tr.r16 { background: hsla(0,100%,50%,0.1); }
+table#lezioni tr.r17 { background: hsla(0, 0%, 75%, 0.1); }
+table#lezioni tr.r18 { background: hsla(0,100%,50%,0.1); }
+table#lezioni tr.r19 { background: hsla(0,100%,50%,0.1); }
+table#lezioni tr.r20 { background: hsla(0, 0%, 75%, 0.1); }
+table#lezioni tr.r21 { background: hsla(0,100%,50%,0.1); }
+table#lezioni tr.r22 { background: hsla(0,100%,50%,0.1); }
+table#lezioni tr.r23 { background: hsla(0,100%,50%,0.1); }
+table#lezioni tr.r24 { background: hsla(0,100%,50%,0.1); }
+table#lezioni tr.r25 { background: hsla(0, 0%, 75%, 0.1); }
+
+
 body {
 	background: white;
 	font-family: Optima, serif;
@@ -52,7 +78,7 @@ tt {
 }
 
 pre, tt {
-	font-size: 90%;
+	font-size: 100%;
 	font-family: monaco, monospace;
 }
 
@@ -182,7 +208,7 @@ div#footer-text {
 	padding-bottom: 8px;
 }
 
-ul, ul.accept, ul.submit, ol, dl {
+ul, ol, dl {
 	margin-top: 0.2em;
 	padding-top: 0;
 	margin-bottom: 0.8em;
@@ -207,27 +233,27 @@ dd > *:first-child {
 
 ul {
 	list-style-position: outside;
-	list-style-type: disc;
+	list-style-type: square;
 }
 
 ul.submit {
-    list-style-position: outside; 
-    list-style-type: disc;
-    color: orange;
+    list-style-position: outside;
+    list-style-type:square;
+    color:orange;
 }
 
 ul.accept {
     list-style-position: outside;
-    list-style-type: disc;
-    color: green;
+    list-style-type:square;
+    color:green;
 }
 
 
-p + ul, p + ul.accept, p + ul.submit, p + ol {
+p + ul, p + ol {
 	margin-top: -0.5em;
 }
 
-li ul, li ul.accept, li ul.submit, li ol {
+li ul,  li ol {
 	margin-top: -0.3em;
 }
 
@@ -275,7 +301,7 @@ div.infoblock > div.blockcontent {
 	background: rgb(250, 250, 250);
 }
 
-div.blockcontent p + ul, div.blockcontent p + ul.accept, div.blockcontent p + ul.submit, div.blockcontent p + ol {
+div.blockcontent p + ul, div.blockcontent p + ol {
 	margin-top: 0.4em;
 }
 

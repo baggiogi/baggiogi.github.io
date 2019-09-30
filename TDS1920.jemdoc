@@ -1,0 +1,69 @@
+# jemdoc: menu{MENU}{teaching.html}, showsource 
+# jemdoc: addcss{jemdoc.css}
+= Teoria dei Sistemi 2019/20 --- LM Ingegneria Meccatronica • Univ. Padova
+
+== Informazioni generali
+
+[./download/info_TdS1920.pdf Informazioni e programma indicativo]
+
+[https://didattica.unipd.it/off/2019/LM/IN/IN0529/000ZZ/INP5070928/N0 Pagina e-learning UniPD]
+
+[https://elearning.unipd.it/dtg/course/index.php?categoryid=94 Pagina moodle]
+
+*Ricevimento:*
+
+Dopo lezione o tramite appuntamento e-mail
+
+*Orario lezioni:*
+
+- Lunedì 16:00-18:00, Aula VM3
+- Martedì 11:00-13:00, Aula B2
+
+*Testo di riferimento:*
+
+- M. Bisiacco, S. Braghetto. "Teoria dei sistemi dinamici". /Società Editrice Esculapio/, 2 Ed., 2010.
+
+*Testi per consultazione:*
+
+- E. Fornasini. "Appunti di teoria dei sistemi". /Ed. Libreria Progetto Padova/, 2013.
+- E. Fornasini, G. Marchesini. "Esercizi di teoria dei sistemi". /Ed. Libreria Progetto Padova/, 1997. 
+
+*Calendario esami:*
+
+- I appello: 29\/01\/20 14:00–16:30, Aula VM4-VM5 
+- II appello: 12\/02\/20 14:00–16:30, Aula VM4-VM5 
+- III appello: 08\/07\/20 14:00–16:30, Aula VM4-VM5
+- IV appello: 02\/09\/20 14:00–16:30, Aula VM4-VM5
+
+
+== Lezioni
+
+~~~
+{}{table}{lezioni}
+*lezione*  | *contenuti* | *slides* | *slides annotate* | *testo* | *esercizi suggeriti* | *extra* ||
+01\/10\/19  | introduzione al corso \n concetto di sistema dinamico| [./download/main_lez1.pdf Lezione 1] | -- | -- | -- | -- ||
+07\/10\/19  | classificazione di sistemi e \n rappresentazione di stato | -- | -- | -- | -- | --  ||
+08\/10\/19  | richiami di algebra lineare I | -- | -- | -- | -- | -- ||
+14\/10\/19  | richiami di algebra lineare II | -- | -- | -- | -- | -- ||
+15\/10\/19  | analisi modale tempo continuo | -- | -- | -- | -- | -- ||
+21\/10\/19  | analisi modale tempo discreto | -- | -- | -- | -- | -- ||
+22\/10\/19  | esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
+28\/10\/19  | equilibri, linearizzazione, stabilità | -- | -- | -- | -- | --||
+29\/10\/19  | stabilità e funzioni Lyapunov | -- | -- | -- | -- | --  ||
+04\/11\/19  | metodo di Lyapunov per sistemi lineari | -- | -- | -- | -- | -- ||
+05\/11\/19  | stabilità del linearizzato e\n teorema di Krasowskii | -- | -- | -- | -- | --||
+11\/11\/19  | esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
+12\/11\/19  | raggiungibilità e controllabilità \n a tempo discreto | -- | -- | -- | -- | -- ||
+18\/11\/19  | ingresso ottimo, forma canonica\n e criterio PBH | -- | -- | -- | -- | -- ||
+19\/11\/19  | raggiungibilità e controllabilità \n a tempo continuo | -- | -- | -- | -- | -- ||
+25\/11\/19  | esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
+26\/11\/19  | retroazione dallo stato e \n allocazione autovalori| -- | -- | -- | -- | -- ||
+02\/12\/19  | stabilizzabilità e lemma di Heymann | -- | -- | -- | -- | -- ||
+03\/12\/19  | esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
+09\/12\/19  | osservabilità e ricostruibilità \n a tempo discreto | -- | -- | -- | -- | -- ||
+16\/12\/19  | osservabilità e ricostruibilità \n a tempo continuo | -- | -- | -- | -- | -- ||
+17\/12\/19  | stimatori di stato | -- | -- | -- | -- | -- ||
+07\/01\/20  | sintesi del regolatore | -- | -- | -- | -- | -- ||
+13\/01\/20  | esercizi di ricapitolazione | -- | -- | -- | -- | -- 
+
+~~~
