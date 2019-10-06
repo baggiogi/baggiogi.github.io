@@ -4,11 +4,23 @@
 
 == Informazioni generali
 
+
+~~~
+{}{img_left}{./images/comics.jpg}{state_space_comics}{300}{300}{IMGLINKTARGET}
+*Descrizione:*\n \n
+Il corso si propone di fornire strumenti e tecniche evolute per l'/analisi/ e /controllo/ di sistemi dinamici.\n
+Ci concentreremo sull'approccio in spazio di stato e considereremo, per la gran parte del corso, sistemi lineari e tempo invarianti a tempo continuo e discreto.
+#della forma $\dot{x}(t) = Ax(t)+Bu(t)$, $y(t)= Cx(t)+Du(t)$ (tempo continuo) e $x(t+1)=Ax(t)+Bu(t)$, $y(t)= Cx(t)+Du(t)$ (tempo discreto). 
+Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stabilità, raggiungibilità, osservabilità, etc.) per poi studiare tecniche di controllo in retroazione.\n \n  \n
 [./download/info_TdS1920.pdf Informazioni e programma indicativo]
 
 [https://didattica.unipd.it/off/2019/LM/IN/IN0529/000ZZ/INP5070928/N0 Pagina e-learning UniPD]
 
 [https://elearning.unipd.it/dtg/course/index.php?categoryid=94 Pagina moodle]
+~~~
+
+{{<font color="lightgray",font size="0.5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Image credits: <a href="http://controlcartoons.com">http://controlcartoons.com</a>]</font>}}\n\n 
+
 
 *Ricevimento:*
 
@@ -36,14 +48,15 @@ Dopo lezione o tramite appuntamento e-mail
 - IV appello: 02\/09\/20 14:00–16:30, Aula VM4-VM5
 
 
+
 == Lezioni
 
 ~~~
 {}{table}{lezioni}
 *lezione*  | *contenuti* | *slides* | *slides annotate* | *testo* | *esercizi suggeriti* | *extra* ||
-01\/10\/19  | introduzione al corso \n concetto di sistema dinamico| [./download/main_lez1.pdf Lezione 1] | -- | -- | -- | -- ||
-07\/10\/19  | classificazione di sistemi e \n rappresentazione di stato | -- | -- | -- | -- | --  ||
-08\/10\/19  | richiami di algebra lineare I | -- | -- | -- | -- | -- ||
+01\/10\/19  | introduzione al corso \n concetto di sistema dinamico| [./download/main_lez1.pdf Lezione 1] | -- | -- | -- | video introduttivi sulla \n teoria dei sistemi e del controllo:\n 1. [https://www.youtube.com/watch?v=oBc_BHxw78s why learn control theory] \n 2. [https://www.youtube.com/watch?v=XJLMW6l303g automation] \n 3. [https://www.youtube.com/watch?v=4Y7zG48uHRo&feature=youtu.be controlling self driving cars]  ||
+07\/10\/19  | classificazione di sistemi e \n rappresentazione di stato | [./download/main_lez2.pdf Lezione 2] \n [./download/main_lez2_4p.pdf Lezione 2 (4 x 1)] \n [./download/main_lez2_2pn.pdf Lezione 2 (2 x 1 \+ N)]| -- | § 1.1, 1.2 | [./download/es_lez2.pdf Es. Lezione 2] | --  ||
+08\/10\/19  | richiami di algebra lineare I | [./download/main_lez3.pdf Lezione 3] \n [./download/main_lez3_4p.pdf Lezione 3 (4 x 1)] \n [./download/main_lez3_2pn.pdf Lezione 3 (2 x 1 \+ N)] | -- | § 1.3, 1.4 | [./download/es_lez3.pdf Es. Lezione 3] | -- ||
 14\/10\/19  | richiami di algebra lineare II | -- | -- | -- | -- | -- ||
 15\/10\/19  | analisi modale tempo continuo | -- | -- | -- | -- | -- ||
 21\/10\/19  | analisi modale tempo discreto | -- | -- | -- | -- | -- ||
