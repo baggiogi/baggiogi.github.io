@@ -56,18 +56,18 @@ Dopo lezione o tramite appuntamento e-mail ({{<font color="red">usare sigla [IMC
 01\/10\/19  | introduzione al corso, \n concetto di sistema dinamico| [./download/main_lez1.pdf Lezione 1] | -- | -- | -- | Video introduttivi sulla \n teoria dei sistemi e del controllo:\n • [https://www.youtube.com/watch?v=oBc_BHxw78s why learn control theory] \n • [https://www.youtube.com/watch?v=XJLMW6l303g automation] \n • [https://www.youtube.com/watch?v=4Y7zG48uHRo&feature=youtu.be controlling self driving cars]  ||
 07\/10\/19  | classificazione di sistemi e \n rappresentazione di stato | [./download/main_lez2.pdf Lezione 2] \n [./download/main_lez2_4p.pdf Lezione 2 (4x1)] \n [./download/main_lez2_2pn.pdf Lezione 2 (2x1\+N)]| [./download/main_lez2_ann.pdf Lezione 2] | § 1.1, 1.2 | [./download/es_lez2.pdf Es. Lezione 2] | [https://www.youtube.com/watch?v=hpeKrMG-WP0 Video: Matlab tech talk]\n [https://it.mathworks.com/help/control/ug/state-space-models.html Modelli di stato in Matlab]  ||
 08\/10\/19\n---------\n 14\/10\/19  | esponenziale di matrice e\n richiami di algebra lineare | [./download/main_lez3.pdf Lezione 3 & 4] \n [./download/main_lez3_4p.pdf Lezione 3 & 4 (4x1)] \n [./download/main_lez3_2pn.pdf Lezione 3 & 4 (2x1\+N)] | [./download/main_lez3_ann.pdf Lezione 3] | § 1.3, 1.4 | [./download/es_lez3.pdf Es. Lezione 3 & 4] | [https://www.youtube.com/channel/UCpJGeVBfmf-6S3neeImAw1w/videos Canale YouTube corso\n Algebra Lineare e Geometria\n Prof. Bottacin] ||
-15\/10\/19  | forma di Jordan e \n polinomio minimo | [./download/main_lez5.pdf Lezione 5] \n [./download/main_lez5_4p.pdf Lezione 5 (4x1)] \n [./download/main_lez5_2pn.pdf Lezione 5 (2x1\+N)] | [./download/main_lez5_ann.pdf Lezione 5] | § 1.5, 1.6 \n § 3.3 | [./download/es_lez5.pdf Es. Lezione 5] | -- ||
-21\/10\/19  | analisi modale a tempo\n continuo e discreto| -- | -- | -- | -- | -- ||
-22\/10\/19  | esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
-28\/10\/19  | equilibri, linearizzazione, stabilità | -- | -- | -- | -- | --||
-29\/10\/19  | stabilità e funzioni Lyapunov | -- | -- | -- | -- | --  ||
-04\/11\/19  | metodo di Lyapunov\n per sistemi lineari | -- | -- | -- | -- | -- ||
-05\/11\/19  | stabilità del linearizzato e\n teorema di Krasowskii | -- | -- | -- | -- | --||
-11\/11\/19  | esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
-12\/11\/19  | raggiungibilità e controllabilità \n a tempo discreto | -- | -- | -- | -- | -- ||
-18\/11\/19  | ingresso ottimo, forma canonica\n e criterio PBH | -- | -- | -- | -- | -- ||
-19\/11\/19  | raggiungibilità e controllabilità \n a tempo continuo | -- | -- | -- | -- | -- ||
-25\/11\/19  | esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
+15\/10\/19  | forma di Jordan e \n polinomio minimo | [./download/main_lez5.pdf Lezione 5] \n [./download/main_lez5_4p.pdf Lezione 5 (4x1)] \n [./download/main_lez5_2pn.pdf Lezione 5 (2x1\+N)] | [./download/main_lez5_ann.pdf Lezione 5] | § 1.5, 1.6 \n § 3.3 | [./download/es_lez5.pdf Es. Lezione 5] | Vedere [https://elearning.unipd.it/dtg/course/index.php?categoryid=94 pagina Moodle] \n per approfondimenti \n sulla forma di Jordan ||
+21\/10\/19  | analisi modale, \n evoluzione libera e forzata \n a tempo continuo | [./download/main_lez6.pdf Lezione 6] \n [./download/main_lez6_4p.pdf Lezione 6 (4x1)] \n [./download/main_lez6_2pn.pdf Lezione 6 (2x1\+N)] | -- | § 1.7, 1.8 \n § 3.1 | [./download/es_lez6.pdf Es. Lezione 6] | [http://www.ladispe.polito.it/corsi/contrautoinf270/material/LaplaceT.pdf Tabella riassuntiva su \n Trasformata Laplace] ||
+22\/10\/19  | analisi modale, \n evoluzione libera e forzata \n a tempo discreto | [./download/main_lez7.pdf Lezione 7] \n [./download/main_lez7_4p.pdf Lezione 7 (4x1)] \n [./download/main_lez7_2pn.pdf Lezione 7 (2x1\+N)] | -- | § 3.5, 3.6 | [./download/es_lez7.pdf Es. Lezione 7] | [http://www.ladispe.polito.it/corsi/contrautoinf270/material/ZetaT.pdf Tabella riassuntiva su \n Trasformata Zeta] ||
+28\/10\/19  | esercizi di ricapitolazione | -- | -- | -- | -- | --||
+29\/10\/19  | equilibri, linearizzazione, stabilità | -- | -- | -- | -- | --  ||
+04\/11\/19  | stabilità e funzioni Lyapunov | -- | -- | -- | -- | -- ||
+05\/11\/19  | metodo di Lyapunov\n per sistemi lineari | -- | -- | -- | -- | --||
+11\/11\/19  | stabilità del linearizzato e\n teorema di Krasowskii | -- | -- | -- | -- | -- ||
+12\/11\/19  | esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
+18\/11\/19  | raggiungibilità e controllabilità \n a tempo discreto | -- | -- | -- | -- | -- ||
+19\/11\/19  | ingresso ottimo, forma canonica\n e criterio PBH | -- | -- | -- | -- | -- ||
+25\/11\/19  | raggiungibilità e controllabilità \n a tempo continuo | -- | -- | -- | -- | -- ||
 26\/11\/19  | retroazione dallo stato e \n allocazione autovalori| -- | -- | -- | -- | -- ||
 02\/12\/19  | stabilizzabilità e lemma di Heymann | -- | -- | -- | -- | -- ||
 03\/12\/19  | esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
