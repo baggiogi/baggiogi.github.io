@@ -22,8 +22,10 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 {{<font color="lightgray",font size="0.5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Image credits: <a href="http://controlcartoons.com">http://controlcartoons.com</a>]</font>}}\n\n 
 
 *News:*
-- *23\/10\/19*: Le soluzioni (= risultati finali) degli esercizi suggeriti sono ora disponibili. 
-- *22\/10\/19*: Il quiz Kahoot relativo alla prima parte del corso (/modelli di stato e analisi modale/) si può trovare [https://create.kahoot.it/share/quiz-1-imc-tds-1920/0b51dde2-45a4-413a-90c3-d505a902f0ac qui].
+
+• *23\/10\/19*: Le soluzioni (= risultati finali) degli esercizi suggeriti sono ora disponibili.
+
+• *22\/10\/19*: Il quiz Kahoot relativo alla prima parte del corso (/modelli di stato e analisi modale/) si può trovare [https://create.kahoot.it/share/quiz-1-imc-tds-1920/0b51dde2-45a4-413a-90c3-d505a902f0ac qui].
 == \ 
 
 
@@ -67,7 +69,7 @@ Esercizi e temi d'esame risolti degli anni scorsi sono disponibili nella [http:/
 15\/10\/19  | Forma di Jordan e \n polinomio minimo | [./download/main_lez5.pdf Lezione 5] \n [./download/main_lez5_4p.pdf Lezione 5 (4x1)] \n [./download/main_lez5_2pn.pdf Lezione 5 (2x1\+N)] | [./download/main_lez5_ann.pdf Lezione 5] | § 1.5, 1.6 \n § 3.3 | [./download/es_lez5.pdf Es. Lezione 5] | Vedere [https://elearning.unipd.it/dtg/course/index.php?categoryid=94 pagina Moodle] \n per approfondimenti \n sulla forma di Jordan ||
 21\/10\/19  | Analisi modale, \n evoluzione libera e forzata \n a tempo continuo | [./download/main_lez6.pdf Lezione 6] \n [./download/main_lez6_4p.pdf Lezione 6 (4x1)] \n [./download/main_lez6_2pn.pdf Lezione 6 (2x1\+N)] | [./download/main_lez6_ann.pdf Lezione 6] | § 1.7, 1.8 \n § 3.1 | [./download/es_lez6.pdf Es. Lezione 6] | [http://www.ladispe.polito.it/corsi/contrautoinf270/material/LaplaceT.pdf Tabella riassuntiva su \n Trasformata Laplace] ||
 22\/10\/19  | Analisi modale, \n evoluzione libera e forzata \n a tempo discreto | [./download/main_lez7.pdf Lezione 7] \n [./download/main_lez7_4p.pdf Lezione 7 (4x1)] \n [./download/main_lez7_2pn.pdf Lezione 7 (2x1\+N)] | [./download/main_lez7_ann.pdf Lezione 7] | § 3.5, 3.6 | [./download/es_lez7.pdf Es. Lezione 7] | [http://www.ladispe.polito.it/corsi/contrautoinf270/material/ZetaT.pdf Tabella riassuntiva su \n Trasformata Zeta] ||
-28\/10\/19  | Esercizi di ricapitolazione | -- | -- | -- | -- | [https://create.kahoot.it/share/quiz-1-imc-tds-1920/0b51dde2-45a4-413a-90c3-d505a902f0ac Quiz Kahoot] ||
+28\/10\/19  | Esercizi di ricapitolazione | [./download/main_lez8.pdf Lezione 8] \n [./download/main_lez8_4p.pdf Lezione 8 (4x1)] \n [./download/main_lez8_2pn.pdf Lezione 8 (2x1\+N)] | -- | -- | -- | [https://create.kahoot.it/share/quiz-1-imc-tds-1920/0b51dde2-45a4-413a-90c3-d505a902f0ac Quiz Kahoot] ||
 29\/10\/19  | Equilibri, linearizzazione, stabilità | -- | -- | -- | -- | --  ||
 04\/11\/19  | Stabilità e funzioni Lyapunov | -- | -- | -- | -- | -- ||
 05\/11\/19  | Metodo di Lyapunov\n per sistemi lineari | -- | -- | -- | -- | --||
