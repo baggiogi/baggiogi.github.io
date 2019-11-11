@@ -23,7 +23,9 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 
 *News:*
 
-• *09\/11\/19*: {{<font color="red"> Lunedì 11/11 ci saranno due lezioni alle ore 11:00-12:30 (aula B2) e alle 14:00-15:30 (aula VM4)!</font>}}
+• *11\/11\/19*: Il quiz Kahoot relativo alla seconda parte del corso (/stabilità di sistemi non lineari/) si può trovare [https://create.kahoot.it/share/quiz-2-imc-tds-1920/3b835ba2-99c3-40db-a30d-43d499ef81c4 qui].
+
+• *09\/11\/19*: Lunedì 11/11 ci saranno due lezioni alle ore 11:00-12:30 (aula B2) e alle 14:00-15:30 (aula VM4)!
 
 • *05\/11\/19*: Le soluzioni degli esercizi relativi alle lezioni 6\/7\/8 contenevano alcuni errori e sono state aggiornate.
 
@@ -77,7 +79,7 @@ Esercizi e temi d'esame risolti degli anni scorsi sono disponibili nella [http:/
 29\/10\/19  | Equilibri, stabilità,\n linearizzazione | [./download/main_lez9.pdf Lezione 9] \n [./download/main_lez9_4p.pdf Lezione 9 (4x1)] \n [./download/main_lez9_2pn.pdf Lezione 9 (2x1\+N)] | [./download/main_lez9_ann.pdf Lezione 9] | § 2.1, 2.2, 2.5 \n § 3.2 | [./download/es_lez9.pdf Es. Lezione 9] | [https://mathlets.org/mathlets/linear-phase-portraits-matrix-entry/ Ritratto di fase di\n sistemi lineari 2D] ||
 04\/11\/19  | Teorema di linearizzazione e \n Teorema di Lyapunov | [./download/main_lez10.pdf Lezione 10] \n [./download/main_lez10_4p.pdf Lezione 10 (4x1)] \n [./download/main_lez10_2pn.pdf Lezione 10 (2x1\+N)] | [./download/main_lez10_ann.pdf Lezione 10] | § 2.3, 2.6 | [./download/es_lez10.pdf Es. Lezione 10] | [https://www.geogebra.org/m/ZFYYEf3A Ritratto di fase \n pendolo semplice]\n  [https://www.geogebra.org/m/utcMvuUy Ritratto di fase di\n sistemi non lineari 2D] ||
 05\/11\/19  | Teorema di Krasowskii e \n Teorema di Lyapunov\n per sistemi lineari | [./download/main_lez11.pdf Lezione 11] \n [./download/main_lez11_4p.pdf Lezione 11 (4x1)] \n [./download/main_lez11_2pn.pdf Lezione 11 (2x1\+N)] | [./download/main_lez11_ann.pdf Lezione 11] | § 2.3, 2.4., 2.7 | [./download/es_lez11.pdf Es. Lezione 11] | Eq. di Lyapunov in Matlab: \n [https://www.mathworks.com/help/control/ref/lyap.html tempo continuo] \n [https://www.mathworks.com/help/control/ref/dlyap.html tempo discreto] ||
-11\/11\/19  | Esercizi di ricapitolazione | [./download/main_lez12.pdf Lezione 12] \n [./download/main_lez12_4p.pdf Lezione 12 (4x1)] \n [./download/main_lez12_2pn.pdf Lezione 12 (2x1\+N)] | -- | -- | -- | -- ||
+11\/11\/19  | Esercizi di ricapitolazione | [./download/main_lez12.pdf Lezione 12] \n [./download/main_lez12_4p.pdf Lezione 12 (4x1)] \n [./download/main_lez12_2pn.pdf Lezione 12 (2x1\+N)] | [./download/main_lez12_ann.pdf Lezione 12] | -- | -- | [https://create.kahoot.it/share/quiz-2-imc-tds-1920/3b835ba2-99c3-40db-a30d-43d499ef81c4 Quiz Kahoot] ||
 11\/11\/19\n------\n 12\/11\/19  | Raggiungibilità e controllabilità \n a tempo discreto | [./download/main_lez13.pdf Lezione 13 & 14] \n [./download/main_lez13_4p.pdf Lezione 13 & 14 (4x1)] \n [./download/main_lez13_2pn.pdf Lezione 13 & 14 (2x1\+N)] | -- | § 4.1--4.5 | [./download/es_lez13.pdf Es. Lezione 13 & 14] | -- ||
 18\/11\/19  | Raggiungibilità e controllabilità \n a tempo continuo | -- | -- | -- | -- | -- ||
 19\/11\/19  | Esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
