@@ -23,10 +23,10 @@ table#lezioni tr.r15 { background: hsla(0,100%,50%,0.1); }
 table#lezioni tr.r16 { background: hsla(0,0%,75%,0.1); }
 table#lezioni tr.r17 { background: hsla(0,100%,50%,0.1); }
 table#lezioni tr.r18 { background: hsla(0,100%,50%,0.1); }
-table#lezioni tr.r19 { background: hsla(0, 0%, 75%, 0.1); }
-table#lezioni tr.r20 { background: hsla(0,100%,50%,0.1); }
-table#lezioni tr.r21 { background: hsla(0, 0%, 75%, 0.1); }
-table#lezioni tr.r22 { background: hsla(0, 0%, 75%, 0.1); }
+table#lezioni tr.r19 { background: hsla(0, 100%, 50%, 0.1); }
+table#lezioni tr.r20 { background: hsla(0,0%,75%,0.1); }
+table#lezioni tr.r21 { background: hsla(0, 0%, 0%, 0.75); }
+table#lezioni tr.r22 { background: hsla(0, 0%, 0%, 0.75); }
 
 body {
 	background: white;

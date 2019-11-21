@@ -66,7 +66,7 @@ Dopo lezione o tramite appuntamento e-mail ({{<font color="red">usare sigla [IMC
 
 Esercizi e temi d'esame risolti degli anni scorsi sono disponibili alla [http://automatica.dei.unipd.it/people/zampieri/teaching/teoria-dei-sistemi-per-meccatronici.html pagina web] del Prof. Zampieri.
 
-== Lezioni
+== Lezioni e materiale didattico
 
 ~~~
 {}{table}{lezioni}
@@ -87,10 +87,10 @@ Esercizi e temi d'esame risolti degli anni scorsi sono disponibili alla [http://
 19\/11\/19\n------\n 19\/11\/19  | Retroazione dallo stato  | [./download/main_lez16.pdf Lezione 16 & 17] \n [./download/main_lez16_4p.pdf Lezione 16 & 17 (4x1)] \n [./download/main_lez16_2pn.pdf Lezione 16 & 17 (2x1\+N)]  | [./download/main_lez16_ann.pdf Lezione 16 & 17] | § 3.4\n § 5.1, 5.2, 5.3 | [./download/es_lez16.pdf Es. Lezione 16 & 17] | [https://www.youtube.com/watch?v=FurC2unHeXI Video: open-loop control]\n [https://www.youtube.com/watch?v=5NVjIIi9fkY Video: feedback control] ||
 25\/11\/19  | Esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
 26\/11\/19  | Osservabilità e ricostruibilità \n di sistemi lineari | -- | -- | -- | -- | -- ||
-02\/12\/19  | Stimatori di stato | -- | -- | -- | -- | -- ||
-03\/12\/19  | Esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
-09\/12\/19  | Sintesi del regolatore | -- | -- | -- | -- | -- ||
-16\/12\/19  | Esercizi in preparazione\n all'esame | -- | -- | -- | -- | -- ||
-17\/12\/20  | Esercizi in preparazione\n all'esame | -- | -- | -- | -- | -- 
+02\/12\/19  | Stimatori dello stato | -- | -- | -- | -- | -- ||
+03\/12\/19  | Sintesi del regolatore | -- | -- | -- | -- | -- ||
+09\/12\/19  | Esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
+{{<font color="white">16/12/19</font>}}  | {{<font color="white">Esercizi in preparazione\n all'esame</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} ||
+{{<font color="white">17/12/20</font>}}  | {{<font color="white">Esercizi in preparazione\n all'esame</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}}
 
 ~~~
