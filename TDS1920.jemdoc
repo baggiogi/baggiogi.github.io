@@ -8,7 +8,7 @@
 ~~~
 {}{img_left}{./images/comics.jpg}{state_space_comics}{300}{300}{IMGLINKTARGET}
 *Descrizione:*\n \n
-Il corso si propone di fornire strumenti e tecniche evolute per l'/analisi/ e /controllo/ di sistemi dinamici.\n
+Il corso si propone di fornire strumenti e tecniche evolute per l'/analisi/ e il /controllo/ di sistemi dinamici.\n
 Ci concentreremo sull'approccio in spazio di stato e considereremo, per la gran parte del corso, sistemi lineari e tempo invarianti a tempo continuo e discreto.
 #della forma $\dot{x}(t) = Ax(t)+Bu(t)$, $y(t)= Cx(t)+Du(t)$ (tempo continuo) e $x(t+1)=Ax(t)+Bu(t)$, $y(t)= Cx(t)+Du(t)$ (tempo discreto). 
 Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stabilità, raggiungibilità, osservabilità, etc.) per poi studiare tecniche di controllo in retroazione.\n \n  \n
