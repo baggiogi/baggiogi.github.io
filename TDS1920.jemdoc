@@ -25,11 +25,13 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 
 *News:*
 
+• *14\/12\/19*: {{<font color="red">Lunedì 16/12 non ci sarà lezione mentre martedì 17/12 ci saranno due lezioni (9:00-10:30 & 10:45-12:15, aula B2)!</font>}}
+
 • *08\/12\/19*: {{<font color="red">Il programma dettagliato del corso (fino alla lezione 21) è ora disponibile (vedi link sopra)!</font>}}
 
-• *03\/12\/19*: {{<font color="red">Lunedì 9/12 e martedì 10/12 non ci sarà lezione!</font>}}
+• *03\/12\/19*: Lunedì 9\/12 e martedì 10\/12 non ci sarà lezione!
 
-• *16\/11\/19*: Martedì 19/11 ci saranno due lezioni alle ore 11:00-12:30 (aula B2) e alle 14:00-15:30 (aula B2)!
+• *16\/11\/19*: Martedì 19\/11 ci saranno due lezioni alle ore 11:00-12:30 (aula B2) e alle 14:00-15:30 (aula B2)!
 
 • *11\/11\/19*: Il quiz Kahoot relativo alla seconda parte del corso (/stabilità di sistemi non lineari/) si può trovare [https://create.kahoot.it/share/quiz-2-imc-tds-1920/3b835ba2-99c3-40db-a30d-43d499ef81c4 qui].
 
@@ -95,8 +97,8 @@ Esercizi e temi d'esame risolti degli anni scorsi sono disponibili alla [http://
 26\/11\/19  | Osservabilità e ricostruibilità \n di sistemi lineari | [./download/main_lez19.pdf Lezione 19] \n [./download/main_lez19_4p.pdf Lezione 19 (4x1)] \n [./download/main_lez19_2pn.pdf Lezione 19 (2x1\+N)] | [./download/main_lez19_ann.pdf Lezione 19] | § 6.3, 6.4, 6.5 | [./download/es_lez19.pdf Es. Lezione 19] | [https://www.mathworks.com/help/control/ref/obsv.html Matrice di osservabilità\n in Matlab] ||
 02\/12\/19  | Dualità e\n stimatori dello stato | [./download/main_lez20.pdf Lezione 20] \n [./download/main_lez20_4p.pdf Lezione 20 (4x1)] \n [./download/main_lez20_2pn.pdf Lezione 20 (2x1\+N)] | [./download/main_lez20_ann.pdf Lezione 20] | § 6.1, 6.2, 6.5, 6.6 | [./download/es_lez20.pdf Es. Lezione 20] | • [http://www.dii.unimo.it/~zanasi/didattica/Teoria_dei_Sistemi/Luc_TDS_2005_Struttura_duale.pdf Tabella riassuntiva\n sulla dualità]\n • [https://it.mathworks.com/help/control/ref/estim.html Stimatori dello stato in Matlab] ||
 03\/12\/19  | Sintesi del regolatore | [./download/main_lez21.pdf Lezione 21] \n [./download/main_lez21_4p.pdf Lezione 21 (4x1)] \n [./download/main_lez21_2pn.pdf Lezione 21 (2x1\+N)] | [./download/main_lez21_ann.pdf Lezione 21] | § 7.1 | [./download/es_lez21.pdf Es. Lezione 21] | [https://it.mathworks.com/help/control/ref/reg.html Regolatore in Matlab] ||
-*\/12\/19  | Esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
-{{<font color="white">*/*/*</font>}}  | {{<font color="white">Esercizi in preparazione\n all'esame</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} ||
-{{<font color="white">*/*/*</font>}}  | {{<font color="white">Esercizi in preparazione\n all'esame</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}}
+17\/12\/19  | Esercizi di ricapitolazione | -- | -- | -- | -- | -- ||
+{{<font color="white">17/12/19</font>}}  | {{<font color="white">Esercizi in preparazione\n all'esame</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} ||
+{{<font color="white">*/01/20</font>}}  | {{<font color="white">Esercizi in preparazione\n all'esame</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}} | {{<font color="white">–</font>}}
 
 ~~~
