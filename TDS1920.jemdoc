@@ -11,7 +11,9 @@
 Il corso si propone di fornire strumenti e tecniche evolute per l'/analisi/ e il /controllo/ di sistemi dinamici.\n
 Ci concentreremo sull'approccio in spazio di stato e considereremo, per la gran parte del corso, sistemi lineari e tempo invarianti a tempo continuo e discreto.
 #della forma $\dot{x}(t) = Ax(t)+Bu(t)$, $y(t)= Cx(t)+Du(t)$ (tempo continuo) e $x(t+1)=Ax(t)+Bu(t)$, $y(t)= Cx(t)+Du(t)$ (tempo discreto). 
-Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stabilità, raggiungibilità, osservabilità, etc.) per poi studiare tecniche di controllo in retroazione.\n \n  \n
+Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stabilità, raggiungibilità, osservabilità, etc.) per poi studiare tecniche di controllo in retroazione. \n {{<font color="lightgray",font size="0.5">[Image credits: <a href="http://controlcartoons.com">http://controlcartoons.com</a>]</font>}}
+
+\n 
 [./download/info_TdS1920.pdf Informazioni e programma indicativo]
 
 [./download/programma.pdf {{<font color="red"> Programma dettagliato</font>}}]
@@ -21,7 +23,7 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 [https://elearning.unipd.it/dtg/enrol/index.php?id=1067 Pagina moodle DTG]
 ~~~
 
-{{<font color="lightgray",font size="0.5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Image credits: <a href="http://controlcartoons.com">http://controlcartoons.com</a>]</font>}}\n\n 
+
 
 *News:*
 
