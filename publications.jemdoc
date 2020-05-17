@@ -1,39 +1,667 @@
 # jemdoc: menu{MENU}{publications.html}, showsource 
 = Publications & Preprints
 
-=== Journal Papers
+=== Journal Papers {{<span style="font-size: 12pt;font-weight:normal"> (<span style="color: black"> Published</span> / <span style="color: green"> To appear</span> / <span style="color: orange"> Submitted</span> )</span>}}
 
-- [https://sites.google.com/site/tommasomenara/home T. Menara], _G. Baggio_, [https://www.danisbassett.com/ D. S. Bassett], and [http://www.fabiopas.it F. Pasqualetti] \n “Stability Conditions for Cluster Synchronization in Networks of Kuramoto Oscillators”\n /IEEE Transactions on Control of Network Systems/, 2018. Note: Submitted. \[[https://arxiv.org/abs/1806.06083 arXiv]\] \n
 
-- _G. Baggio_, [http://www.dei.unipd.it/~augusto/ A. Ferrante], and [https://sites.google.com/site/rsepulchre/ R. Sepulchre]\n “Conal Distances Between Rational Spectral Densities”\n /IEEE Transactions on Automatic Control/, 2018. Note: To appear. \[[http://arxiv.org/abs/1708.02818 arXiv]\] \n
+{{
+<ul class="submit">
+<li><p><span style="color: black">
+<u>G. Baggio</u>, 
+<a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, 
+and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a>  <br />
+“Data-Driven Control of Complex Networks”<br />
+2020.  Note: <span style="color: orange"> Submitted</span>. 
+</li>
+<a href="https://arxiv.org/abs/2003.12189" target=&ldquo;blank&rdquo;>[arXiv]</a> <a href="https://github.com/baggiogi/data_driven_control" target=&ldquo;blank&rdquo;>[code]</a>
+</ul>
+}}
 
-- B. Zhu and _G. Baggio_\n “On the Existence of a Solution to a Spectral Estimation Problem /à la/ Byrnes–Georgiou–Lindquist” \n /IEEE Transactions on Automatic Control/, 2018. Note: To appear. \[[http://arxiv.org/abs/1709.09012 arXiv]\] \n
+{{
+<ul class="accept">
+<li><p><span style="color: black">
+<u>G. Baggio</u>, 
+V. Rutten, 
+<a href="https://ghennequin.github.io" target=&ldquo;blank&rdquo;>G. Hennequin</a>, and 
+<a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
+“Efficient Communication over Complex Dynamical Networks: The Role of Matrix Non-Normality” <br />
+<i>Science Advances</i>, 2020.  Note: <span style="color: green"> To appear</span>. 
+</li>
+<a href="https://arxiv.org/abs/1904.02447" target=&ldquo;blank&rdquo;>[arXiv]</a> <a href="https://github.com/baggiogi/commun_complex_networks" target=&ldquo;blank&rdquo;>[code]</a>
+</ul>
+}}
 
-- _G. Baggio_ and [http://www.dei.unipd.it/~augusto/ A. Ferrante] \n “Parametrization of Minimal Spectral Factors of Discrete-Time Rational Spectral Densities”\n /IEEE Transactions on Automatic Control/, 2018. Note: To appear. \[[http://arxiv.org/abs/1609.02711 arXiv]\] \n
+{{
+<ul>
+<li><p><span style="color: black">
+<a href="https://tommasomenara.com" target=&ldquo;blank&rdquo;>T. Menara</a>, 
+<u>G. Baggio</u>, 
+<a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, 
+and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a>  <br /> 
+“Conditions for Feedback Linearization of Network Systems” <br /> 
+<i>IEEE Control Systems Letters</i>, vol. 4, no. 3, pp. 578-583, July 2020. <br />
+</span>
+</p>
+</li>
+<a href="https://ieeexplore.ieee.org/document/8663340" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @article{TM-GB-DSB-FP:20a, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Conditions for Feedback Linearization of Network Systems}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Menara, Tommaso and Baggio, Giacomo and Bassett, Danielle S and Pasqualetti, Fabio}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Control Systems Letters}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {4}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {3}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {578--583}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2020} <br/>
+}</p>
+</div>
+</ul>
+}}
 
-- _G. Baggio_ \n “Further Results on the Convergence of the Pavon–Ferrante Algorithm for Spectral Estimation” \n /IEEE Transactions on Automatic Control/, 2018. Note: To appear. \[[http://arxiv.org/abs/1612.03570 arXiv]\] \n
 
-- N. Bof, _G. Baggio_, and [http://automatica.dei.unipd.it/people/zampieri.html S. Zampieri] \n “On the Role of Network Centrality in the Controllability of Complex Networks”\n /IEEE Transactions on Control of Network Systems/, vol. 4, no. 3, pp. 643-653, Sept. 2017. \[[http://arxiv.org/abs/1509.04154 arXiv]\]  \[[http://ieeexplore.ieee.org/document/7447762 online]\] \n
+{{
+<ul>
+<li><p><span style="color: black">
+<a href="https://tommasomenara.com" target=&ldquo;blank&rdquo;>T. Menara</a>, 
+<u>G. Baggio</u>, 
+<a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, and 
+<a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a> <br /> 
+“Stability Conditions for Cluster Synchronization in Networks of Heterogenous Kuramoto Oscillators” <br /> 
+<i>IEEE Transactions on Control of Network Systems</i>, vol. 7, no. 1, pp. 302-314, March 2020.  <br /></span></p>
+</span>
+</p>
+</li>
+<a href="https://arxiv.org/abs/1806.06083" target=&ldquo;blank&rdquo;>[arXiv]</a> 
+<a href="https://ieeexplore.ieee.org/document/8663340" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @article{TM-GB-DSB-FP:20b, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Stability Conditions for Cluster Synchronization in Networks of Heterogeneous {K}uramoto Oscillators}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Menara, Tommaso and Baggio, Giacomo and Bassett, Danielle S and Pasqualetti, Fabio}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Transactions on Control of Network Systems}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {7}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {1}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {302-314}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2020} <br/>
+}</p>
+</div>
+</ul>
+}}
 
-- _G. Baggio_ and [http://www.dei.unipd.it/~augusto/ A. Ferrante] \n “On Minimal Spectral Factors with Zeroes and Poles lying on Prescribed Regions” \n /IEEE Transactions on Automatic Control/, vol. 61, no. 8, pp. 2251-2255, Aug. 2016. \[[http://arxiv.org/abs/1506.00883 arXiv]\] \[[http://ieeexplore.ieee.org/document/7286755 online]\] \n
+{{
+<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u>, 
+V. Katewa, and 
+<a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a> <br /> 
+“Data-Driven Minimum-Energy Controls for Linear Systems”<br /> 
+<i>IEEE Control Systems Letters</i>, vol. 3, no. 3, pp.  589-594, July 2019. <br /></span></p>
+</span>
+</p>
+</li>
+<a href="https://arxiv.org/abs/1902.02228" target=&ldquo;blank&rdquo;>[arXiv]</a>
+<a href="https://ieeexplore.ieee.org/document/8703172" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @article{GB-VK-FP:19, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Data-Driven Minimum-Energy Controls for Linear Systems}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Katewa, Vaibhav and Pasqualetti, Fabio}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Control Systems Letters}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {3}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {3}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {589-594}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
+}</p>
+</div>
+</ul>
+}}
 
-- _G. Baggio_ and [http://www.dei.unipd.it/~augusto/ A. Ferrante] \n “On the Factorization of Rational Discrete-Time Spectral Densities”\n /IEEE Transactions on Automatic Control/, vol. 61, no. 4, pp. 969-981, April 2016. \[[http://arxiv.org/abs/1410.0765 arXiv]\] \[[http://ieeexplore.ieee.org/document/7128353 online]\] \n
+{{
+<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u>, 
+<a href="http://www.dei.unipd.it/~augusto/" target=&ldquo;blank&rdquo;>A. Ferrante</a>, and 
+<a href="https://sites.google.com/site/rsepulchre/" target=&ldquo;blank&rdquo;>R. Sepulchre</a> <br /> 
+“Conal Distances Between Rational Spectral Densities”<br /> 
+<i>IEEE Transactions on Automatic Control</i>, vol. 64, no. 5, pp. 1848-1857, May 2019. <br /></span></p>
+</span>
+</p>
+</li>
+<a href="http://arxiv.org/abs/1708.02818" target=&ldquo;blank&rdquo;>[arXiv]</a>
+<a href="https://github.com/baggiogi/finsler-speech-morphing" target=&ldquo;blank&rdquo;>[code]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @article{GB-AF-RS:19, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Conal Distances Between Rational Spectral Densities}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Ferrante, Augusto and Sepulchre, Rodolphe}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Transactions on Automatic Control}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {64}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {5}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {1848-1857}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
+}</p>
+</div>
+</ul>
+}}
 
-=== Conference Papers
+{{
+<ul>
+<li><p><span style="color: black">
+B. Zhu and 
+<u>G. Baggio</u><br /> 
+“On the Existence of a Solution to a Spectral Estimation Problem <i>à la</i> Byrnes–Georgiou–Lindquist” <br /> 
+<i>IEEE Transactions on Automatic Control</i>, vol. 64, no. 2, pp. 820-825, Feb. 2019. 
+ <br /></span></p>
+</span>
+</p>
+</li>
+<a href="http://arxiv.org/abs/1709.09012" target=&ldquo;blank&rdquo;>[arXiv]</a>
+<a href="http://ieeexplore.ieee.org/document/8359301" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @article{BZ-GB:19, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Existence of a Solution to a Spectral Estimation Problem {\'a} la {B}yrnes–{G}eorgiou–{L}indquist}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Zhu, Bin and Baggio, Giacomo}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Transactions on Automatic Control}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {64}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {2}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {820-825}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
+}</p>
+</div>
+</ul>
+}}
 
-- _G. Baggio_, [https://ghennequin.github.io G. Hennequin], and [http://automatica.dei.unipd.it/people/zampieri.html S. Zampieri]\n
- “Information Transmission in Dynamical Networks: The Normal Network Case”\n
- /IEEE Conference on Decision and Control (CDC)/,  2018. Note: Submitted. \n
+{{
+<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u> and 
+<a href="http://www.dei.unipd.it/~augusto/" target=&ldquo;blank&rdquo;>A. Ferrante</a> <br /> 
+“Parametrization of Minimal Spectral Factors of Discrete-Time Rational Spectral Densities” <br /> 
+<i>IEEE Transactions on Automatic Control</i>, vol. 64, no. 1, pp. 396-403, Jan. 2019. 
+<br /></span></p>
+</span>
+</p>
+</li>
+<a href="http://arxiv.org/abs/1609.02711" target=&ldquo;blank&rdquo;>[arXiv]</a>
+<a href="http://ieeexplore.ieee.org/document/8344760" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @article{GB-AF:19, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Parametrization of Minimal Spectral Factors of Discrete-Time Rational Spectral Densities}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Ferrante, Augusto}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Transactions on Automatic Control}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {64}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {1}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {396-403}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
+}</p>
+</div>
+</ul>
+}}
 
-- _G. Baggio_ and [http://automatica.dei.unipd.it/people/zampieri.html S. Zampieri]\n “On the Relation between Non-normality and Diameter in Linear Dynamical Networks”\n /European Control Conference (ECC)/, Limassol, Cyprus, 2018.\n /*(Best Student Paper Award Winner)*/ \n
+{{
+<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u> <br /> 
+“Further Results on the Convergence of the Pavon–Ferrante Algorithm for Spectral Estimation” <br /> 
+<i>IEEE Transactions on Automatic Control</i>, vol. 63, no. 10, pp. 3510-3515, Oct. 2018. 
+<br /></span></p>
+</span>
+</p>
+</li>
+<a href="http://arxiv.org/abs/1612.03570" target=&ldquo;blank&rdquo;>[arXiv]</a>  
+<a href="http://ieeexplore.ieee.org/document/8264693" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @article{GB:19, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Further Results on the Convergence of the {P}avon–{F}errante Algorithm for Spectral Estimation}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Transactions on Automatic Control}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {63}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {10}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {3510-3515}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2018} <br/>
+}</p>
+</div>
+</ul>
+}}
 
-- [http://automatica.dei.unipd.it/people/michieletto.html G. Michieletto], S. Milani, [http://automatica.dei.unipd.it/people/cenedese.html A. Cenedese], and _G. Baggio_ \n “Improving Consensus-based Distributed Camera Calibration via Edge Pruning and Graph Traversal Initialization”\n /IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, Calgary, Canada, 2018. \n
+{{
+<ul>
+<li><p><span style="color: black">
+N. Bof, 
+<u>G. Baggio</u>, and 
+<a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a> <br /> 
+“On the Role of Network Centrality in the Controllability of Complex Networks”<br /> 
+<i>IEEE Transactions on Control of Network Systems</i>, vol. 4, no. 3, pp. 643-653, Sept. 2017. 
+<br /></span></p>
+</span>
+</p>
+</li>
+<a href="http://arxiv.org/abs/1509.04154" target=&ldquo;blank&rdquo;>[arXiv]</a> 
+<a href="http://ieeexplore.ieee.org/document/7447762" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @article{NB-GB-SZ:17, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Role of Network Centrality in the Controllability of Complex Networks}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Bof, Nicoletta and Baggio, Giacomo and Zampieri, Sandro}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Transactions on Control of Network Systems}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {4}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {3}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {643-653}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2017} <br/>
+}</p>
+</div>
+</ul>
+}}
 
-- _G. Baggio_ and [https://sites.google.com/site/rsepulchre/ R. Sepulchre]\n “Stochastic LTI Processes: a Behavioral Perspective”\n /Proceedings of 20th IFAC World Congress/, Toulouse, France, 2017. \[[http://www.sciencedirect.com/science/article/pii/S2405896317310108 online]\] \n
+{{
+<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u> and 
+<a href="http://www.dei.unipd.it/~augusto/" target=&ldquo;blank&rdquo;>A. Ferrante</a> <br /> 
+“On Minimal Spectral Factors with Zeroes and Poles lying on Prescribed Regions” <br /> 
+<i>IEEE Transactions on Automatic Control</i>, vol. 61, no. 8, pp. 2251-2255, Aug. 2016. 
+<br /></span></p>
+</span>
+</p>
+</li>
+<a href="http://arxiv.org/abs/1506.00883" target=&ldquo;blank&rdquo;>[arXiv]</a>
+<a href="http://ieeexplore.ieee.org/document/7286755" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @article{GB-AF:16b, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On Minimal Spectral Factors with Zeroes and Poles lying on Prescribed Regions}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Ferrante, Augusto}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Transactions on Automatic Control}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {61}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {8}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {2251-2255}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2016} <br/>
+}</p>
+</div>
+</ul>
+}}
 
-- _G. Baggio_\n “On the Convergence of a Matricial Fixed-Point Iteration Connected with Spectral Estimation”\n /Proceedings of 20th IFAC World Congress/, Toulouse, France, 2017. \[[http://www.sciencedirect.com/science/article/pii/S2405896317320785 online]\]\n
+{{
+<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u> and 
+<a href="http://www.dei.unipd.it/~augusto/" target=&ldquo;blank&rdquo;>A. Ferrante</a> <br /> 
+“On the Factorization of Rational Discrete-Time Spectral Densities”<br /> 
+<i>IEEE Transactions on Automatic Control</i>, vol. 61, no. 4, pp. 969-981, April 2016. 
+<br /></span></p>
+</span>
+</p>
+</li>
+<a href="http://arxiv.org/abs/1410.0765" target=&ldquo;blank&rdquo;>[arXiv]</a>
+<a href="http://ieeexplore.ieee.org/document/7128353" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @article{GB-AF:16a, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Factorization of Rational Discrete-Time Spectral Densities}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Ferrante, Augusto}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Transactions on Automatic Control}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {61}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {4}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {969-981}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2016} <br/>
+}</p>
+</div>
+</ul>
+}}
+ 
+=== Conference Papers {{<span style="font-size: 12pt;font-weight:normal"> (<span style="color: black"> Published</span> / <span style="color: green"> To appear</span> / <span style="color: orange"> Submitted</span> )</span>}}
 
-- _G. Baggio_ and [https://sites.google.com/site/rsepulchre/ R. Sepulchre]\n “Stochastic Processes: a Behavioral Perspective”\n /Workshop - Biological Control Across Scales/, Cambridge, UK, 27-28 June 2016. \[[download/BCAS-poster.pdf Poster]\]\n
 
-- _G. Baggio_, [http://www.dei.unipd.it/~ticozzi/ F. Ticozzi], and [https://sites.dartmouth.edu/lorenzaviola-group/ L. Viola]\n “Quantum State Preparation by Controlled Dissipation in Finite Time: From Classical to Quantum Controllers”\n /IEEE Conference on Decision and Control (CDC)/, Maui, HI, USA, 2012. \[[http://arxiv.org/abs/1209.5568 arXiv]\] \[[http://ieeexplore.ieee.org/document/6426787 online]\] \n
+{{
+<ul class="submit">
+<li><p><span style="color: black">
+<u>G. Baggio</u> and 
+<a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>  <br />
+“The Numerical Abscissa as an Indicator of Network Performance”<br />
+2020.  Note: <span style="color: orange"> Submitted</span>. 
+</li>
+</ul>
+}}
 
+
+{{
+<ul class="accept">
+<li><p><span style="color: black">
+<u>G. Baggio</u> and 
+<a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
+“Learning Minimum-Energy Controls from Heterogeneous Data”<br /> 
+<i>American Control Conference (ACC)</i>, Denver, CO, USA, 2020. Note: <span style="color: green"> To appear</span>. <br /></span></p>
+</li>
+</ul>
+}}
+
+{{
+<ul>
+<li><p><span style="color: black">
+<a href="https://tommasomenara.com" target=&ldquo;blank&rdquo;>T. Menara</a>, 
+<u>G. Baggio</u>, 
+<a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, and 
+<a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
+“A Framework to Control Functional Connectivity in the Human Brain”<br /> 
+<i>IEEE Conference on Decision and Control (CDC)</i>, Nice, France, 2019.  <br /></span></p>
+</span>
+</p>
+</li>
+<a href="https://arxiv.org/abs/1904.08805" target=&ldquo;blank&rdquo;>[arXiv]</a>
+<a href="https://ieeexplore.ieee.org/document/9029223" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @inproceedings{TM-GB-DSB-FP:19b, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {A Framework to Control Functional Connectivity in the Human Brain}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Menara, Tommaso and Baggio, Giacomo and Bassett, Danielle S and Pasqualetti, Fabio}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  booktitle = {2019 IEEE 58th Conference on Decision and Control (CDC)}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {4697-4704}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
+}</p>
+</div>
+</ul>
+}}
+
+{{
+<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u>, 
+<a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>, and 
+<a href="https://www.imng.uni-stuttgart.de/institute/team/Scherer-00006/" target=&ldquo;blank&rdquo;>C. W. Scherer</a><br />
+“Gramian Optimization with Input-Power Constraints”<br /> 
+<i>IEEE Conference on Decision and Control (CDC)</i>, Nice, France, 2019.  <br /></span></p>
+</span>
+</p>
+</li>
+<a href="https://ieeexplore.ieee.org/abstract/document/9029169" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @inproceedings{GB-SZ-CWS:19, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Gramian Optimization with Input-Power Constraints}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Zampieri, Sandro and Scherer, Carsten W}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  booktitle = {2019 IEEE 58th Conference on Decision and Control (CDC)}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {5686-5691}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
+}</p>
+</div>
+</ul>
+}}
+
+
+{{<ul>
+<li><p><span style="color: black">
+<a href="http://www.dei.unipd.it/~ticozzi/" target=&ldquo;blank&rdquo;>F. Ticozzi</a>, 
+<u>G. Baggio</u>, and 
+<a href="https://sites.dartmouth.edu/lorenzaviola-group/" target=&ldquo;blank&rdquo;>L. Viola</a><br />
+“Quantum Information Encoding from Stabilizing Dynamics”<br /> 
+<i>IEEE Conference on Decision and Control (CDC)</i>, Nice, France, 2019. <br /></span></p>
+</span>
+</p>
+</li>
+<a href="https://ieeexplore.ieee.org/abstract/document/9029402" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @inproceedings{FT-GB-LV:19, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Quantum Information Encoding from Stabilizing Dynamics}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Ticozzi, Francesco and Baggio, Giacomo and Viola, Lorenza}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  booktitle = {2019 IEEE 58th Conference on Decision and Control (CDC)}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {413-418}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
+}</p>
+</div>
+</li>
+</ul>
+}}
+
+{{<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u>, 
+V. Katewa, 
+<a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a>, and 
+<a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
+“The Shannon Capacity of Linear Dynamical Networks”<br /> 
+<i>European Control Conference (ECC)</i>, Naples, Italy, 2019. <br /></span></p>
+</span>
+</p>
+</li>
+<a href="https://ieeexplore.ieee.org/document/8795737" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @inproceedings{GB-VK-FP-SZ:19, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {The {S}hannon Capacity of Linear Dynamical Networks}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Katewa, Vaibhav and Pasqualetti, Fabio and Zampieri, Sandro}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  booktitle = {2019 European Control Conference (ECC)}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {602-607}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
+}</p>
+</div>
+</li>
+</ul>
+}}
+
+{{<ul>
+<li><p><span style="color: black">
+<a href="https://tommasomenara.com" target=&ldquo;blank&rdquo;>T. Menara</a>, 
+<u>G. Baggio</u>, 
+<a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, and 
+<a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
+“Exact and Approximate Stability Conditions for Cluster Synchronization of Kuramoto Oscillators”<br /> 
+<i>American Control Conference (ACC)</i>, Philadelphia, PA, USA, 2019. <br /> <i><b>(Best Student Paper Award Winner)</b></i> <br /></span></p>
+</span>
+</p>
+</li>
+<a href="https://ieeexplore.ieee.org/document/8814837" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @inproceedings{TM-GB-DSB-FP:19a, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Exact and Approximate Stability Conditions for Cluster Synchronization of {K}uramoto Oscillators}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Menara, Tommaso and Baggio, Giacomo and Bassett, Danielle S and Pasqualetti, Fabio}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  booktitle = {2019 American Control Conference (ACC)}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {205-210}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
+}</p>
+</div>
+</ul>
+}}
+
+{{
+<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u>, 
+V. Rutten, 
+<a href="https://ghennequin.github.io" target=&ldquo;blank&rdquo;>G. Hennequin</a>, and 
+<a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
+“Information Transmission in Dynamical Networks: The Normal Network Case”<br />
+<i>IEEE Conference on Decision and Control (CDC)</i>, Miami, FL, USA, 2018.  </p>
+</span>
+</p>
+</li>
+<a href="http://ieeexplore.ieee.org/abstract/document/8619813" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @inproceedings{GB-VR-GH-SZ:18, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Information Transmission in Dynamical Networks: The Normal Network Case}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Rutten, Virginia and Hennequin, Guillaume and Zampieri, Sandro}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  booktitle = {2018 IEEE 58th Conference on Decision and Control (CDC)}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {2543-2548}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2018} <br/>
+}</p>
+</div>
+</ul>
+}}
+
+{{
+<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u> and 
+<a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br /> 
+“On the Relation between Non-normality and Diameter in Linear Dynamical Networks”<br /> 
+<i>European Control Conference (ECC)</i>, Limassol, Cyprus, 2018.<br /> <i><b>(Best Student Paper Award Winner)</b></i> <br /></span></p>
+</li>
+<a href="http://ieeexplore.ieee.org/document/8550551" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @inproceedings{GB-SZ:18, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Relation between Non-normality and Diameter in Linear Dynamical Networks}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Zampieri, Sandro}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  booktitle = {2018 European Control Conference (ECC)}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {1839-1844}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2018} <br/>
+}</p>
+</div>
+</ul>
+}}
+
+{{
+<ul>
+<li><p><span style="color: black">
+<a href="http://automatica.dei.unipd.it/people/michieletto.html" target=&ldquo;blank&rdquo;>G. Michieletto</a>, 
+S. Milani, 
+<a href="http://automatica.dei.unipd.it/people/cenedese.html" target=&ldquo;blank&rdquo;>
+A. Cenedese</a>, and 
+<u>G. Baggio</u> <br /> “Improving Consensus-based Distributed Camera Calibration via Edge Pruning and Graph Traversal Initialization”<br /> 
+<i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, Calgary, Canada, 2018. <br /></span></p>
+</li>
+<a href="http://ieeexplore.ieee.org/abstract/document/8461976" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @inproceedings{GM-SM-AC-GB:18, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Improving Consensus-based Distributed Camera Calibration via Edge Pruning and Graph Traversal Initialization}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Michieletto, Giulia and Milani, Simone and Cenedese, Angelo and Baggio, Giacomo}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  booktitle = {2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {3166-3170}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2018} <br/>
+}</p>
+</div>
+</ul>
+}}
+
+
+{{
+<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u> and 
+<a href="https://sites.google.com/site/rsepulchre/" target=&ldquo;blank&rdquo;>R. Sepulchre</a><br /> 
+“LTI Stochastic Processes: a Behavioral Perspective”<br /> <i>Proceedings of 20th IFAC World Congress</i>, Toulouse, France, 2017. 
+<br /></span></p>
+</li>
+<a href="https://arxiv.org/abs/1704.02154" target=&ldquo;blank&rdquo;>[arXiv]</a>
+<a href="http://www.sciencedirect.com/science/article/pii/S2405896317310108" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @article{GB-RS:17, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {LTI Stochastic Processes: a Behavioral Perspective}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Sepulchre, Rodolphe}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IFAC-PapersOnLine}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {50}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {1}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {2806-2811}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2017} <br/>
+}</p>
+</div>
+</ul>
+}}
+
+{{
+<ul>
+<li><p><span style="color: black"><u>G. Baggio</u><br /> 
+“On the Convergence of a Matricial Fixed-Point Iteration Connected with Spectral Estimation”<br /> 
+<i>Proceedings of 20th IFAC World Congress</i>, Toulouse, France, 2017.<br /></span></p>
+</li>
+<a href="http://www.sciencedirect.com/science/article/pii/S2405896317320785" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @article{GB:17, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Convergence of a Matricial Fixed-Point Iteration Connected with Spectral Estimation}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IFAC-PapersOnLine}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {50}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {1}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {7415-7420}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2017} <br/>
+}</p>
+</div>
+</ul>
+}}
+
+{{
+<ul>
+<li><p><span style="color: black"><u>G. Baggio</u>, 
+<a href="http://www.dei.unipd.it/~ticozzi/" target=&ldquo;blank&rdquo;>F. Ticozzi</a>, and 
+<a href="https://sites.dartmouth.edu/lorenzaviola-group/" target=&ldquo;blank&rdquo;>L. Viola</a><br /> 
+“Quantum State Preparation by Controlled Dissipation in Finite Time: From Classical to Quantum Controllers”<br /> 
+<i>IEEE Conference on Decision and Control (CDC)</i>, Maui, HI, USA, 2012. 
+<br /></span></p>
+</li>
+<a href="http://arxiv.org/abs/1209.5568" target=&ldquo;blank&rdquo;>[arXiv]</a>
+<a href="http://ieeexplore.ieee.org/document/6426787" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <p> &nbsp <br/>
+  @inproceedings{FT-GB-LV:12, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Quantum State Preparation by Controlled Dissipation in Finite Time: From Classical to Quantum Controllers}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Ticozzi, Francesco and Viola, Lorenza}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  booktitle = {2012 IEEE 51st Conference on Decision and Control (CDC)}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {1072-1077}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2012} <br/>
+}</p>
+</div>
+</li>
+</ul>
+}}
+
+
+=== Posters 
+
+{{<ul>
+<li><p><span style="color: black"><u>G. Baggio</u> and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br /> “Data-Driven Optimal Control of Complex Networks”<br /> <i>ACC Workshop - Analysis and Control of Complex Networks: State of the Art and Research Directions</i>, Philadelphia, PA, USA, 9 July 2019. [<a href="download/BP-poster.pdf" target=&ldquo;blank&rdquo;>Poster</a>]<br /></span></p>
+</li>
+</ul>
+}}
+
+{{<ul>
+<li><p><span style="color: black"><u>G. Baggio</u> and <a href="https://sites.google.com/site/rsepulchre/" target=&ldquo;blank&rdquo;>R. Sepulchre</a><br /> “Stochastic Processes: a Behavioral Perspective”<br /> <i>Workshop - Biological Control Across Scales</i>, Cambridge, UK, 27-28 June 2016. [<a href="download/BCAS-poster.pdf" target=&ldquo;blank&rdquo;>Poster</a>]<br /></span></p>
+</li>
+</ul>}}
+
+{{
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+}}

@@ -409,3 +409,34 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+
+.collapsible {
+  background-color: white;
+  color: rgb(45, 108, 192);
+  cursor: pointer;
+  padding: 0px 0px;
+  width: 57px;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 100%;
+  font-family: Optima, serif;
+}
+
+.active, .collapsible:hover {
+  border-bottom: 1px gray dotted;
+  padding:0px 0px;
+  margin:-1px 0px;
+}
+
+.content {
+  padding: 0 10px;
+  max-height: 0;
+  color: black;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+
+
