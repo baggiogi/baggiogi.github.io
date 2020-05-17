@@ -166,7 +166,7 @@ B. Zhu and
 <div class="content">
   <p> &nbsp <br/>
   @article{BZ-GB:19, <br/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Existence of a Solution to a Spectral Estimation Problem {\'a} la {B}yrnes–{G}eorgiou–{L}indquist}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Existence of a Solution to a Spectral Estimation Problem {\'a} la {B}yrnes-{G}eorgiou-{L}indquist}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Zhu, Bin and Baggio, Giacomo}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Transactions on Automatic Control}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {64}, <br/>
@@ -222,8 +222,8 @@ B. Zhu and
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
   <p> &nbsp <br/>
-  @article{GB:19, <br/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Further Results on the Convergence of the {P}avon–{F}errante Algorithm for Spectral Estimation}, <br/>
+  @article{GB:18, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Further Results on the Convergence of the {P}avon-{F}errante Algorithm for Spectral Estimation}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Transactions on Automatic Control}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {63}, <br/>
