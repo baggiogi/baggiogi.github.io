@@ -425,9 +425,7 @@ table.imgtable, table.imgtable td {
 }
 
 .active, .collapsible:hover {
-  border-bottom: 1px gray dotted;
-  padding:0px 0px;
-  margin:-1px 0px;
+   background-color: #f1f1f1;
 }
 
 .content {
