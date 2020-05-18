@@ -6,7 +6,7 @@
 
 
 ~~~
-{}{img_left}{./images/comics.jpg}{state_space_comics}{300}{300}{IMGLINKTARGET}
+{}{img_left}{./images/comics.jpg}{state_space_comics}{300}{300}{}
 *Descrizione:*\n \n
 Il corso si propone di fornire strumenti e tecniche evolute per l'/analisi/ e il /controllo/ di sistemi dinamici.\n
 Ci concentreremo sull'approccio in spazio di stato e considereremo, per la gran parte del corso, sistemi lineari e tempo invarianti a tempo continuo e discreto.
@@ -28,7 +28,7 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 *News:*
 
 
-• *02\/05\/20*: {{<font color="red"> [COMUNICAZIONE IMPORTANTE] Secondo disposizioni di Ateneo, il III appello sarà effettuato in modalità telematica. Informazioni sulla modalità d'esame sono disponibili al seguente </font>}} [./download/istruzioni_esame_telematico.pdf {{<font color="black">link</font>}}]{{<font color="red">.</font>}}
+• *02\/05\/20*: {{<font color="red"> [COMUNICAZIONE IMPORTANTE] Secondo disposizioni di Ateneo, il III appello sarà effettuato in modalità telematica. Informazioni sulla modalità d'esame sono disponibili al seguente </font>}} [./download/istruzioni_esame_telematico.pdf {{<font style=rgb(45, 108, 192)>link</font>}}]{{<font color="red">.</font>}}
 
 • *17\/02\/20*:La visione degli elaborati del II appello è fissata per il giorno 21\/02\/20 alle ore 10 in aula B2.
 
