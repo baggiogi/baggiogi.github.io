@@ -46,7 +46,8 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
 <a href="https://ieeexplore.ieee.org/document/8663340" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('TM-GB-DSB-FP:20a')">Copy text</button>
+  <p id="TM-GB-DSB-FP:20a"> &nbsp <br/>
   @article{TM-GB-DSB-FP:20a, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Conditions for Feedback Linearization of Network Systems}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Menara, Tommaso and Baggio, Giacomo and Bassett, Danielle S and Pasqualetti, Fabio}, <br/>
@@ -77,7 +78,8 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
 <a href="https://ieeexplore.ieee.org/document/8663340" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('TM-GB-DSB-FP:20b')">Copy text</button>
+  <p id="TM-GB-DSB-FP:20b"> &nbsp <br/>
   @article{TM-GB-DSB-FP:20b, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Stability Conditions for Cluster Synchronization in Networks of Heterogeneous {K}uramoto Oscillators}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Menara, Tommaso and Baggio, Giacomo and Bassett, Danielle S and Pasqualetti, Fabio}, <br/>
@@ -106,7 +108,8 @@ V. Katewa, and
 <a href="https://ieeexplore.ieee.org/document/8703172" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GB-VK-FP:19')">Copy text</button>
+  <p id="GB-VK-FP:19"> &nbsp <br/>
   @article{GB-VK-FP:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Data-Driven Minimum-Energy Controls for Linear Systems}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Katewa, Vaibhav and Pasqualetti, Fabio}, <br/>
@@ -136,7 +139,8 @@ V. Katewa, and
 <a href="https://github.com/baggiogi/finsler-speech-morphing" target=&ldquo;blank&rdquo;>[code]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GB-AF-RS:19')">Copy text</button>
+  <p id="GB-AF-RS:19"> &nbsp <br/>
   @article{GB-AF-RS:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Conal Distances Between Rational Spectral Densities}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Ferrante, Augusto and Sepulchre, Rodolphe}, <br/>
@@ -165,7 +169,8 @@ B. Zhu and
 <a href="http://ieeexplore.ieee.org/document/8359301" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('BZ-GB:19')">Copy text</button>
+  <p id="BZ-GB:19"> &nbsp <br/>
   @article{BZ-GB:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Existence of a Solution to a Spectral Estimation Problem {\'a} la {B}yrnes-{G}eorgiou-{L}indquist}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Zhu, Bin and Baggio, Giacomo}, <br/>
@@ -194,7 +199,8 @@ B. Zhu and
 <a href="http://ieeexplore.ieee.org/document/8344760" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GB-AF:19')">Copy text</button>
+  <p id="GB-AF:19"> &nbsp <br/>
   @article{GB-AF:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Parametrization of Minimal Spectral Factors of Discrete-Time Rational Spectral Densities}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Ferrante, Augusto}, <br/>
@@ -222,7 +228,8 @@ B. Zhu and
 <a href="http://ieeexplore.ieee.org/document/8264693" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GB:18')">Copy text</button>
+  <p id="GB:18"> &nbsp <br/>
   @article{GB:18, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Further Results on the Convergence of the {P}avon-{F}errante Algorithm for Spectral Estimation}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo}, <br/>
@@ -252,7 +259,8 @@ N. Bof,
 <a href="http://ieeexplore.ieee.org/document/7447762" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('NB-GB-SZ:17')">Copy text</button>
+  <p id="NB-GB-SZ:17"> &nbsp <br/>
   @article{NB-GB-SZ:17, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Role of Network Centrality in the Controllability of Complex Networks}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Bof, Nicoletta and Baggio, Giacomo and Zampieri, Sandro}, <br/>
@@ -281,7 +289,8 @@ N. Bof,
 <a href="http://ieeexplore.ieee.org/document/7286755" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GB-AF:16b')">Copy text</button>
+  <p id="GB-AF:16b"> &nbsp <br/>
   @article{GB-AF:16b, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On Minimal Spectral Factors with Zeroes and Poles lying on Prescribed Regions}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Ferrante, Augusto}, <br/>
@@ -310,7 +319,8 @@ N. Bof,
 <a href="http://ieeexplore.ieee.org/document/7128353" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GB-AF:16a')">Copy text</button>
+  <p id="GB-AF:16a"> &nbsp <br/>
   @article{GB-AF:16a, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Factorization of Rational Discrete-Time Spectral Densities}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Ferrante, Augusto}, <br/>
@@ -366,7 +376,8 @@ N. Bof,
 <a href="https://ieeexplore.ieee.org/document/9029223" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('TM-GB-DSB-FP:19b')">Copy text</button>
+  <p id="TM-GB-DSB-FP:19b"> &nbsp <br/>
   @inproceedings{TM-GB-DSB-FP:19b, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {A Framework to Control Functional Connectivity in the Human Brain}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Menara, Tommaso and Baggio, Giacomo and Bassett, Danielle S and Pasqualetti, Fabio}, <br/>
@@ -392,7 +403,8 @@ N. Bof,
 <a href="https://ieeexplore.ieee.org/abstract/document/9029169" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GB-SZ-CWS:19')">Copy text</button>
+  <p id="GB-SZ-CWS:19"> &nbsp <br/>
   @inproceedings{GB-SZ-CWS:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Gramian Optimization with Input-Power Constraints}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Zampieri, Sandro and Scherer, Carsten W}, <br/>
@@ -418,7 +430,8 @@ N. Bof,
 <a href="https://ieeexplore.ieee.org/abstract/document/9029402" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('FT-GB-LV:19')">Copy text</button>
+  <p id="FT-GB-LV:19"> &nbsp <br/>
   @inproceedings{FT-GB-LV:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Quantum Information Encoding from Stabilizing Dynamics}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Ticozzi, Francesco and Baggio, Giacomo and Viola, Lorenza}, <br/>
@@ -445,7 +458,8 @@ V. Katewa,
 <a href="https://ieeexplore.ieee.org/document/8795737" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GB-VK-FP-SZ:19')">Copy text</button>
+  <p id ="GB-VK-FP-SZ:19"> &nbsp <br/>
   @inproceedings{GB-VK-FP-SZ:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {The {S}hannon Capacity of Linear Dynamical Networks}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Katewa, Vaibhav and Pasqualetti, Fabio and Zampieri, Sandro}, <br/>
@@ -472,7 +486,8 @@ V. Katewa,
 <a href="https://ieeexplore.ieee.org/document/8814837" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('TM-GB-DSB-FP:19a')">Copy text</button>
+  <p id="TM-GB-DSB-FP:19a"> &nbsp <br/>
   @inproceedings{TM-GB-DSB-FP:19a, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Exact and Approximate Stability Conditions for Cluster Synchronization of {K}uramoto Oscillators}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Menara, Tommaso and Baggio, Giacomo and Bassett, Danielle S and Pasqualetti, Fabio}, <br/>
@@ -499,7 +514,8 @@ V. Rutten,
 <a href="http://ieeexplore.ieee.org/abstract/document/8619813" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GB-VR-GH-SZ:18')">Copy text</button>
+  <p id="GB-VR-GH-SZ:18"> &nbsp <br/>
   @inproceedings{GB-VR-GH-SZ:18, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Information Transmission in Dynamical Networks: The Normal Network Case}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Rutten, Virginia and Hennequin, Guillaume and Zampieri, Sandro}, <br/>
@@ -522,7 +538,8 @@ V. Rutten,
 <a href="http://ieeexplore.ieee.org/document/8550551" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GB-SZ:18')">Copy text</button>
+  <p id="GB-SZ:18"> &nbsp <br/>
   @inproceedings{GB-SZ:18, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Relation between Non-normality and Diameter in Linear Dynamical Networks}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Zampieri, Sandro}, <br/>
@@ -547,7 +564,8 @@ A. Cenedese</a>, and
 <a href="http://ieeexplore.ieee.org/abstract/document/8461976" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GM-SM-AC-GB:18')">Copy text</button>
+  <p id="GM-SM-AC-GB:18"> &nbsp <br/>
   @inproceedings{GM-SM-AC-GB:18, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Improving Consensus-based Distributed Camera Calibration via Edge Pruning and Graph Traversal Initialization}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Michieletto, Giulia and Milani, Simone and Cenedese, Angelo and Baggio, Giacomo}, <br/>
@@ -572,9 +590,10 @@ A. Cenedese</a>, and
 <a href="http://www.sciencedirect.com/science/article/pii/S2405896317310108" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GB-RS:17')">Copy text</button>
+  <p id="GB-RS:17"> &nbsp <br/>
   @article{GB-RS:17, <br/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {LTI Stochastic Processes: a Behavioral Perspective}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {{LTI} Stochastic Processes: a Behavioral Perspective}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Sepulchre, Rodolphe}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IFAC-PapersOnLine}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {50}, <br/>
@@ -595,7 +614,8 @@ A. Cenedese</a>, and
 <a href="http://www.sciencedirect.com/science/article/pii/S2405896317320785" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('GB:17')">Copy text</button>
+  <p id="GB:17"> &nbsp <br/>
   @article{GB:17, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Convergence of a Matricial Fixed-Point Iteration Connected with Spectral Estimation}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo}, <br/>
@@ -622,7 +642,8 @@ A. Cenedese</a>, and
 <a href="http://ieeexplore.ieee.org/document/6426787" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
-  <p> &nbsp <br/>
+ <button onClick="copyToClipboard('FT-GB-LV:12')">Copy text</button>
+  <p id="FT-GB-LV:12"> &nbsp <br/>
   @inproceedings{FT-GB-LV:12, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Quantum State Preparation by Controlled Dissipation in Finite Time: From Classical to Quantum Controllers}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Ticozzi, Francesco and Viola, Lorenza}, <br/>
@@ -648,6 +669,22 @@ A. Cenedese</a>, and
 <li><p><span style="color: black"><u>G. Baggio</u> and <a href="https://sites.google.com/site/rsepulchre/" target=&ldquo;blank&rdquo;>R. Sepulchre</a><br /> “Stochastic Processes: a Behavioral Perspective”<br /> <i>Workshop - Biological Control Across Scales</i>, Cambridge, UK, 27-28 June 2016. <a href="download/BCAS-poster.pdf" target=&ldquo;blank&rdquo;>[Poster]</a><br /></span></p>
 </li>
 </ul>}}
+
+
+{{
+<script>
+function copyToClipboard(id) {
+        var from = document.getElementById(id);
+        var range = document.createRange();
+        window.getSelection().removeAllRanges();
+        range.selectNode(from);
+        window.getSelection().addRange(range);
+        document.execCommand('copy');
+        window.getSelection().removeAllRanges();
+ }
+</script>
+}}
+
 
 {{
 <script>
