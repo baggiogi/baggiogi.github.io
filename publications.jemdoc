@@ -18,16 +18,32 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
 }}
 
 {{
-<ul class="accept">
+<ul>
 <li><p><span style="color: black">
 <u>G. Baggio</u>, 
 V. Rutten, 
 <a href="https://ghennequin.github.io" target=&ldquo;blank&rdquo;>G. Hennequin</a>, and 
 <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
 “Efficient Communication over Complex Dynamical Networks: The Role of Matrix Non-Normality” <br />
-<i>Science Advances</i>, 2020.  Note: <span style="color: green"> To appear</span>. 
+<i>Science Advances</i>, Vol. 6, no. 22, eaba2282, 2020. 
+</span>
+</p>
 </li>
-<a href="https://arxiv.org/abs/1904.02447" target=&ldquo;blank&rdquo;>[arXiv]</a> <a href="https://tinyurl.com/y9a9jffj" target=&ldquo;blank&rdquo;>[code]</a>
+<a href="https://arxiv.org/abs/1904.02447" target=&ldquo;blank&rdquo;>[arXiv]</a>  <a href="https://advances.sciencemag.org/content/6/22/eaba2282" target=&ldquo;blank&rdquo;>[online]</a> <a href="https://tinyurl.com/y9a9jffj" target=&ldquo;blank&rdquo;>[code]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+ <button onClick="copyToClipboard('GB-VR-GH-SZ:20')">Copy text</button>
+  <p id="GB-VR-GH-SZ:20"> &nbsp <br/>
+  @article{GB-VR-GH-SZ:20, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Efficient Communication over Complex Dynamical Networks: The Role of Matrix Non-Normality}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Rutten, Virginia and Hennequin, Guillaume and Zampieri, Sandro}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {Science Advances}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {6}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {22}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {eaba2282}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2020} <br/>
+}</p>
+</div>
 </ul>
 }}
 
