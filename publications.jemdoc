@@ -7,6 +7,29 @@
 {{
 <ul class="submit">
 <li><p><span style="color: black">
+<u>G. Baggio</u>,
+A. Carè,
+A. Scampicchio,
+<a href="http://www.dei.unipd.it/~giapi/" target=&ldquo;blank&rdquo;>G. Pillonetto</a><br />
+“Bayesian Frequentist Bounds for Statistical Learning”<br />
+2020.  Note: <span style="color: orange"> Submitted</span>. 
+</li>
+</ul>
+}}
+
+{{
+<ul class="submit">
+<li><p><span style="color: black">
+<u>G. Baggio</u> and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
+“Non-normality Improves Information Transmission Performance of Dynamical Networks”<br />
+2020.  Note: <span style="color: orange"> Submitted</span>. 
+</li>
+</ul>
+}}
+
+{{
+<ul class="submit">
+<li><p><span style="color: black">
 <u>G. Baggio</u>, 
 <a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, 
 and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a>  <br />
@@ -687,7 +710,25 @@ A. Cenedese</a>, and
 }}
 
 
-=== Posters 
+=== Posters & Extended Abstracts
+
+{{<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u> and M. Fabris <br />
+“How Complex is a Complex Dynamical Network?”<br /> 
+<i>NetSci 2020</i>, Rome, Italy, 17-25 November 2020 (online). 
+</li>
+</ul>
+}}
+
+{{<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u> and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
+“Network Non-Normality Benefits Communication in Noisy Environments”<br /> 
+<i>NetSci 2020</i>, Rome, Italy, 17-25 November 2020 (online). 
+</li>
+</ul>
+}}
 
 {{<ul>
 <li><p><span style="color: black"><u>G. Baggio</u> and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br /> “Data-Driven Optimal Control of Complex Networks”<br /> <i>ACC Workshop - Analysis and Control of Complex Networks: State of the Art and Research Directions</i>, Philadelphia, PA, USA, 9 July 2019. <a href="download/BP-poster.pdf" target=&ldquo;blank&rdquo;>[Poster]</a><br /></span></p>
@@ -732,4 +773,18 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
+}}
+
+
+=== Technical Reports & Notes
+
+
+{{
+<ul>
+<li><p><span style="color: black">
+<u>G. Baggio</u> and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
+“The Controllability Gramian of Line Networks: Closed-Form Expressions and Asymptotic Transitions”<br />
+Tech. Rep., 2020. <a href="download/Gramian-line-tech-note.pdf" target=&ldquo;blank&rdquo;>[PDF]</a><br /></span></p>
+</li>
+</ul>
 }}
