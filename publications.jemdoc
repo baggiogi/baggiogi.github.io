@@ -784,7 +784,7 @@ for (i = 0; i < coll.length; i++) {
 <li><p><span style="color: black">
 <u>G. Baggio</u> and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
 “The Controllability Gramian of Line Networks: Closed-Form Expressions and Asymptotic Transitions”<br />
-Tech. Rep., 2020. <a href="download/Gramian-line-tech-note.pdf" target=&ldquo;blank&rdquo;>[PDF]</a><br /></span></p>
+Technical Report, 2020. <a href="download/Gramian-line-tech-note.pdf" target=&ldquo;blank&rdquo;>[PDF]</a><br /></span></p>
 </li>
 </ul>
 }}
