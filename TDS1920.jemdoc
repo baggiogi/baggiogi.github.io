@@ -6,9 +6,9 @@
 
 
 ~~~
-{}{img_left}{./images/comics.jpg}{state_space_comics}{300}{300}{}
+{}{img_left}{./images/comics1920.jpg}{state_space_comics}{300}{300}{}
 *Descrizione:*\n \n
-Il corso si propone di fornire strumenti e tecniche evolute per l'/analisi/ e il /controllo/ di sistemi dinamici.\n
+Il corso si propone di fornire strumenti e tecniche avanzate per l'/analisi/ e il /controllo/ di sistemi dinamici.\n
 Ci concentreremo sull'approccio in spazio di stato e considereremo, per la gran parte del corso, sistemi lineari e tempo invarianti a tempo continuo e discreto.
 #della forma $\dot{x}(t) = Ax(t)+Bu(t)$, $y(t)= Cx(t)+Du(t)$ (tempo continuo) e $x(t+1)=Ax(t)+Bu(t)$, $y(t)= Cx(t)+Du(t)$ (tempo discreto). 
 Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stabilità, raggiungibilità, osservabilità, etc.) per poi studiare tecniche di controllo in retroazione. \n {{<font color="lightgray",font size="0.5">[Image credits: <a href="http://controlcartoons.com">http://controlcartoons.com</a>]</font>}}
@@ -101,9 +101,9 @@ Dopo lezione o tramite appuntamento e-mail (usare sigla \[IMC-TdS-1920\] all'ini
 
 - I appello: 29\/01\/20 9:00–11:30, Aula B1-B2 \[[./download/I_appello.pdf Tema d'esame]\] \[[./download/I_appello_soluzione.pdf Soluzione]\]
 - II appello: 14\/02\/20 14:00–16:30, Aula B1 \[[./download/II_appello.pdf Tema d'esame]\] \[[./download/II_appello_soluzione.pdf Soluzione]\]
-- III appello: 03\/07\/20 9:00–11:00, Zoom \[[./download/istruzioni_esame_telematico.pdf {{<font color="red">Informazioni sulla modalità d'esame telematica</font>}}]\] \[[./download/III_appello.pdf Tema d'esame]\] \[[./download/III_appello_soluzione.pdf Soluzione]\]
-- IV appello: 10\/09\/20 9:00–11:00, Zoom \[[./download/istruzioni_esame_telematico.pdf {{<font color="red">Informazioni sulla modalità d'esame telematica</font>}}]\] \[[./download/IV_appello.pdf Tema d'esame]\] \[[./download/IV_appello_soluzione.pdf Soluzione]\]
-- V appello: 29\/01\/21 9:00–11:00, Zoom \[[./download/istruzioni_esame_telematico.pdf {{<font color="red">Informazioni sulla modalità d'esame telematica</font>}}]\] \[[./download/V_appello.pdf Tema d'esame]\] \[[./download/V_appello_soluzione.pdf Soluzione]\]
+- III appello: 03\/07\/20 9:00–11:00, Zoom \[[./download/III_appello.pdf Tema d'esame]\] \[[./download/III_appello_soluzione.pdf Soluzione]\]
+- IV appello: 10\/09\/20 9:00–11:00, Zoom \[[./download/IV_appello.pdf Tema d'esame]\] \[[./download/IV_appello_soluzione.pdf Soluzione]\]
+- V appello: 29\/01\/21 9:00–11:00, Zoom \[[./download/V_appello.pdf Tema d'esame]\] \[[./download/V_appello_soluzione.pdf Soluzione]\]
 
 *Materiale in preparazione all'esame:*
 

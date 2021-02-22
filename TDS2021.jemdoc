@@ -1,0 +1,153 @@
+# jemdoc: menu{MENU}{teaching.html}, showsource 
+# jemdoc: addcss{jemdoc.css}
+= Teoria dei Sistemi 2020/21 --- LM Ingegneria Meccatronica • Univ. Padova
+
+== Informazioni generali
+
+
+~~~
+{}{img_left}{./images/comics2021.jpg}{state_space_comics}{337.4545}{277.0909}{}
+*Descrizione:*\n \n
+Il corso si propone di fornire strumenti e tecniche avanzate per l'/analisi/ e il /controllo/ di sistemi dinamici.\n
+Ci concentreremo sull'approccio in spazio di stato e considereremo, per la gran parte del corso, sistemi lineari e tempo invarianti a tempo continuo e discreto.
+#della forma $\dot{x}(t) = Ax(t)+Bu(t)$, $y(t)= Cx(t)+Du(t)$ (tempo continuo) e $x(t+1)=Ax(t)+Bu(t)$, $y(t)= Cx(t)+Du(t)$ (tempo discreto). 
+Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stabilità, raggiungibilità, osservabilità, etc.) per poi studiare tecniche di controllo in retroazione. \n {{<u> A partire da quest'anno accademico, il corso prevederà una parte di programmazione in MATLAB</u><sup>&reg;</sup>}}.
+\n {{<font color="lightgray",font size="0.5">[Image credits: <a href="http://controlcartoons.com">http://controlcartoons.com</a>]</font>}}
+
+📌  [./download/info_TdS2021.pdf Informazioni e programma indicativo]
+
+
+📌  [https://didattica.unipd.it/off/2020/LM/IN/IN0529/000ZZ/INP5070928/N0 Pagina offerta formativa UniPD]
+
+📌  [https://elearning.unipd.it/dtg/course/view.php?id=1398 Pagina moodle DTG] {{<font color="red">➡︎ Iscrizione obbligatoria!</font>}}
+~~~
+
+
+
+*News:*
+
+📣 *22\/02\/21*: La prima lezione del corso si terrà {{<font color="red">  lunedì 1 marzo, ore 12:30-14:30 via Zoom</font>}}. {{<font color="red">  Il link Zoom è disponibile alla pagina moodle del corso.</font>}} A partire da quest'anno accademico ci saranno dei cambiamenti sulla modalità d'esame. Si prega di leggere con attenzione le FAQs riportate sotto.
+
+#• *30\/01\/21*: Il tema d'esame del 29\/01\/21 (V appello) assieme alla soluzione è disponibile al link sotto.
+
+
+*Ricevimento:*
+
+🚪 Su Zoom, dopo lezione o tramite appuntamento e-mail ({{<u>usare sigla [IMC-TdS-2021] all'inizio dell'oggetto e-mail!</u>}})
+
+*Orario lezioni:*
+
+- Lunedì 12:30-14:30, Zoom
+- Mercoledì 14:30-16:30, Zoom
+- Giovedì 10:30-12:30, Zoom
+- Venerdì 10:30-12:30, Zoom
+
+🔗 I link Zoom per partecipare alle lezioni saranno resi disponibili nella pagina moodle del corso.
+
+🗓 Per un calendario sempre aggiornato delle lezioni ed esami dell'intero corso integrato (Modulo A+B) si faccia riferimento al [https://calendar.google.com/calendar/embed?src=c_amqclbnf11li0ls7cku456fdl4%40group.calendar.google.com&ctz=Europe%2FRome Google calendar del corso]. 
+
+*Testo di riferimento:*
+
+📕 M. Bisiacco, S. Braghetto. "Teoria dei sistemi dinamici". /Società Editrice Esculapio/, 2 Ed., 2010.
+
+*Testi per consultazione:*
+
+📗 E. Fornasini. "Appunti di teoria dei sistemi". /Ed. Libreria Progetto Padova/, 2013.\n
+📘 E. Fornasini, G. Marchesini. "Esercizi di teoria dei sistemi". /Ed. Libreria Progetto Padova/, 1997. \n
+📙 J. P. Hespanha. "Linear systems theory". /Princeton University Press/, 2018.
+
+*Calendario esami:*
+
+- {{<u>Compitino (solo scritto):</u>}} 23\/04\/21, 9:00–11:00
+
+- {{<u>I appello:</u>}} \n
+○ Prova scritta: 21\/06\/21, 9:00–11:00 \n 
+○ Prova orale: 1-2\/07\/21
+
+- {{<u>II appello:</u>}} \n
+○ Prova scritta: 05\/07\/21, 9:00–11:00\n 
+○ Prova orale: 15-16\/07\/21
+
+- {{<u>III appello:</u>}} \n
+○ Prova scritta: 06\/09\/21, 9:00–11:00 \n 
+○ Prova orale: 16-17\/09\/21
+
+- {{<u>IV appello:</u>}} \n
+○ Prova scritta: 17\/01\/22, 9:00-11:00\n 
+○ Prova orale: 27-28\/01\/22
+
+
+*Materiale in preparazione all'esame:*
+
+📝 Esercizi e temi d'esame risolti degli anni scorsi sono disponibili alla [https://baggiogi.github.io/TDS1920.html pagina web del corso dell'A.A. 2019/20] e alla [http://automatica.dei.unipd.it/people/zampieri/teaching/teoria-dei-sistemi-per-meccatronici.html pagina web del Prof. Zampieri].
+#- [./download/esempi_domande.pdf Esempi di domande di teoria.]
+#- [./download/simulazione.pdf Simulazione d'esame.]
+
+
+*FAQs:*
+
+
+. {{<u>Come è strutturato l'esame?</u>}}\n
+L'esame del modulo A (Teoria dei Sistemi) è composto da una prova scritta (punteggio max 12 punti) ed una prova orale (punteggio max 5 punti). La prova scritta consiste di 3 esercizi e ha durata 2 ore. La prova orale si tiene in concomitanza con la prova orale del modulo B (Controllo Ottimo e Adattativo). Si accede alla prova orale con un punteggio di almeno 7/12 nella prova scritta. Sia il modulo A che il modulo B hanno una votazione massima di 17 punti. Il voto finale del corso integrato (modulo A+modulo B) è dato dalla somma dei voti dei due moduli (arrotondata per eccesso in caso di mezzo voto). Un voto finale $\geq$ 31 corrisponde a 30 e lode.
+. {{<u>Quanto a lungo rimane valido il voto dell'esame?</u>}}\n
+A partire da quest'anno accademico, il voto della prova scritta o scritta+orale del modulo A ha validità di un anno solare. 
+. {{<u>Ho superato la prova scritta con un voto che non mi soddisfa, posso rifare l'esame?</u>}}\n
+Certamente sì. In caso di consegna del compito, il voto del precedente esame verrà annullato. In caso di ritiro, il voto del precedente esame rimarrà valido.
+. {{<u>Posso far riferimento al materiale didattico (slides ed esercizi) usato nell'A.A. 2019-20?</u>}}\n
+Anche se il programma del modulo A rimane pressoché invariato rispetto a quello dell'A.A. 2019-20, ci saranno dei cambiamenti\/aggiornamenti di alcune parti del materiale didattico. Il nuovo materiale didattico (slides ed esercizi) relativo ad un argomento verrà reso disponibile in questa pagina web ed in moodle qualche giorno prima delle lezioni in oggetto. Si consiglia fortemente di utilizzare il materiale didattico aggiornato di quest'anno.
+. {{<u>Ho seguito il corso nell'A.A. 2019-20 (o precedente), posso sostenere l'esame?</u>}} \n
+Il programma del corso del modulo A di quest'anno rimane pressoché invariato rispetto a quello degli anni precedenti (a meno di piccole variazioni). Può quindi sostenere l'esame secondo le modalità di questo anno accademico.
+. {{<u>Ho seguito il corso nell'A.A. 2019-20 (o precedente) e ho già superato il modulo B, come verrà calcolato il mio voto finale del corso integrato?</u>}} \n
+Il voto (scritto+orale) del modulo A verrà convertito in trentesimi e verrà fatta la media (arrotondata per eccesso in caso di mezzo voto) con il voto conseguito nel modulo B.
+. {{<u>Non ho MATLAB installato nel mio computer, come faccio?</u>}}\n
+L'Università di Padova mette a disposizione dei suoi studenti una licenza gratuita per l'installazione e utilizzo di MATLAB. Si faccia riferimento a [https://www.ict.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-e-licenze/matlab questa pagina] per ulteriori informazioni. In alternativa, è possibile utilizzare MATLAB attraverso una macchina virtuale (quindi senza doverlo installare nel proprio computer) grazie al Progetto Taliercio 2020 dell'Università di Padova (contattare la segreteria didattica per maggiori informazioni).
+. {{<u>Le esercitazioni MATLAB sono facoltative?</u>}}\n
+No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quindi parte integrante del corso. Anche se non entreranno a far parte del programma d'esame, queste esercitazioni sono utili per almeno due motivi: (i) servono a meglio comprendere e vedere "in azione" alcuni argomenti teorici del corso, (ii) sono essenziali per affrontare con successo i successivi laboratori del modulo B del corso integrato.
+
+== Lezioni e materiale didattico
+
+
+~~~
+{}{table}{lezioni2}
+*lezione*  | *contenuti* | *slides* | *slides annotate* | *testo* | *esercizi suggeriti* | *extra* ||
+01\/03\/21  | Introduzione al corso, \n concetto di sistema dinamico| -- | -- | -- | -- |  --  ||
+03\/03\/21  | Classificazione di sistemi, \n rappresentazione in spazio di stato | -- | -- | -- | -- | --  ||
+04\/03\/21 | Esempi di sistemi in spazio di stato, \n esponenziale di matrice | -- | -- | -- | -- | --  ||
+{{<font color="white">05/03/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Introduzione}}  | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  ||
+08\/03\/21 | Richiami di algebra lineare, forma di Jordan,\n calcolo dell'esponenziale di matrice | -- | -- | -- | -- | --  ||
+10\/03\/21 | Modi elementari, evoluzione libera e\n forzata a tempo continuo | -- | -- | -- | -- | --  ||
+11\/03\/21 | Modi elementari, evoluzione libera e\n forzata a tempo discreto | -- | -- | -- | -- | --  ||
+12\/03\/21 | Esercizi di ricapitolazione sulla parte I | -- | -- | -- | -- | --  ||
+15\/03\/21 | Equilibri, definizioni di \n stabilità, linearizzazione | -- | -- | -- | -- | --  ||
+17\/03\/21 | Teorema di linearizzazione,\n funzioni e teorema di Lyapunov | -- | -- | -- | -- | --  ||
+18\/03\/21 | Funzioni di Lyapunov per\n sistemi lineari, criterio di Krasowskii | -- | -- | -- | -- | --  ||
+19\/03\/21 | Esercizi di ricapitolazione sulla parte II | -- | -- | -- | -- | --  ||
+22\/03\/21 | Raggiungibilità a tempo discreto,\n ingresso a energia minima | -- | -- | -- | -- | --  ||
+24\/03\/21 | Forma canonica di raggiungibilità, test PBH,\n controllabilità a tempo discreto| -- | -- | -- | -- | --  ||
+25\/03\/21 | Raggiungibilità e controllabilità a tempo continuo | -- | -- | -- | -- | --  ||
+{{<font color="white">26/03/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Simulazione di un segway}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  ||
+29\/03\/21 | Introduzione al problema di controllo,\n esempi di controllo in retroazione dallo stato\/uscita| -- | -- | -- | -- | --  ||
+31\/03\/21 | Retroazione dallo stato e allocazione degli autovalori,\n forma canonica di controllo, stabilizzabilità| -- | -- | -- | -- | --  ||
+01\/04\/21 | Retroazione dallo stato con più ingressi,\n forma canonica di controllo multivariabile | -- | -- | -- | -- | --  ||
+07\/04\/21 | Osservabilità e ricostruibilità a tempo discreto, \n forma canonica di osservabilità, dualità | -- | -- | -- | -- | --  ||
+08\/04\/21 | Osservabilità e ricostruibilità a tempo continuo,\n stimatori dello stato, rivelabilità | -- | -- | -- | -- | --  ||
+09\/04\/21 | Sintesi del regolatore, principio di separazione | -- | -- | -- | -- | --  ||
+12\/04\/21 | Esercizi di ricapitolazione sulla parte III | -- | -- | -- | -- | --  ||
+{{<font color="white">14/04/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Controllo di un segway}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  
+
+~~~
+
+{{
+<dl>
+    <dt class="partI"></dt>
+    <dd>Parte I: Modelli di sistemi</dd>
+    <dt class="partII"></dt>
+    <dd>Parte II: Stabilità di sistemi</dd>
+    <dt class="partIII"></dt>
+    <dd>Parte III: Analisi e controllo di sistemi lineari</dd>
+    <dt class="ex"></dt>
+    <dd>Esercizi</dd>
+    <dt class="lab"></dt>
+    <dd>MATLAB<sup>&reg;</sup></dd>
+</dl>
+}}

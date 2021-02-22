@@ -1,5 +1,35 @@
 /* Default css file for jemdoc. */
 
+
+dl dt{
+    display: inline-block;
+    width: 30px;
+    height: 17.5px;
+    vertical-align: middle;
+}
+dl dd{
+    display: inline-block;
+    margin: 0px 10px;
+    padding-bottom: 0px;
+    vertical-align: bottom;
+}
+dl dt.partI{
+    background: hsla(120, 100%, 50%, 0.25);
+}
+dl dt.partII{
+    background: hsla(240,100%,50%,0.25);
+}
+dl dt.partIII{
+    background: hsla(0,100%,50%,0.25);
+}
+dl dt.ex{
+    background: hsla(0, 0%, 75%, 0.25);
+}
+
+dl dt.lab{
+    background: hsla(192, 11%, 18%, 0.8);
+}
+
 table#tlayout {
     border: none;
     border-collapse: separate;
@@ -28,11 +58,47 @@ table#lezioni tr.r20 { background: hsla(0,0%,75%,0.1); }
 table#lezioni tr.r21 { background: hsla(0, 0%, 0%, 0.75); }
 table#lezioni tr.r22 { background: hsla(0, 0%, 0%, 0.75); }
 
+
+table#tlayout {
+    border: none;
+    border-collapse: separate;
+    background: white;
+}
+
+table#lezioni2 tr.r2 { background: hsla(120, 100%, 50%, 0.1); }
+table#lezioni2 tr.r3 { background: hsla(120, 100%, 50%, 0.1); }
+table#lezioni2 tr.r4 { background: hsla(120, 100%, 50%, 0.1); }
+table#lezioni2 tr.r5 { background: hsla(192, 11%, 18%, 0.8); }
+table#lezioni2 tr.r6 { background: hsla(120, 100%, 50%, 0.1); }
+table#lezioni2 tr.r7 { background: hsla(120, 100%, 50%, 0.1); }
+table#lezioni2 tr.r8 { background: hsla(120, 100%, 50%, 0.1); }
+table#lezioni2 tr.r9 { background: hsla(0, 0%, 75%, 0.1); }
+table#lezioni2 tr.r10 { background: hsla(240,100%,50%,0.1); }
+table#lezioni2 tr.r11 { background: hsla(240,100%,50%,0.1); }
+table#lezioni2 tr.r12 { background: hsla(240,100%,50%,0.1); }
+table#lezioni2 tr.r13 { background: hsla(0, 0%, 75%, 0.1); }
+table#lezioni2 tr.r14 { background: hsla(0,100%,50%,0.1); }
+table#lezioni2 tr.r15 { background: hsla(0,100%,50%,0.1); }
+table#lezioni2 tr.r16 { background: hsla(0,100%,50%,0.1); }
+table#lezioni2 tr.r17 { background: hsla(192, 11%, 18%, 0.8); }
+table#lezioni2 tr.r18 { background: hsla(0,100%,50%,0.1); }
+table#lezioni2 tr.r19 { background: hsla(0,100%,50%,0.1); }
+table#lezioni2 tr.r20 { background: hsla(0,100%,50%,0.1); }
+table#lezioni2 tr.r21 { background: hsla(0,100%,50%,0.1); }
+table#lezioni2 tr.r22 { background: hsla(0,100%,50%,0.1); }
+table#lezioni2 tr.r23 { background: hsla(0,100%,50%,0.1); }
+table#lezioni2 tr.r24 { background: hsla(0,0%,75%,0.1); }
+table#lezioni2 tr.r25 { background: hsla(192, 11%, 18%, 0.8); }
+
 body {
 	background: white;
 	font-family: Optima, serif;
 	padding-bottom: 8px;
 	margin: 0;
+}
+
+sup {
+    display: inline-block;
 }
 
 #layout-menu {
@@ -246,6 +312,7 @@ ul.accept {
 
 
 p + ul, p + ol {
+	margin-left: -10px;
 	margin-top: -0.5em;
 }
 

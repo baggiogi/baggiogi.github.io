@@ -4,45 +4,74 @@
 === Journal Papers {{<span style="font-size: 12pt;font-weight:normal"> (<span style="color: black"> Published</span> / <span style="color: green"> To appear</span> / <span style="color: orange"> Submitted</span> )</span>}}
 
 
+{{<ul class="submit">
+<li><span style="color: black">
+<a href="https://tommasomenara.com" target=&ldquo;blank&rdquo;>T. Menara</a>, 
+<u>G. Baggio</u>, 
+<a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, 
+and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a>  <br /> 
+“Functional Control of Oscillator Networks”<br /> 
+2021. Note: <span style="color: orange"> Submitted</span>.
+</span>
+<a href="https://arxiv.org/abs/2102.08566" target=&ldquo;blank&rdquo;>[arXiv]</a> 
+</li>
+</ul>
+}}
+
+{{<ul class="submit">
+<li><span style="color: black">
+<u>G. Baggio</u>, 
+<a href="http://www.dei.unipd.it/~ticozzi/" target=&ldquo;blank&rdquo;>F. Ticozzi</a>, 
+P. D. Johnson, and 
+<a href="https://sites.dartmouth.edu/lorenzaviola-group/" target=&ldquo;blank&rdquo;>L. Viola</a><br />
+“Dissipative Encoding of Quantum Information”<br /> 
+2021. Note: <span style="color: orange"> Submitted</span>.
+</span>
+<a href="https://arxiv.org/abs/2102.04531" target=&ldquo;blank&rdquo;>[arXiv]</a> 
+</li>
+</ul>
+}}
+
+
 {{
 <ul class="submit">
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u>,
-A. Carè,
+<a href="https://www.algocare.it" target=&ldquo;blank&rdquo;>A. Carè</a>,
 A. Scampicchio, and 
 <a href="http://www.dei.unipd.it/~giapi/" target=&ldquo;blank&rdquo;>G. Pillonetto</a><br />
-“Bayesian Frequentist Bounds for Statistical Learning”<br />
-2020.  Note: <span style="color: orange"> Submitted</span>. 
+“Bayesian Frequentist Bounds for Machine Learning and System Identification”<br />
+2021.  Note: <span style="color: orange"> Submitted</span>. 
 </li>
 </ul>
 }}
 
 {{
 <ul class="submit">
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u> and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
-“Non-normality Improves Information Transmission Performance of Dynamical Networks”<br />
-2020.  Note: <span style="color: orange"> Submitted</span>. 
+“Non-normality Improves Information Transmission Performance of Network Systems”<br />
+2021.  Note: <span style="color: orange"> Submitted</span>. 
 </li>
 </ul>
 }}
 
 {{
-<ul class="submit">
-<li><p><span style="color: black">
+<ul class="accept">
+<li><span style="color: black">
 <u>G. Baggio</u>, 
 <a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, 
 and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a>  <br />
-“Data-Driven Control of Complex Networks”<br />
-2020.  Note: <span style="color: orange"> Submitted</span>. 
-</li>
+“Data-driven Control of Complex Networks”<br />
+<i>Nature Communications</i>, 2021.  Note: <span style="color: green"> To appear</span>. 
 <a href="https://arxiv.org/abs/2003.12189" target=&ldquo;blank&rdquo;>[arXiv]</a> <a href="https://tinyurl.com/y74b3gxn" target=&ldquo;blank&rdquo;>[code]</a>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u>, 
 V. Rutten, 
 <a href="https://ghennequin.github.io" target=&ldquo;blank&rdquo;>G. Hennequin</a>, and 
@@ -50,8 +79,6 @@ V. Rutten,
 “Efficient Communication over Complex Dynamical Networks: The Role of Matrix Non-Normality” <br />
 <i>Science Advances</i>, vol. 6, no. 22, eaba2282, 2020. 
 </span>
-</p>
-</li>
 <a href="https://arxiv.org/abs/1904.02447" target=&ldquo;blank&rdquo;>[arXiv]</a>  <a href="https://advances.sciencemag.org/content/6/22/eaba2282" target=&ldquo;blank&rdquo;>[online]</a> <a href="https://tinyurl.com/y9a9jffj" target=&ldquo;blank&rdquo;>[code]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
@@ -65,23 +92,23 @@ V. Rutten,
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {22}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {eaba2282}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2020} <br/>
-}</p>
+}
+</p>
 </div>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <a href="https://tommasomenara.com" target=&ldquo;blank&rdquo;>T. Menara</a>, 
 <u>G. Baggio</u>, 
 <a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, 
 and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a>  <br /> 
 “Conditions for Feedback Linearization of Network Systems” <br /> 
-<i>IEEE Control Systems Letters</i>, vol. 4, no. 3, pp. 578-583, July 2020. <br />
+<i>IEEE Control Systems Letters</i>, vol. 4, no. 3, pp. 578-583, July 2020. 
 </span>
-</p>
-</li>
 <a href="https://ieeexplore.ieee.org/document/8663340" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
@@ -97,22 +124,20 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2020} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <a href="https://tommasomenara.com" target=&ldquo;blank&rdquo;>T. Menara</a>, 
 <u>G. Baggio</u>, 
 <a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, and 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a> <br /> 
 “Stability Conditions for Cluster Synchronization in Networks of Heterogenous Kuramoto Oscillators” <br /> 
-<i>IEEE Transactions on Control of Network Systems</i>, vol. 7, no. 1, pp. 302-314, March 2020.  <br /></span></p>
-</span>
-</p>
-</li>
+<i>IEEE Transactions on Control of Network Systems</i>, vol. 7, no. 1, pp. 302-314, March 2020. 
 <a href="https://arxiv.org/abs/1806.06083" target=&ldquo;blank&rdquo;>[arXiv]</a> 
 <a href="https://ieeexplore.ieee.org/document/8663340" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
@@ -129,20 +154,18 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2020} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u>, 
-V. Katewa, and 
+<a href="https://cps.iisc.ac.in/faculty/vaibhav/index.html" target=&ldquo;blank&rdquo;>V. Katewa</a>, and 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a> <br /> 
-“Data-Driven Minimum-Energy Controls for Linear Systems”<br /> 
-<i>IEEE Control Systems Letters</i>, vol. 3, no. 3, pp.  589-594, July 2019. <br /></span></p>
-</span>
-</p>
-</li>
+“Data-driven Minimum-Energy Controls for Linear Systems”<br /> 
+<i>IEEE Control Systems Letters</i>, vol. 3, no. 3, pp.  589-594, July 2019.
 <a href="https://arxiv.org/abs/1902.02228" target=&ldquo;blank&rdquo;>[arXiv]</a>
 <a href="https://ieeexplore.ieee.org/document/8703172" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
@@ -150,7 +173,7 @@ V. Katewa, and
  <button onClick="copyToClipboard('GB-VK-FP:19')">Copy text</button>
   <p id="GB-VK-FP:19"> &nbsp <br/>
   @article{GB-VK-FP:19, <br/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Data-Driven Minimum-Energy Controls for Linear Systems}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Data-driven Minimum-Energy Controls for Linear Systems}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Katewa, Vaibhav and Pasqualetti, Fabio}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Control Systems Letters}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {3}, <br/>
@@ -159,20 +182,19 @@ V. Katewa, and
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
 }</p>
 </div>
+<i><b>(Outstanding Paper Award Winner)</b></i> <br />
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u>, 
 <a href="http://www.dei.unipd.it/~augusto/" target=&ldquo;blank&rdquo;>A. Ferrante</a>, and 
 <a href="https://sites.google.com/site/rsepulchre/" target=&ldquo;blank&rdquo;>R. Sepulchre</a> <br /> 
 “Conal Distances Between Rational Spectral Densities”<br /> 
-<i>IEEE Transactions on Automatic Control</i>, vol. 64, no. 5, pp. 1848-1857, May 2019. <br /></span></p>
-</span>
-</p>
-</li>
+<i>IEEE Transactions on Automatic Control</i>, vol. 64, no. 5, pp. 1848-1857, May 2019. 
 <a href="http://arxiv.org/abs/1708.02818" target=&ldquo;blank&rdquo;>[arXiv]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8410478" target=&ldquo;blank&rdquo;>[online]</a>
 <a href="https://github.com/baggiogi/finsler-speech-morphing" target=&ldquo;blank&rdquo;>[code]</a>
@@ -190,20 +212,17 @@ V. Katewa, and
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 B. Zhu and 
 <u>G. Baggio</u><br /> 
 “On the Existence of a Solution to a Spectral Estimation Problem <i>à la</i> Byrnes–Georgiou–Lindquist” <br /> 
 <i>IEEE Transactions on Automatic Control</i>, vol. 64, no. 2, pp. 820-825, Feb. 2019. 
- <br /></span></p>
-</span>
-</p>
-</li>
 <a href="http://arxiv.org/abs/1709.09012" target=&ldquo;blank&rdquo;>[arXiv]</a>
 <a href="http://ieeexplore.ieee.org/document/8359301" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
@@ -220,20 +239,17 @@ B. Zhu and
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u> and 
 <a href="http://www.dei.unipd.it/~augusto/" target=&ldquo;blank&rdquo;>A. Ferrante</a> <br /> 
 “Parametrization of Minimal Spectral Factors of Discrete-Time Rational Spectral Densities” <br /> 
 <i>IEEE Transactions on Automatic Control</i>, vol. 64, no. 1, pp. 396-403, Jan. 2019. 
-<br /></span></p>
-</span>
-</p>
-</li>
 <a href="http://arxiv.org/abs/1609.02711" target=&ldquo;blank&rdquo;>[arXiv]</a>
 <a href="http://ieeexplore.ieee.org/document/8344760" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
@@ -250,19 +266,16 @@ B. Zhu and
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u> <br /> 
 “Further Results on the Convergence of the Pavon–Ferrante Algorithm for Spectral Estimation” <br /> 
 <i>IEEE Transactions on Automatic Control</i>, vol. 63, no. 10, pp. 3510-3515, Oct. 2018. 
-<br /></span></p>
-</span>
-</p>
-</li>
 <a href="http://arxiv.org/abs/1612.03570" target=&ldquo;blank&rdquo;>[arXiv]</a>  
 <a href="http://ieeexplore.ieee.org/document/8264693" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
@@ -279,21 +292,18 @@ B. Zhu and
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2018} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 N. Bof, 
 <u>G. Baggio</u>, and 
 <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a> <br /> 
 “On the Role of Network Centrality in the Controllability of Complex Networks”<br /> 
 <i>IEEE Transactions on Control of Network Systems</i>, vol. 4, no. 3, pp. 643-653, Sept. 2017. 
-<br /></span></p>
-</span>
-</p>
-</li>
 <a href="http://arxiv.org/abs/1509.04154" target=&ldquo;blank&rdquo;>[arXiv]</a> 
 <a href="http://ieeexplore.ieee.org/document/7447762" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
@@ -310,20 +320,17 @@ N. Bof,
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2017} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u> and 
 <a href="http://www.dei.unipd.it/~augusto/" target=&ldquo;blank&rdquo;>A. Ferrante</a> <br /> 
 “On Minimal Spectral Factors with Zeroes and Poles lying on Prescribed Regions” <br /> 
 <i>IEEE Transactions on Automatic Control</i>, vol. 61, no. 8, pp. 2251-2255, Aug. 2016. 
-<br /></span></p>
-</span>
-</p>
-</li>
 <a href="http://arxiv.org/abs/1506.00883" target=&ldquo;blank&rdquo;>[arXiv]</a>
 <a href="http://ieeexplore.ieee.org/document/7286755" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
@@ -340,20 +347,17 @@ N. Bof,
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2016} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u> and 
 <a href="http://www.dei.unipd.it/~augusto/" target=&ldquo;blank&rdquo;>A. Ferrante</a> <br /> 
 “On the Factorization of Rational Discrete-Time Spectral Densities”<br /> 
 <i>IEEE Transactions on Automatic Control</i>, vol. 61, no. 4, pp. 969-981, April 2016. 
-<br /></span></p>
-</span>
-</p>
-</li>
 <a href="http://arxiv.org/abs/1410.0765" target=&ldquo;blank&rdquo;>[arXiv]</a>
 <a href="http://ieeexplore.ieee.org/document/7128353" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
@@ -370,6 +374,7 @@ N. Bof,
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2016} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
  
@@ -390,12 +395,11 @@ N. Bof,
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u> and 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
 “Learning Minimum-Energy Controls from Heterogeneous Data”<br /> 
-<i>American Control Conference (ACC)</i>, Denver, CO, USA, 2020. <br /></span></p>
-</li>
+<i>American Control Conference (ACC)</i>, Denver, CO, USA, 2020.
 <a href="https://arxiv.org/abs/2006.10895" target=&ldquo;blank&rdquo;>[arXiv]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/9147409" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
@@ -410,21 +414,19 @@ N. Bof,
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2020} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <a href="https://tommasomenara.com" target=&ldquo;blank&rdquo;>T. Menara</a>, 
 <u>G. Baggio</u>, 
 <a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, and 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
 “A Framework to Control Functional Connectivity in the Human Brain”<br /> 
-<i>IEEE Conference on Decision and Control (CDC)</i>, Nice, France, 2019.  <br /></span></p>
-</span>
-</p>
-</li>
+<i>IEEE Conference on Decision and Control (CDC)</i>, Nice, France, 2019. 
 <a href="https://arxiv.org/abs/1904.08805" target=&ldquo;blank&rdquo;>[arXiv]</a>
 <a href="https://ieeexplore.ieee.org/document/9029223" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
@@ -439,20 +441,19 @@ N. Bof,
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
 }</p>
 </div>
+<i><b>(Roberto Tempo Best CDC Paper Award Winner)</b></i> 
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u>, 
 <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>, and 
 <a href="https://www.imng.uni-stuttgart.de/institute/team/Scherer-00006/" target=&ldquo;blank&rdquo;>C. W. Scherer</a><br />
 “Gramian Optimization with Input-Power Constraints”<br /> 
-<i>IEEE Conference on Decision and Control (CDC)</i>, Nice, France, 2019.  <br /></span></p>
-</span>
-</p>
-</li>
+<i>IEEE Conference on Decision and Control (CDC)</i>, Nice, France, 2019.
 <a href="https://ieeexplore.ieee.org/abstract/document/9029169" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
@@ -466,20 +467,18 @@ N. Bof,
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 
 {{<ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <a href="http://www.dei.unipd.it/~ticozzi/" target=&ldquo;blank&rdquo;>F. Ticozzi</a>, 
 <u>G. Baggio</u>, and 
 <a href="https://sites.dartmouth.edu/lorenzaviola-group/" target=&ldquo;blank&rdquo;>L. Viola</a><br />
 “Quantum Information Encoding from Stabilizing Dynamics”<br /> 
-<i>IEEE Conference on Decision and Control (CDC)</i>, Nice, France, 2019. <br /></span></p>
-</span>
-</p>
-</li>
+<i>IEEE Conference on Decision and Control (CDC)</i>, Nice, France, 2019. 
 <a href="https://ieeexplore.ieee.org/abstract/document/9029402" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
@@ -498,16 +497,13 @@ N. Bof,
 }}
 
 {{<ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u>, 
-V. Katewa, 
+<a href="https://cps.iisc.ac.in/faculty/vaibhav/index.html" target=&ldquo;blank&rdquo;>V. Katewa</a>, 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a>, and 
 <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
 “The Shannon Capacity of Linear Dynamical Networks”<br /> 
-<i>European Control Conference (ECC)</i>, Naples, Italy, 2019. <br /></span></p>
-</span>
-</p>
-</li>
+<i>European Control Conference (ECC)</i>, Naples, Italy, 2019.
 <a href="https://ieeexplore.ieee.org/document/8795737" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
@@ -526,16 +522,14 @@ V. Katewa,
 }}
 
 {{<ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <a href="https://tommasomenara.com" target=&ldquo;blank&rdquo;>T. Menara</a>, 
 <u>G. Baggio</u>, 
 <a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, and 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
 “Exact and Approximate Stability Conditions for Cluster Synchronization of Kuramoto Oscillators”<br /> 
-<i>American Control Conference (ACC)</i>, Philadelphia, PA, USA, 2019. <br /> <i><b>(Best Student Paper Award Winner)</b></i> <br /></span></p>
+<i>American Control Conference (ACC)</i>, Philadelphia, PA, USA, 2019. 
 </span>
-</p>
-</li>
 <a href="https://ieeexplore.ieee.org/document/8814837" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
@@ -549,21 +543,21 @@ V. Katewa,
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2019} <br/>
 }</p>
 </div>
+<i><b>(Best Student Paper Award Winner)</b></i> 
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u>, 
 V. Rutten, 
 <a href="https://ghennequin.github.io" target=&ldquo;blank&rdquo;>G. Hennequin</a>, and 
 <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
 “Information Transmission in Dynamical Networks: The Normal Network Case”<br />
-<i>IEEE Conference on Decision and Control (CDC)</i>, Miami, FL, USA, 2018.  </p>
+<i>IEEE Conference on Decision and Control (CDC)</i>, Miami, FL, USA, 2018. 
 </span>
-</p>
-</li>
 <a href="http://ieeexplore.ieee.org/abstract/document/8619813" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
@@ -577,17 +571,17 @@ V. Rutten,
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2018} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u> and 
 <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br /> 
 “On the Relation between Non-Normality and Diameter in Linear Dynamical Networks”<br /> 
-<i>European Control Conference (ECC)</i>, Limassol, Cyprus, 2018.<br /> <i><b>(Best Student Paper Award Winner)</b></i> <br /></span></p>
-</li>
+<i>European Control Conference (ECC)</i>, Limassol, Cyprus, 2018.</span>
 <a href="http://ieeexplore.ieee.org/document/8550551" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
@@ -601,19 +595,20 @@ V. Rutten,
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2018} <br/>
 }</p>
 </div>
+<i><b>(Best Student Paper Award Winner)</b></i>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <a href="http://automatica.dei.unipd.it/people/michieletto.html" target=&ldquo;blank&rdquo;>G. Michieletto</a>, 
 S. Milani, 
 <a href="http://automatica.dei.unipd.it/people/cenedese.html" target=&ldquo;blank&rdquo;>
 A. Cenedese</a>, and 
 <u>G. Baggio</u> <br /> “Improving Consensus-based Distributed Camera Calibration via Edge Pruning and Graph Traversal Initialization”<br /> 
-<i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, Calgary, Canada, 2018. <br /></span></p>
-</li>
+<i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, Calgary, Canada, 2018. </span>
 <a href="http://ieeexplore.ieee.org/abstract/document/8461976" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
@@ -627,18 +622,18 @@ A. Cenedese</a>, and
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2018} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 
 {{
 <ul>
-<li><p><span style="color: black">
+<li><span style="color: black">
 <u>G. Baggio</u> and 
 <a href="https://sites.google.com/site/rsepulchre/" target=&ldquo;blank&rdquo;>R. Sepulchre</a><br /> 
 “LTI Stochastic Processes: a Behavioral Perspective”<br /> <i>Proceedings of 20th IFAC World Congress</i>, Toulouse, France, 2017. 
-<br /></span></p>
-</li>
+</span>
 <a href="https://arxiv.org/abs/1704.02154" target=&ldquo;blank&rdquo;>[arXiv]</a>
 <a href="http://www.sciencedirect.com/science/article/pii/S2405896317310108" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
@@ -655,15 +650,15 @@ A. Cenedese</a>, and
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2017} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black"><u>G. Baggio</u><br /> 
+<li><span style="color: black"><u>G. Baggio</u><br /> 
 “On the Convergence of a Matricial Fixed-Point Iteration Connected with Spectral Estimation”<br /> 
-<i>Proceedings of 20th IFAC World Congress</i>, Toulouse, France, 2017.<br /></span></p>
-</li>
+<i>Proceedings of 20th IFAC World Congress</i>, Toulouse, France, 2017.</span>
 <a href="http://www.sciencedirect.com/science/article/pii/S2405896317320785" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
@@ -679,18 +674,18 @@ A. Cenedese</a>, and
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2017} <br/>
 }</p>
 </div>
+</li>
 </ul>
 }}
 
 {{
 <ul>
-<li><p><span style="color: black"><u>G. Baggio</u>, 
+<li><span style="color: black"><u>G. Baggio</u>, 
 <a href="http://www.dei.unipd.it/~ticozzi/" target=&ldquo;blank&rdquo;>F. Ticozzi</a>, and 
 <a href="https://sites.dartmouth.edu/lorenzaviola-group/" target=&ldquo;blank&rdquo;>L. Viola</a><br /> 
 “Quantum State Preparation by Controlled Dissipation in Finite Time: From Classical to Quantum Controllers”<br /> 
 <i>IEEE Conference on Decision and Control (CDC)</i>, Maui, HI, USA, 2012. 
-<br /></span></p>
-</li>
+</span>
 <a href="http://arxiv.org/abs/1209.5568" target=&ldquo;blank&rdquo;>[arXiv]</a>
 <a href="http://ieeexplore.ieee.org/document/6426787" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
@@ -731,7 +726,7 @@ A. Cenedese</a>, and
 }}
 
 {{<ul>
-<li><p><span style="color: black"><u>G. Baggio</u> and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br /> “Data-Driven Optimal Control of Complex Networks”<br /> <i>ACC Workshop - Analysis and Control of Complex Networks: State of the Art and Research Directions</i>, Philadelphia, PA, USA, 9 July 2019. <a href="download/BP-poster.pdf" target=&ldquo;blank&rdquo;>[Poster]</a><br /></span></p>
+<li><p><span style="color: black"><u>G. Baggio</u> and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br /> “Data-driven Optimal Control of Complex Networks”<br /> <i>ACC Workshop - Analysis and Control of Complex Networks: State of the Art and Research Directions</i>, Philadelphia, PA, USA, 9 July 2019. <a href="download/BP-poster.pdf" target=&ldquo;blank&rdquo;>[Poster]</a><br /></span></p>
 </li>
 </ul>
 }}

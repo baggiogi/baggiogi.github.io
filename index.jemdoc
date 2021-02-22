@@ -4,24 +4,34 @@
 = Giacomo Baggio
 
 
-#~~~
-#{}{img_left}{./images/ID_photo.jpeg}{Myself}{190}{190}{}
-# {}{img_left}{./images/GiacomoBaggio.jpg}{Myself}{110}{140}{}
-# {}{img_left}{./images/Myself.jpg}{Myself}{110}{156}{} 
-# {}{img_left}{./images/charlie_brown_philosophy.gif}{Life}{}{}{peanuts} 
-*PostDoctoral Scholar* \n
+~~~
+{}{img_left}{./images/Myself6.png}{Myself}{170}{210.8}{} 
+#{}{img_left}{./images/Myself6.png}{Myself}{170}{222}{} 
 
-[http://www.me.ucr.edu Department of Mechanical Engineering]  \n
-[http://www.engr.ucr.edu Bourns College of Engineering] \n
-[https://www.ucr.edu University of California, Riverside] \n
-900 University Avenue \n
-Riverside, CA, USA, 92521 \n
 
-Email: giacomob \[at\] ucr \[at\] edu \n
-Skype: giacomo.baggio
-#~~~
+*Assistant Professor* \n
 
-\n
+[https://www.dei.unipd.it  Department of Information Engineering]  \n
+[https://www.unipd.it University of Padova] \n
+Room 317 DEI\/A Building \n
+Via Gradenigo 6/B \n
+35131 Padova, Italy \n
+
+
+📬 baggio \[at\] dei \[dot\] unipd \[dot\] it
+
+🎓 [https://scholar.google.it/citations?user=oivLZCUAAAAJ&hl=it *Google Scholar*] {{&nbsp;}} {{<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><i class="fa fa-github"></i>}}  [https://github.com/baggiogi *GitHub*]
+~~~
+
+
+{{<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120269054-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+        gtag('config', 'UA-120269054-1');
+</script>}}
 
 
  	
