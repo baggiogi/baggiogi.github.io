@@ -16,7 +16,6 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 
 📌  [./download/info_TdS2021.pdf Informazioni e programma indicativo]
 
-
 📌  [https://didattica.unipd.it/off/2020/LM/IN/IN0529/000ZZ/INP5070928/N0 Pagina offerta formativa UniPD]
 
 📌  [https://elearning.unipd.it/dtg/course/view.php?id=1398 Pagina moodle DTG] {{<font color="red">➡︎ Iscrizione obbligatoria!</font>}}
@@ -26,7 +25,9 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 
 *News:*
 
-📣 *22\/02\/21*: La prima lezione del corso si terrà {{<font color="red">  lunedì 1 marzo, ore 12:30-14:30 via Zoom</font>}}. {{<font color="red">  Il link Zoom è disponibile alla pagina moodle del corso.</font>}} A partire da quest'anno accademico ci saranno dei cambiamenti sulla modalità d'esame. Si prega di leggere con attenzione le FAQs riportate sotto.
+📣 *07\/03\/21*: Le lezioni del lunedì inizieranno alle ore *13:00*, mentre le lezioni del giovedì e venerdì alle ore *10:45*. 
+
+#📣 *22\/02\/21*: La prima lezione del corso si terrà {{<font color="red">  lunedì 1 marzo, ore 12:30-14:30 via Zoom</font>}}. {{<font color="red">  Il link Zoom è disponibile alla pagina moodle del corso.</font>}} A partire da quest'anno accademico ci saranno dei cambiamenti sulla modalità d'esame. Si prega di leggere con attenzione le FAQs riportate sotto.
 
 #• *30\/01\/21*: Il tema d'esame del 29\/01\/21 (V appello) assieme alla soluzione è disponibile al link sotto.
 
@@ -37,10 +38,10 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 
 *Orario lezioni:*
 
-- Lunedì 12:30-14:30, Zoom
+- Lunedì {{<font color="red">13:00-15:00</font>}}, Zoom
 - Mercoledì 14:30-16:30, Zoom
-- Giovedì 10:30-12:30, Zoom
-- Venerdì 10:30-12:30, Zoom
+- Giovedì {{<font color="red">10:45-12:45</font>}}, Zoom
+- Venerdì {{<font color="red">10:45-12:45</font>}}, Zoom
 
 🔗 I link Zoom per partecipare alle lezioni saranno resi disponibili nella pagina moodle del corso.
 
@@ -111,14 +112,14 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 
 ~~~
 {}{table}{lezioni2}
-*lezione*  | *contenuti* | *slides* | *slides annotate* | *testo* | *esercizi suggeriti* | *extra* ||
-01\/03\/21  | Introduzione al corso, \n concetto di sistema dinamico| [./download/main_lez1_2021.pdf Lezione 1] | -- | -- | -- |  [https://www.youtube.com/watch?v=XJLMW6l303g  Breve video sull'ingegneria del controllo]  ||
-03\/03\/21  | Classificazione di sistemi, \n rappresentazione in spazio di stato | [./download/main_lez2_2021.pdf Lezione 2] \n [./download/main_lez2_2021_4p.pdf Lezione 2 (2x2)] \n [./download/main_lez2_2021_2pn.pdf Lezione 2 (2x1\+N)] | [./download/main_lez2_2021_ann.pdf Lezione 2] | § 1.1, 1.2 | [./download/es_lez2_2021.pdf Esercizi] | --  ||
+*lezione*  | *contenuti* | *slides* | *slides annotate* | *testo* | *esercizi* | *extra* ||
+01\/03\/21  | Introduzione al corso, \n concetto di sistema dinamico| [./download/main_lez1_2021.pdf Lezione 1] | -- | -- | -- |  [https://www.youtube.com/watch?v=XJLMW6l303g  Breve video\n sull'ingegneria del controllo]  ||
+03\/03\/21  | Classificazione di sistemi, \n rappresentazione in spazio di stato | [./download/main_lez2_2021.pdf Lezione 2] \n [./download/main_lez2_2021_4p.pdf Lezione 2 (2x2)] \n [./download/main_lez2_2021_2pn.pdf Lezione 2 (2x1\+N)] | [./download/main_lez2_2021_ann.pdf Lezione 2]\n [./download/main_lez2_2021_ann2.pdf Lezione 2 (solo note)] | § 1.1, 1.2 | [./download/es_lez2_2021.pdf Esercizi] | --  ||
 04\/03\/21 | Esempi di sistemi in spazio di stato, \n esponenziale di matrice | [./download/main_lez3_2021.pdf Lezione 3] \n [./download/main_lez3_2021_4p.pdf Lezione 3 (2x2)] \n [./download/main_lez3_2021_2pn.pdf Lezione 3 (2x1\+N)] | [./download/main_lez3_2021_ann.pdf Lezione 3] | § 1.3, 1.4 | [./download/es_lez3_2021.pdf Esercizi] | --  ||
-{{<font color="white">05/03/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Introduzione}}  | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  ||
-08\/03\/21 | Richiami di algebra lineare, forma di Jordan,\n calcolo dell'esponenziale di matrice | -- | -- | -- | -- | --  ||
-10\/03\/21 | Modi elementari, evoluzione libera e\n forzata a tempo continuo | -- | -- | -- | -- | --  ||
-11\/03\/21 | Modi elementari, evoluzione libera e\n forzata a tempo discreto | -- | -- | -- | -- | --  ||
+{{<font color="white">05/03/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Introduzione}}  | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">Vedere pagina moodle\n per il materiale}}  ||
+08\/03\/21 | Richiami di algebra lineare, forma di Jordan,\n calcolo dell'esponenziale di matrice | [./download/main_lez5_2021.pdf Lezione 5] \n [./download/main_lez5_2021_4p.pdf Lezione 5 (2x2)] \n [./download/main_lez5_2021_2pn.pdf Lezione 5 (2x1\+N)] | -- | § 1.5, 1.6 | [./download/es_lez5_2021.pdf Esercizi] | --  ||
+10\/03\/21 | Modi elementari, evoluzione libera e\n forzata a tempo continuo | [./download/main_lez6_2021.pdf Lezione 6] \n [./download/main_lez6_2021_4p.pdf Lezione 6 (2x2)] \n [./download/main_lez6_2021_2pn.pdf Lezione 6 (2x1\+N)] | -- | § 1.7, 1.8, 3.1 | [./download/es_lez6_2021.pdf Esercizi] | --  ||
+11\/03\/21 | Modi elementari, evoluzione libera e\n forzata a tempo discreto | [./download/main_lez7_2021.pdf Lezione 7] \n [./download/main_lez7_2021_4p.pdf Lezione 7 (2x2)] \n [./download/main_lez7_2021_2pn.pdf Lezione 7 (2x1\+N)] | -- | § 3.1, 3.5-3.7 | [./download/es_lez7_2021.pdf Esercizi] | --  ||
 12\/03\/21 | Esercizi di ricapitolazione sulla parte I | -- | -- | -- | -- | --  ||
 15\/03\/21 | Equilibri, definizioni di \n stabilità, linearizzazione | -- | -- | -- | -- | --  ||
 17\/03\/21 | Teorema di linearizzazione,\n funzioni e teorema di Lyapunov | -- | -- | -- | -- | --  ||
