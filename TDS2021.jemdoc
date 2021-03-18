@@ -25,7 +25,9 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 
 *News:*
 
-📣 *07\/03\/21*: Le lezioni del lunedì inizieranno alle ore *13:00*, mentre le lezioni del giovedì e venerdì alle ore *10:45*. 
+📣 *18\/03\/21*: La lezione di lunedì 22\/03\/21 è cancellata.
+
+#📣 *07\/03\/21*: Le lezioni del lunedì inizieranno alle ore *13:00*, mentre le lezioni del giovedì e venerdì alle ore *10:45*. 
 
 #📣 *22\/02\/21*: La prima lezione del corso si terrà {{<font color="red">  lunedì 1 marzo, ore 12:30-14:30 via Zoom</font>}}. {{<font color="red">  Il link Zoom è disponibile alla pagina moodle del corso.</font>}} A partire da quest'anno accademico ci saranno dei cambiamenti sulla modalità d'esame. Si prega di leggere con attenzione le FAQs riportate sotto.
 
@@ -125,18 +127,18 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 17\/03\/21 | Teorema di linearizzazione,\n funzioni e teorema di Lyapunov | [./download/main_lez10_2021.pdf Lezione 10] \n [./download/main_lez10_2021_4p.pdf Lezione 10 (2x2)] \n [./download/main_lez10_2021_2pn.pdf Lezione 10 (2x1\+N)] | -- | § 2.3, 2.6 | [./download/es_lez10_2021.pdf Esercizi] | --   ||
 18\/03\/21 | Funzioni di Lyapunov per\n sistemi lineari, criterio di Krasowskii | [./download/main_lez11_2021.pdf Lezione 11] \n [./download/main_lez11_2021_4p.pdf Lezione 11 (2x2)] \n [./download/main_lez11_2021_2pn.pdf Lezione 11 (2x1\+N)] | -- | § 2.3, 2.4., 2.7 | [./download/es_lez11_2021.pdf Esercizi] | --   ||
 19\/03\/21 | Esercizi di ricapitolazione sulla parte II | [./download/main_lez12_2021.pdf Lezione 12] \n [./download/main_lez12_2021_4p.pdf Lezione 12 (2x2)] \n [./download/main_lez12_2021_2pn.pdf Lezione 12 (2x1\+N)] | -- | -- | -- | --  ||
-22\/03\/21 | Raggiungibilità a tempo discreto,\n ingresso a energia minima | -- | -- | -- | -- | --  ||
-24\/03\/21 | Forma canonica di raggiungibilità, test PBH,\n controllabilità a tempo discreto| -- | -- | -- | -- | --  ||
-25\/03\/21 | Raggiungibilità e controllabilità a tempo continuo | -- | -- | -- | -- | --  ||
-{{<font color="white">26/03/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Simulazione di un segway}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  ||
-29\/03\/21 | Introduzione al problema di controllo,\n esempi di controllo in retroazione dallo stato\/uscita| -- | -- | -- | -- | --  ||
-31\/03\/21 | Retroazione dallo stato e allocazione degli autovalori,\n forma canonica di controllo, stabilizzabilità| -- | -- | -- | -- | --  ||
-01\/04\/21 | Retroazione dallo stato con più ingressi,\n forma canonica di controllo multivariabile | -- | -- | -- | -- | --  ||
-07\/04\/21 | Osservabilità e ricostruibilità a tempo discreto, \n forma canonica di osservabilità, dualità | -- | -- | -- | -- | --  ||
-08\/04\/21 | Osservabilità e ricostruibilità a tempo continuo,\n stimatori dello stato, rivelabilità | -- | -- | -- | -- | --  ||
-09\/04\/21 | Sintesi del regolatore, principio di separazione | -- | -- | -- | -- | --  ||
-12\/04\/21 | Esercizi di ricapitolazione sulla parte III | -- | -- | -- | -- | --  ||
-{{<font color="white">14/04/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Controllo di un segway}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  
+24\/03\/21 | Raggiungibilità a tempo discreto,\n ingresso a energia minima | -- | -- | -- | -- | --  ||
+25\/03\/21 | Forma canonica di raggiungibilità, test PBH,\n controllabilità a tempo discreto| -- | -- | -- | -- | --  ||
+26\/03\/21 | Raggiungibilità e controllabilità a tempo continuo | -- | -- | -- | -- | --  ||
+{{<font color="white">29/03/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Simulazione di un segway}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  ||
+31\/03\/21 | Introduzione al problema di controllo,\n esempi di controllo in retroazione dallo stato\/uscita| -- | -- | -- | -- | --  ||
+01\/04\/21 | Retroazione dallo stato e allocazione degli autovalori,\n forma canonica di controllo, stabilizzabilità| -- | -- | -- | -- | --  ||
+07\/04\/21 | Retroazione dallo stato con più ingressi,\n forma canonica di controllo multivariabile | -- | -- | -- | -- | --  ||
+08\/04\/21 | Osservabilità e ricostruibilità a tempo discreto, \n forma canonica di osservabilità, dualità | -- | -- | -- | -- | --  ||
+09\/04\/21 | Osservabilità e ricostruibilità a tempo continuo,\n stimatori dello stato, rivelabilità | -- | -- | -- | -- | --  ||
+12\/04\/21 | Sintesi del regolatore, principio di separazione | -- | -- | -- | -- | --  ||
+14\/04\/21 | Esercizi di ricapitolazione sulla parte III | -- | -- | -- | -- | --  ||
+{{<font color="white">15/04/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Controllo di un segway}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  
 
 ~~~
 
