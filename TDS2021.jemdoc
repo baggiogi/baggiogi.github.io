@@ -25,7 +25,9 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 
 *News:*
 
-📣 *18\/03\/21*: La lezione di lunedì 22\/03\/21 è cancellata.
+📣 *28\/03\/21*: La seconda esercitazione {{MATLAB</u><sup>&reg;</sup>}} verrà sostituita da una lezione di esercizi.
+
+#📣 *18\/03\/21*: La lezione di lunedì 22\/03\/21 è cancellata.
 
 #📣 *07\/03\/21*: Le lezioni del lunedì inizieranno alle ore *13:00*, mentre le lezioni del giovedì e venerdì alle ore *10:45*. 
 
@@ -125,19 +127,19 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 12\/03\/21 | Esercizi di ricapitolazione sulla parte I | [./download/main_lez8_2021.pdf Lezione 8] \n [./download/main_lez8_2021_4p.pdf Lezione 8 (2x2)] \n [./download/main_lez8_2021_2pn.pdf Lezione 8 (2x1\+N)] | [./download/main_lez8_2021_ann.pdf Lezione 8]\n [./download/main_lez8_2021_ann2.pdf Lezione 8 (solo note)] | -- | -- | --  ||
 15\/03\/21 | Equilibri, definizioni di \n stabilità, linearizzazione | [./download/main_lez9_2021.pdf Lezione 9] \n [./download/main_lez9_2021_4p.pdf Lezione 9 (2x2)] \n [./download/main_lez9_2021_2pn.pdf Lezione 9 (2x1\+N)] | [./download/main_lez9_2021_ann.pdf Lezione 9]\n [./download/main_lez9_2021_ann2.pdf Lezione 9 (solo note)] | § 2.1, 2.2, 2.5 \n § 3.2 | [./download/es_lez9_2021.pdf Esercizi] | --   ||
 17\/03\/21 | Teorema di linearizzazione,\n funzioni e teorema di Lyapunov | [./download/main_lez10_2021.pdf Lezione 10] \n [./download/main_lez10_2021_4p.pdf Lezione 10 (2x2)] \n [./download/main_lez10_2021_2pn.pdf Lezione 10 (2x1\+N)] | [./download/main_lez10_2021_ann.pdf Lezione 10]\n [./download/main_lez10_2021_ann2.pdf Lezione 10 (solo note)] | § 2.3, 2.6 | [./download/es_lez10_2021.pdf Esercizi] | [https://www.geogebra.org/m/ZFYYEf3A Ritratto di fase pendolo]   ||
-18\/03\/21 | Teorema di Lyapunov e criterio di Krasowskii | [./download/main_lez11_2021.pdf Lezione 11] \n [./download/main_lez11_2021_4p.pdf Lezione 11 (2x2)] \n [./download/main_lez11_2021_2pn.pdf Lezione 11 (2x1\+N)] | [./download/main_lez11_2021_ann.pdf Lezione 11]\n [./download/main_lez11_2021_ann2.pdf Lezione 11 (solo note)] | § 2.7 | [./download/es_lez11_2021.pdf Esercizi] | --   ||
+18\/03\/21 | Criterio di Krasowskii | [./download/main_lez11_2021.pdf Lezione 11] \n [./download/main_lez11_2021_4p.pdf Lezione 11 (2x2)] \n [./download/main_lez11_2021_2pn.pdf Lezione 11 (2x1\+N)] | [./download/main_lez11_2021_ann.pdf Lezione 11]\n [./download/main_lez11_2021_ann2.pdf Lezione 11 (solo note)] | § 2.7 | [./download/es_lez11_2021.pdf Esercizi] | --   ||
 19\/03\/21 | Esercizi di ricapitolazione sulla parte II | [./download/main_lez12_2021.pdf Lezione 12] \n [./download/main_lez12_2021_4p.pdf Lezione 12 (2x2)] \n [./download/main_lez12_2021_2pn.pdf Lezione 12 (2x1\+N)] | [./download/main_lez12_2021_ann.pdf Lezione 12]\n [./download/main_lez12_2021_ann2.pdf Lezione 12 (solo note)] | -- | -- | --  ||
-24\/03\/21 | Raggiungibilità a tempo discreto,\n ingresso a energia minima | [./download/main_lez13_2021.pdf Lezione 13] \n [./download/main_lez13_2021_4p.pdf Lezione 13 (2x2)] \n [./download/main_lez13_2021_2pn.pdf Lezione 13 (2x1\+N)]  | -- | § 4.1, 4.2 | [./download/es_lez13_2021.pdf Esercizi]  | --  ||
+24\/03\/21 | Raggiungibilità a tempo discreto,\n ingresso a energia minima | [./download/main_lez13_2021.pdf Lezione 13] \n [./download/main_lez13_2021_4p.pdf Lezione 13 (2x2)] \n [./download/main_lez13_2021_2pn.pdf Lezione 13 (2x1\+N)]  | [./download/main_lez13_2021_ann.pdf Lezione 13]\n [./download/main_lez13_2021_ann2.pdf Lezione 13 (solo note)] | § 4.1, 4.2 | [./download/es_lez13_2021.pdf Esercizi]  | --  ||
 25\/03\/21 | Forma canonica di raggiungibilità, test PBH,\n controllabilità a tempo discreto| [./download/main_lez14_2021.pdf Lezione 14] \n [./download/main_lez14_2021_4p.pdf Lezione 14 (2x2)] \n [./download/main_lez14_2021_2pn.pdf Lezione 14 (2x1\+N)]  | -- | § 4.3, 4.4, 4.5 | [./download/es_lez14_2021.pdf Esercizi]  | --  ||
 26\/03\/21 | Raggiungibilità e controllabilità a tempo continuo | [./download/main_lez15_2021.pdf Lezione 15] \n [./download/main_lez15_2021_4p.pdf Lezione 15 (2x2)] \n [./download/main_lez15_2021_2pn.pdf Lezione 15 (2x1\+N)]  | -- |§ 4.6 | [./download/es_lez15_2021.pdf Esercizi]  | --  ||
-{{<font color="white">29/03/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Simulazione di un segway}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  ||
-31\/03\/21 | Introduzione al problema di controllo,\n esempi di controllo in retroazione dallo stato\/uscita| -- | -- | -- | -- | --  ||
-01\/04\/21 | Retroazione dallo stato e allocazione degli autovalori,\n forma canonica di controllo, stabilizzabilità| -- | -- | -- | -- | --  ||
-07\/04\/21 | Retroazione dallo stato con più ingressi,\n forma canonica di controllo multivariabile | -- | -- | -- | -- | --  ||
-08\/04\/21 | Osservabilità e ricostruibilità a tempo discreto, \n forma canonica di osservabilità, dualità | -- | -- | -- | -- | --  ||
-09\/04\/21 | Osservabilità e ricostruibilità a tempo continuo,\n stimatori dello stato, rivelabilità | -- | -- | -- | -- | --  ||
-12\/04\/21 | Sintesi del regolatore, principio di separazione | -- | -- | -- | -- | --  ||
-14\/04\/21 | Esercizi di ricapitolazione sulla parte III | -- | -- | -- | -- | --  ||
+29\/03\/21 | Introduzione al problema di controllo,\n esempi di controllo in retroazione dallo stato\/uscita| [./download/main_lez16_2021.pdf Lezione 16] \n [./download/main_lez16_2021_4p.pdf Lezione 16 (2x2)] \n [./download/main_lez16_2021_2pn.pdf Lezione 16 (2x1\+N)] | -- | -- | -- | --  ||
+31\/03\/21 | Retroazione dallo stato con uno o più ingressi,\n stabilizzabilità | [./download/main_lez17_2021.pdf Lezione 17] \n [./download/main_lez17_2021_4p.pdf Lezione 17 (2x2)] \n [./download/main_lez17_2021_2pn.pdf Lezione 17 (2x1\+N)] | -- | § 5.1, 5.2, 5.3 | [./download/es_lez17_2021.pdf Esercizi] |   ||
+01\/04\/21 | Esercizi di ricapitolazione su raggiungibilità,\n controllabilità e retroazione dallo stato  | [./download/main_lez18_2021.pdf Lezione 18] \n [./download/main_lez18_2021_4p.pdf Lezione 18 (2x2)] \n [./download/main_lez18_2021_2pn.pdf Lezione 18 (2x1\+N)] | -- | -- | -- | --  ||
+07\/04\/21 | Osservabilità e ricostruibilità a tempo discreto e continuo | -- | -- | -- | -- | --  ||
+08\/04\/21 | Dualità, stimatori dello stato, rivelabilità | -- | -- | -- | -- | --  ||
+09\/04\/21 | Sintesi del regolatore | -- | -- | -- | -- | --  ||
+12\/04\/21 | Esercizi di ricapitolazione su osservabilità,\n stimatori e regolatori  | -- | -- | -- | -- | --  ||
+14\/04\/21 | Esercizi di ricapitolazione sull'intero corso | -- | -- | -- | -- | --  ||
 {{<font color="white">15/04/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Controllo di un segway}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  
 
 ~~~
