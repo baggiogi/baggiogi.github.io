@@ -25,7 +25,9 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 
 *News:*
 
-📣 *28\/03\/21*: La seconda esercitazione {{MATLAB</u><sup>&reg;</sup>}} verrà sostituita da una lezione di esercizi.
+📣 *08\/04\/21*: L'orario di inizio del compitino del 23/04/2021 è stato posticipato alle ore 14:30.
+
+#📣 *28\/03\/21*: La seconda esercitazione {{MATLAB</u><sup>&reg;</sup>}} verrà sostituita da una lezione di esercizi.
 
 #📣 *18\/03\/21*: La lezione di lunedì 22\/03\/21 è cancellata.
 
@@ -63,7 +65,7 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 
 *Calendario esami:*
 
-- {{<u>Compitino (solo scritto):</u>}} 23\/04\/21, 9:00–11:00
+- {{<u>Compitino (solo scritto):</u>}} 23\/04\/21, 14:30–16:30
 
 - {{<u>I appello:</u>}} \n
 ○ Prova scritta: 21\/06\/21, 9:00–11:00 \n 
@@ -135,7 +137,7 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 29\/03\/21 | Introduzione al problema di controllo,\n esempi di controllo in retroazione dallo stato\/uscita| [./download/main_lez16_2021.pdf Lezione 16] \n [./download/main_lez16_2021_4p.pdf Lezione 16 (2x2)] \n [./download/main_lez16_2021_2pn.pdf Lezione 16 (2x1\+N)] | [./download/main_lez16_2021_ann.pdf Lezione 16]\n [./download/main_lez16_2021_ann2.pdf Lezione 16 (solo note)] | -- | -- | --  ||
 31\/03\/21 | Retroazione dallo stato con uno o più ingressi,\n stabilizzabilità | [./download/main_lez17_2021.pdf Lezione 17] \n [./download/main_lez17_2021_4p.pdf Lezione 17 (2x2)] \n [./download/main_lez17_2021_2pn.pdf Lezione 17 (2x1\+N)] | [./download/main_lez17_2021_ann.pdf Lezione 17]\n [./download/main_lez17_2021_ann2.pdf Lezione 17 (solo note)] | § 5.1, 5.2, 5.3 | [./download/es_lez17_2021.pdf Esercizi] | --  ||
 01\/04\/21 | Esercizi di ricapitolazione su raggiungibilità,\n controllabilità e retroazione dallo stato  | [./download/main_lez18_2021.pdf Lezione 18] \n [./download/main_lez18_2021_4p.pdf Lezione 18 (2x2)] \n [./download/main_lez18_2021_2pn.pdf Lezione 18 (2x1\+N)] | [./download/main_lez18_2021_ann.pdf Lezione 18]\n [./download/main_lez18_2021_ann2.pdf Lezione 18 (solo note)] | -- | -- | --  ||
-07\/04\/21 | Osservabilità e ricostruibilità a tempo discreto e continuo | [./download/main_lez19_2021.pdf Lezione 19] \n [./download/main_lez19_2021_4p.pdf Lezione 19 (2x2)] \n [./download/main_lez19_2021_2pn.pdf Lezione 19 (2x1\+N)] | -- | § 6.3, 6.4 | [./download/es_lez19_2021.pdf Esercizi] | --  ||
+07\/04\/21 | Osservabilità e ricostruibilità a tempo discreto e continuo | [./download/main_lez19_2021.pdf Lezione 19] \n [./download/main_lez19_2021_4p.pdf Lezione 19 (2x2)] \n [./download/main_lez19_2021_2pn.pdf Lezione 19 (2x1\+N)] | [./download/main_lez19_2021_ann.pdf Lezione 19]\n [./download/main_lez19_2021_ann2.pdf Lezione 19 (solo note)] | § 6.3, 6.4 | [./download/es_lez19_2021.pdf Esercizi] | --  ||
 08\/04\/21 | Dualità, stimatori dello stato, rivelabilità | [./download/main_lez20_2021.pdf Lezione 20] \n [./download/main_lez20_2021_4p.pdf Lezione 20 (2x2)] \n [./download/main_lez20_2021_2pn.pdf Lezione 20 (2x1\+N)] | -- | § 6.1, 6.2,\n 6.5, 6.6 | [./download/es_lez20_2021.pdf Esercizi] | --  ||
 09\/04\/21 | Sintesi del regolatore | [./download/main_lez21_2021.pdf Lezione 21] \n [./download/main_lez21_2021_4p.pdf Lezione 21 (2x2)] \n [./download/main_lez21_2021_2pn.pdf Lezione 21 (2x1\+N)]| -- | § 7.1 | [./download/es_lez21_2021.pdf Esercizi] | --  ||
 12\/04\/21 | Esercizi di ricapitolazione su osservabilità,\n stimatori e regolatori  | -- | -- | -- | -- | --  ||
