@@ -25,6 +25,8 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 
 *News:*
 
+📣 *11\/04\/21*: L'ultima lezione del corso si terrà venerdì 16 aprile (invece di giovedì 15 aprile). 
+
 📣 *08\/04\/21*: L'orario di inizio del compitino del 23\/04\/2021 è stato posticipato alle ore 14:30.
 
 #📣 *28\/03\/21*: La seconda esercitazione {{MATLAB</u><sup>&reg;</sup>}} verrà sostituita da una lezione di esercizi.
@@ -44,10 +46,10 @@ Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stab
 
 *Orario lezioni:*
 
-- Lunedì {{<font color="red">13:00-15:00</font>}}, Zoom
+- Lunedì 13:00-15:00, Zoom
 - Mercoledì 14:30-16:30, Zoom
-- Giovedì {{<font color="red">10:45-12:45</font>}}, Zoom
-- Venerdì {{<font color="red">10:45-12:45</font>}}, Zoom
+- Giovedì 10:45-12:45, Zoom
+- Venerdì 10:45-12:45, Zoom
 
 🔗 I link Zoom per partecipare alle lezioni saranno resi disponibili nella pagina moodle del corso.
 
@@ -139,10 +141,10 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 01\/04\/21 | Esercizi di ricapitolazione su raggiungibilità,\n controllabilità e retroazione dallo stato  | [./download/main_lez18_2021.pdf Lezione 18] \n [./download/main_lez18_2021_4p.pdf Lezione 18 (2x2)] \n [./download/main_lez18_2021_2pn.pdf Lezione 18 (2x1\+N)] | [./download/main_lez18_2021_ann.pdf Lezione 18]\n [./download/main_lez18_2021_ann2.pdf Lezione 18 (solo note)] | -- | -- | --  ||
 07\/04\/21 | Osservabilità e ricostruibilità a tempo discreto e continuo | [./download/main_lez19_2021.pdf Lezione 19] \n [./download/main_lez19_2021_4p.pdf Lezione 19 (2x2)] \n [./download/main_lez19_2021_2pn.pdf Lezione 19 (2x1\+N)] | [./download/main_lez19_2021_ann.pdf Lezione 19]\n [./download/main_lez19_2021_ann2.pdf Lezione 19 (solo note)] | § 6.3, 6.4 | [./download/es_lez19_2021.pdf Esercizi] | --  ||
 08\/04\/21 | Dualità, stimatori dello stato, rivelabilità | [./download/main_lez20_2021.pdf Lezione 20] \n [./download/main_lez20_2021_4p.pdf Lezione 20 (2x2)] \n [./download/main_lez20_2021_2pn.pdf Lezione 20 (2x1\+N)] | [./download/main_lez20_2021_ann.pdf Lezione 20]\n [./download/main_lez20_2021_ann2.pdf Lezione 20 (solo note)]  | § 6.1, 6.2,\n 6.5, 6.6 | [./download/es_lez20_2021.pdf Esercizi] | --  ||
-09\/04\/21 | Sintesi del regolatore | [./download/main_lez21_2021.pdf Lezione 21] \n [./download/main_lez21_2021_4p.pdf Lezione 21 (2x2)] \n [./download/main_lez21_2021_2pn.pdf Lezione 21 (2x1\+N)]| [./download/main_lez21_2021_ann.pdf Lezione 21] | § 7.1 | [./download/es_lez21_2021.pdf Esercizi] | --  ||
-12\/04\/21 | Esercizi di ricapitolazione su osservabilità,\n stimatori e regolatori  | -- | -- | -- | -- | --  ||
-14\/04\/21 | Esercizi di ricapitolazione sull'intero corso | -- | -- | -- | -- | --  ||
-{{<font color="white">15/04/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Controllo di un segway}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  
+09\/04\/21 | Sintesi del regolatore | [./download/main_lez21_2021.pdf Lezione 21] \n [./download/main_lez21_2021_4p.pdf Lezione 21 (2x2)] \n [./download/main_lez21_2021_2pn.pdf Lezione 21 (2x1\+N)] | [./download/main_lez21_2021_ann.pdf Lezione 21] | § 7.1 | [./download/es_lez21_2021.pdf Esercizi] | --  ||
+12\/04\/21 | Esercizi di ricapitolazione su osservabilità,\n stimatori e regolatori  | [./download/main_lez22_2021.pdf Lezione 22] \n [./download/main_lez22_2021_4p.pdf Lezione 22 (2x2)] \n [./download/main_lez22_2021_2pn.pdf Lezione 22 (2x1\+N)] | -- | -- | -- | --  ||
+14\/04\/21 | Esercizi in preparazione all'esame | [./download/main_lez23_2021.pdf Lezione 23] \n [./download/main_lez23_2021_4p.pdf Lezione 23 (2x2)] \n [./download/main_lez23_2021_2pn.pdf Lezione 23 (2x1\+N)] | -- | -- | -- | --  ||
+{{<font color="white">16/04/21}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Controllo di un segway}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  
 
 ~~~
 
