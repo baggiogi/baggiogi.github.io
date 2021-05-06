@@ -69,9 +69,9 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
 </span>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-VR-GH-SZ:20')">Copy text</button>
-  <p id="GB-VR-GH-SZ:20"> &nbsp <br/>
-  @article{GB-VR-GH-SZ:20, <br/>
+ <button onClick="copyToClipboard('GB-DSB-FP:21')">Copy text</button>
+  <p id="GB-DSB-FP:21"> &nbsp <br/>
+  @article{GB-DSB-FP:21, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Data-Driven Control of Complex Networks}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Bassett, Danielle S and Pasqualetti, Fabio}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {Nature Communications}, <br/>
