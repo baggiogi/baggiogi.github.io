@@ -63,8 +63,8 @@ P. D. Johnson, and
 <u>G. Baggio</u>, 
 <a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, 
 and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a>  <br />
-“Data-Driven Control of Complex Networks”<br />
-<i>Nature communications</i>, vol. 12, no. 1, pp. 1-13, 2021. 
+“Data-driven Control of Complex Networks”<br />
+<i>Nature Communications</i>, vol. 12, no. 1, pp. 1-13, 2021. 
 <a href="https://arxiv.org/abs/2003.12189" target=&ldquo;blank&rdquo;>[arXiv]</a> <a href="https://www.nature.com/articles/s41467-021-21554-0" target=&ldquo;blank&rdquo;>[online]</a> <a href="https://tinyurl.com/y74b3gxn" target=&ldquo;blank&rdquo;>[code]</a>
 </span>
 <button class="collapsible">[bibTeX]</button>
@@ -72,7 +72,7 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
  <button onClick="copyToClipboard('GB-DSB-FP:21')">Copy text</button>
   <p id="GB-DSB-FP:21"> &nbsp <br/>
   @article{GB-DSB-FP:21, <br/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Data-Driven Control of Complex Networks}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Data-driven Control of Complex Networks}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Bassett, Danielle S and Pasqualetti, Fabio}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {Nature Communications}, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {12}, <br/>
