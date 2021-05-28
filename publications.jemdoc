@@ -38,7 +38,7 @@ A. Scampicchio, and
 <li><span style="color: black">
 <u>G. Baggio</u> and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
 “Non-normality Improves Information Transmission Performance of Network Systems”<br />
-<i>IEEE Transactions on Control of Network Systems</i>, 2021.  Note: <span style="color: green"> To appear</span>. 
+<i>IEEE Transactions on Control of Network Systems</i>, 2021.  Note: <span style="color: green"> To appear</span>. <a href="download/Gramian-line-tech-note.pdf" target=&ldquo;blank&rdquo;>[tech. note]</a>
 </li>
 </ul>
 }}
@@ -798,15 +798,15 @@ for (i = 0; i < coll.length; i++) {
 }}
 
 
-=== Technical Reports & Notes
+#=== Technical Reports & Notes
 
 
-{{
-<ul>
-<li><p><span style="color: black">
-<u>G. Baggio</u> and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
-“The Controllability Gramian of Line Networks: Closed-Form Expressions and Asymptotic Transitions”<br />
-Technical Report, 2020. <a href="download/Gramian-line-tech-note.pdf" target=&ldquo;blank&rdquo;>[PDF]</a><br /></span></p>
-</li>
-</ul>
-}}
+#{{
+#<ul>
+#<li><p><span style="color: black">
+#<u>G. Baggio</u> and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
+#“The Controllability Gramian of Line Networks: Closed-Form Expressions and Asymptotic Transitions”<br />
+#Technical Report, 2020. <a href="download/Gramian-line-tech-note.pdf" target=&ldquo;blank&rdquo;>[PDF]</a><br /></span></p>
+#</li>
+#</ul>
+#}}
