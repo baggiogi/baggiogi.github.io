@@ -69,7 +69,7 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
 </span>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-DSB-FP:21')">Copy text</button>
+ <button onClick="copyToClipboard('GB-DSB-FP:21')", border="none">copy text</button>
   <p id="GB-DSB-FP:21"> &nbsp <br/>
   @article{GB-DSB-FP:21, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Data-driven Control of Complex Networks}, <br/>
@@ -99,7 +99,7 @@ V. Rutten,
 <a href="https://arxiv.org/abs/1904.02447" target=&ldquo;blank&rdquo;>[arXiv]</a>  <a href="https://advances.sciencemag.org/content/6/22/eaba2282" target=&ldquo;blank&rdquo;>[online]</a> <a href="https://tinyurl.com/y9a9jffj" target=&ldquo;blank&rdquo;>[code]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-VR-GH-SZ:20')">Copy text</button>
+ <button onClick="copyToClipboard('GB-VR-GH-SZ:20')">copy text</button>
   <p id="GB-VR-GH-SZ:20"> &nbsp <br/>
   @article{GB-VR-GH-SZ:20, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Efficient Communication over Complex Dynamical Networks: The Role of Matrix Non-Normality}, <br/>
@@ -129,7 +129,7 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
 <a href="https://ieeexplore.ieee.org/document/8663340" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('TM-GB-DSB-FP:20a')">Copy text</button>
+ <button onClick="copyToClipboard('TM-GB-DSB-FP:20a')">copy text</button>
   <p id="TM-GB-DSB-FP:20a"> &nbsp <br/>
   @article{TM-GB-DSB-FP:20a, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Conditions for Feedback Linearization of Network Systems}, <br/>
@@ -159,7 +159,7 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
 <a href="https://ieeexplore.ieee.org/document/8663340" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('TM-GB-DSB-FP:20b')">Copy text</button>
+ <button onClick="copyToClipboard('TM-GB-DSB-FP:20b')">copy text</button>
   <p id="TM-GB-DSB-FP:20b"> &nbsp <br/>
   @article{TM-GB-DSB-FP:20b, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Stability Conditions for Cluster Synchronization in Networks of Heterogeneous {K}uramoto Oscillators}, <br/>
@@ -187,7 +187,7 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
 <a href="https://ieeexplore.ieee.org/document/8703172" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-VK-FP:19')">Copy text</button>
+ <button onClick="copyToClipboard('GB-VK-FP:19')">copy text</button>
   <p id="GB-VK-FP:19"> &nbsp <br/>
   @article{GB-VK-FP:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Data-driven Minimum-Energy Controls for Linear Systems}, <br/>
@@ -217,7 +217,7 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
 <a href="https://github.com/baggiogi/finsler-speech-morphing" target=&ldquo;blank&rdquo;>[code]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-AF-RS:19')">Copy text</button>
+ <button onClick="copyToClipboard('GB-AF-RS:19')">copy text</button>
   <p id="GB-AF-RS:19"> &nbsp <br/>
   @article{GB-AF-RS:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Conal Distances Between Rational Spectral Densities}, <br/>
@@ -244,7 +244,7 @@ B. Zhu and
 <a href="http://ieeexplore.ieee.org/document/8359301" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('BZ-GB:19')">Copy text</button>
+ <button onClick="copyToClipboard('BZ-GB:19')">copy text</button>
   <p id="BZ-GB:19"> &nbsp <br/>
   @article{BZ-GB:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Existence of a Solution to a Spectral Estimation Problem {\'a} la {B}yrnes-{G}eorgiou-{L}indquist}, <br/>
@@ -271,7 +271,7 @@ B. Zhu and
 <a href="http://ieeexplore.ieee.org/document/8344760" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-AF:19')">Copy text</button>
+ <button onClick="copyToClipboard('GB-AF:19')">copy text</button>
   <p id="GB-AF:19"> &nbsp <br/>
   @article{GB-AF:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Parametrization of Minimal Spectral Factors of Discrete-Time Rational Spectral Densities}, <br/>
@@ -297,7 +297,7 @@ B. Zhu and
 <a href="http://ieeexplore.ieee.org/document/8264693" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB:18')">Copy text</button>
+ <button onClick="copyToClipboard('GB:18')">copy text</button>
   <p id="GB:18"> &nbsp <br/>
   @article{GB:18, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Further Results on the Convergence of the {P}avon-{F}errante Algorithm for Spectral Estimation}, <br/>
@@ -325,7 +325,7 @@ N. Bof,
 <a href="http://ieeexplore.ieee.org/document/7447762" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('NB-GB-SZ:17')">Copy text</button>
+ <button onClick="copyToClipboard('NB-GB-SZ:17')">copy text</button>
   <p id="NB-GB-SZ:17"> &nbsp <br/>
   @article{NB-GB-SZ:17, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Role of Network Centrality in the Controllability of Complex Networks}, <br/>
@@ -352,7 +352,7 @@ N. Bof,
 <a href="http://ieeexplore.ieee.org/document/7286755" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-AF:16b')">Copy text</button>
+ <button onClick="copyToClipboard('GB-AF:16b')">copy text</button>
   <p id="GB-AF:16b"> &nbsp <br/>
   @article{GB-AF:16b, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On Minimal Spectral Factors with Zeroes and Poles lying on Prescribed Regions}, <br/>
@@ -379,7 +379,7 @@ N. Bof,
 <a href="http://ieeexplore.ieee.org/document/7128353" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-AF:16a')">Copy text</button>
+ <button onClick="copyToClipboard('GB-AF:16a')">copy text</button>
   <p id="GB-AF:16a"> &nbsp <br/>
   @article{GB-AF:16a, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Factorization of Rational Discrete-Time Spectral Densities}, <br/>
@@ -431,7 +431,7 @@ N. Bof,
 <a href="https://ieeexplore.ieee.org/abstract/document/9147409" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-FP:20')">Copy text</button>
+ <button onClick="copyToClipboard('GB-FP:20')">copy text</button>
   <p id="GB-FP:20"> &nbsp <br/>
   @inproceedings{GB-FP:20, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Learning Minimum-Energy Controls from Heterogeneous Data}, <br/>
@@ -458,7 +458,7 @@ N. Bof,
 <a href="https://ieeexplore.ieee.org/document/9029223" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('TM-GB-DSB-FP:19b')">Copy text</button>
+ <button onClick="copyToClipboard('TM-GB-DSB-FP:19b')">copy text</button>
   <p id="TM-GB-DSB-FP:19b"> &nbsp <br/>
   @inproceedings{TM-GB-DSB-FP:19b, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {A Framework to Control Functional Connectivity in the Human Brain}, <br/>
@@ -484,7 +484,7 @@ N. Bof,
 <a href="https://ieeexplore.ieee.org/abstract/document/9029169" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-SZ-CWS:19')">Copy text</button>
+ <button onClick="copyToClipboard('GB-SZ-CWS:19')">copy text</button>
   <p id="GB-SZ-CWS:19"> &nbsp <br/>
   @inproceedings{GB-SZ-CWS:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Gramian Optimization with Input-Power Constraints}, <br/>
@@ -509,7 +509,7 @@ N. Bof,
 <a href="https://ieeexplore.ieee.org/abstract/document/9029402" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('FT-GB-LV:19')">Copy text</button>
+ <button onClick="copyToClipboard('FT-GB-LV:19')">copy text</button>
   <p id="FT-GB-LV:19"> &nbsp <br/>
   @inproceedings{FT-GB-LV:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Quantum Information Encoding from Stabilizing Dynamics}, <br/>
@@ -534,7 +534,7 @@ N. Bof,
 <a href="https://ieeexplore.ieee.org/document/8795737" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-VK-FP-SZ:19')">Copy text</button>
+ <button onClick="copyToClipboard('GB-VK-FP-SZ:19')">copy text</button>
   <p id ="GB-VK-FP-SZ:19"> &nbsp <br/>
   @inproceedings{GB-VK-FP-SZ:19, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {The {S}hannon Capacity of Linear Dynamical Networks}, <br/>
@@ -560,7 +560,7 @@ N. Bof,
 <a href="https://ieeexplore.ieee.org/document/8814837" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('TM-GB-DSB-FP:19a')">Copy text</button>
+ <button onClick="copyToClipboard('TM-GB-DSB-FP:19a')">copy text</button>
   <p id="TM-GB-DSB-FP:19a"> &nbsp <br/>
   @inproceedings{TM-GB-DSB-FP:19a, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Exact and Approximate Stability Conditions for Cluster Synchronization of {K}uramoto Oscillators}, <br/>
@@ -588,7 +588,7 @@ V. Rutten,
 <a href="http://ieeexplore.ieee.org/abstract/document/8619813" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-VR-GH-SZ:18')">Copy text</button>
+ <button onClick="copyToClipboard('GB-VR-GH-SZ:18')">copy text</button>
   <p id="GB-VR-GH-SZ:18"> &nbsp <br/>
   @inproceedings{GB-VR-GH-SZ:18, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Information Transmission in Dynamical Networks: The Normal Network Case}, <br/>
@@ -612,7 +612,7 @@ V. Rutten,
 <a href="http://ieeexplore.ieee.org/document/8550551" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-SZ:18')">Copy text</button>
+ <button onClick="copyToClipboard('GB-SZ:18')">copy text</button>
   <p id="GB-SZ:18"> &nbsp <br/>
   @inproceedings{GB-SZ:18, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Relation between Non-normality and Diameter in Linear Dynamical Networks}, <br/>
@@ -639,7 +639,7 @@ A. Cenedese</a>, and
 <a href="http://ieeexplore.ieee.org/abstract/document/8461976" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GM-SM-AC-GB:18')">Copy text</button>
+ <button onClick="copyToClipboard('GM-SM-AC-GB:18')">copy text</button>
   <p id="GM-SM-AC-GB:18"> &nbsp <br/>
   @inproceedings{GM-SM-AC-GB:18, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Improving Consensus-based Distributed Camera Calibration via Edge Pruning and Graph Traversal Initialization}, <br/>
@@ -665,7 +665,7 @@ A. Cenedese</a>, and
 <a href="http://www.sciencedirect.com/science/article/pii/S2405896317310108" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB-RS:17')">Copy text</button>
+ <button onClick="copyToClipboard('GB-RS:17')">copy text</button>
   <p id="GB-RS:17"> &nbsp <br/>
   @article{GB-RS:17, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {{LTI} Stochastic Processes: a Behavioral Perspective}, <br/>
@@ -689,7 +689,7 @@ A. Cenedese</a>, and
 <a href="http://www.sciencedirect.com/science/article/pii/S2405896317320785" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('GB:17')">Copy text</button>
+ <button onClick="copyToClipboard('GB:17')">copy text</button>
   <p id="GB:17"> &nbsp <br/>
   @article{GB:17, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {On the Convergence of a Matricial Fixed-Point Iteration Connected with Spectral Estimation}, <br/>
@@ -717,7 +717,7 @@ A. Cenedese</a>, and
 <a href="http://ieeexplore.ieee.org/document/6426787" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
- <button onClick="copyToClipboard('FT-GB-LV:12')">Copy text</button>
+ <button onClick="copyToClipboard('FT-GB-LV:12')">copy text</button>
   <p id="FT-GB-LV:12"> &nbsp <br/>
   @inproceedings{FT-GB-LV:12, <br/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Quantum State Preparation by Controlled Dissipation in Finite Time: From Classical to Quantum Controllers}, <br/>
@@ -796,6 +796,7 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 }}
+
 
 
 #=== Technical Reports & Notes
