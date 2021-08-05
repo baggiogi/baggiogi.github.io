@@ -57,16 +57,32 @@ A. Scampicchio, and
 </ul>
 }}
 
-{{<ul class="accept">
+{{
+<ul>
 <li><span style="color: black">
 <u>G. Baggio</u>, 
 <a href="http://www.dei.unipd.it/~ticozzi/" target=&ldquo;blank&rdquo;>F. Ticozzi</a>, 
 P. D. Johnson, and 
 <a href="https://sites.dartmouth.edu/lorenzaviola-group/" target=&ldquo;blank&rdquo;>L. Viola</a><br />
 “Dissipative Encoding of Quantum Information”<br /> 
-<i>Quantum Information & Computation</i>, 2021. Note: <span style="color: green"> To appear</span>.
+<i>Quantum Information & Computation</i>, vol. 21, no. 9&10, pp. 737-770, 2021.
+<a href="https://arxiv.org/abs/2102.04531" target=&ldquo;blank&rdquo;>[arXiv]</a> <a href="http://www.rintonpress.com/journals/qiconline.html" target=&ldquo;blank&rdquo;>[online]</a>
 </span>
-<a href="https://arxiv.org/abs/2102.04531" target=&ldquo;blank&rdquo;>[arXiv]</a> 
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+ <button onClick="copyToClipboard('GB-FT-PDJ-LV:21')", border="none">copy text</button>
+  <p id="GB-FT-PDJ-LV:21"> &nbsp <br/>
+  @article{GB-FT-PDJ-LV:21, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Dissipative Encoding of Quantum Information}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Ticozzi, Francesco and Johnson, Peter D and Viola, Lorenza}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {Quantum Information & Computation}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {21}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {9&10}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {737-770}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2021} <br/>
+}
+</p>
+</div>
 </li>
 </ul>
 }}
@@ -412,24 +428,14 @@ N. Bof,
 === Conference Papers {{<span style="font-size: 12pt;font-weight:normal"> (<span style="color: black"> Published</span> / <span style="color: green"> To appear</span> / <span style="color: orange"> Submitted</span> )</span>}}
 
 
-#{{
-#<ul class="submit">
-#<li><p><span style="color: black">
-#<u>G. Baggio</u> and 
-#<a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>  <br />
-#“The Numerical Abscissa as an Indicator of Network Performance”<br />
-#2020.  Note: <span style="color: orange"> Submitted</span>. 
-#</li>
-#</ul>
-#}}
 
 {{
-<ul class="submit">
+<ul class="accept">
 <li><span style="color: black">
 <a href="https://federicoceli.github.io" target=&ldquo;blank&rdquo;>F. Celi</a>, <u>G. Baggio</u>, and 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
 “Distributed Learning of Optimal Controls for Linear Systems”<br /> 
-2021.  Note: <span style="color: orange"> Submitted</span>. 
+<i>IEEE Conference on Decision and Control (CDC)</i>, Austin, TX, USA, 2021.   Note: <span style="color: green"> To appear</span>. 
 </li>
 </ul>
 }}
