@@ -45,11 +45,25 @@ and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;
 
 
 {{
-<ul class="accept">
+<ul>
 <li><span style="color: black">
 <u>G. Baggio</u> and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
 “Non-normality Improves Information Transmission Performance of Network Systems”<br />
-<i>IEEE Transactions on Control of Network Systems</i>, 2021.  Note: <span style="color: green"> To appear</span>. <a href="https://ieeexplore.ieee.org/document/9454362" target=&ldquo;blank&rdquo;>[online]</a> <a href="download/Gramian-line-TN.pdf" target=&ldquo;blank&rdquo;>[tech. note]</a>
+<i>IEEE Transactions on Control of Network Systems</i>, vol. 8, no. 4, pp. 1846-1858, Dec. 2021.  <a href="https://ieeexplore.ieee.org/document/9454362" target=&ldquo;blank&rdquo;>[online]</a> <a href="download/Gramian-line-TN.pdf" target=&ldquo;blank&rdquo;>[tech. note]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+ <button onClick="copyToClipboard('GB-SZ:21')">copy text</button>
+  <p id="GB-SZ:21"> &nbsp <br/>
+  @article{GB-SZ:21, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Non-normality Improves Information Transmission Performance of Network Systems}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Zampieri, Sandro}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Transactions on Control of Network Systems}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {8}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {4}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {1846-1858}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2021} <br/>
+}</p>
+</div>
 </li>
 </ul>
 }}
@@ -440,12 +454,26 @@ N. Bof,
 }}
 
 {{
-<ul class="accept">
+<ul>
 <li><span style="color: black">
 <a href="https://federicoceli.github.io" target=&ldquo;blank&rdquo;>F. Celi</a>, <u>G. Baggio</u>, and 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
 “Distributed Learning of Optimal Controls for Linear Systems”<br /> 
-<i>IEEE Conference on Decision and Control (CDC)</i>, Austin, TX, USA, 2021.   Note: <span style="color: green"> To appear</span>. 
+<i>IEEE Conference on Decision and Control (CDC)</i>, Austin, TX, USA, 2021. 
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+ <button onClick="copyToClipboard('FC-GB-FP:21')">copy text</button>
+  <p id="FC-GB-FP:21"> &nbsp <br/>
+  @inproceedings{FC-GB-FP:21, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Distributed Learning of Optimal Controls for Linear Systems}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Celi, Federico and Baggio, Giacomo and Pasqualetti, Fabio}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  booktitle = {2021 IEEE 60th Conference on Decision and Control (CDC)}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {5764-5769}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2021} <br/>
+}</p>
+</div>
+</li>
+</ul>
 </li>
 </ul>
 }}
