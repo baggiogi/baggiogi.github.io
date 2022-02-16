@@ -1,0 +1,151 @@
+# jemdoc: menu{MENU}{teaching.html}, showsource 
+# jemdoc: addcss{jemdoc.css}
+= Teoria dei Sistemi 2021/22 --- LM Ingegneria Meccatronica • Univ. Padova
+
+== Informazioni generali
+
+
+~~~
+{}{img_left}{./images/comics2122.jpg}{state_space_comics}{301.815}{338.7375}{}
+*Descrizione:*\n \n
+Il corso si propone di fornire strumenti e tecniche avanzate per l'/analisi/ e il /controllo/ di sistemi dinamici.\n
+Ci concentreremo sull'approccio in spazio di stato e considereremo, per la gran parte del corso, sistemi lineari e tempo invarianti a tempo continuo e discreto.
+#della forma $\dot{x}(t) = Ax(t)+Bu(t)$, $y(t)= Cx(t)+Du(t)$ (tempo continuo) e $x(t+1)=Ax(t)+Bu(t)$, $y(t)= Cx(t)+Du(t)$ (tempo discreto). 
+Analizzeremo prima le proprietà fondamentali di questi sistemi (soluzioni, stabilità, raggiungibilità, osservabilità, etc.) per poi studiare tecniche di controllo in retroazione.\n
+Il corso prevede una parte di programmazione in MATLAB{{</u><sup>&reg;</sup>}}. \n
+\n {{<font color="lightgray",font size="0.5">[Image credits: <a href="http://controlcartoons.com">http://controlcartoons.com</a>]</font>}}
+
+
+📌  [./download/info_TDS2122.pdf Informazioni e programma indicativo]
+
+📌  [https://didattica.unipd.it/off/2021/LM/IN/IN0529/000ZZ/INP5070928/N0 Pagina offerta formativa UniPD]
+
+📌  [https://elearning.unipd.it/dtg/course/view.php?id=1712 Pagina moodle DTG] {{<font color="red">➡︎ Iscrizione obbligatoria!</font>}}
+~~~
+
+
+
+*News:*
+
+📣 *16\/02\/22*: La prima lezione del corso si terrà {{<font color="red">  lunedì 28 febbraio, ore 14:30-16:30, Aula VM16</font>}}. Il link Zoom per assistere da remoto è disponibile alla pagina moodle del corso.
+
+
+
+*Ricevimento:*
+
+🚪 Venerdi ore 14:00 via Zoom fino a fine semestre e/o su appuntamento.
+
+*Orario lezioni:*
+
+- Lunedì 16:30-18:30, Aula VM16
+- Mercoledì 14:30-16:30, Aula VM17
+- Giovedì 10:30-12:30 + 14:30-16:30, Aula VM17
+
+🔗 I link Zoom per partecipare alle lezioni e al ricevimento saranno resi disponibili nella pagina moodle del corso.
+
+🗓 Per un calendario sempre aggiornato delle lezioni ed esami dell'intero corso integrato (Modulo A+B) si faccia riferimento al [https://calendar.google.com/calendar/u/2?cid=Y18yY3RxNmhzcGk1YmluM21wOHUyYnZkMGRwc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t Google calendar del corso]. 
+
+*Testo di riferimento:*
+
+Appunti e slides delle lezioni.
+
+*Testi per consultazione:*
+
+📕 M. Bisiacco, S. Braghetto. "Teoria dei sistemi dinamici". /Società Editrice Esculapio/, 2 Ed., 2010.\n
+📗 E. Fornasini. "Appunti di teoria dei sistemi". /Ed. Libreria Progetto Padova/, 2013.\n
+📘 E. Fornasini, G. Marchesini. "Esercizi di teoria dei sistemi". /Ed. Libreria Progetto Padova/, 1997. \n
+📙 J. P. Hespanha. "Linear systems theory". /Princeton University Press/, 2018.
+
+*Calendario esami:*
+
+
+- {{<u>I appello:</u>}} \n
+○ Consegna Homework: 20\/06\/22, ore 23:59. \n
+○ Orale: 23-24\/06\/22, Aula VM12.
+- {{<u>II appello:</u>}} \n
+○ Consegna Homework: 01\/07\/22, ore 23:59. \n 
+○ Orale: 06-07\/07\/22, Aula VM12.
+- {{<u>III appello:</u>}} \n
+○ Consegna Homework: 29\/08\/22, ore 23:59. \n 
+○ Orale: 01-02\/09\/22, Aula VM12.
+- {{<u>IV appello:</u>}} \n
+○ Consegna Homework: 12\/09\/22, ore 23:59. \n 
+○ Orale: 15-16\/09\/22, Aula VM12.
+
+
+*Materiale utile per l'esame:*
+
+📝 Esercizi e temi d'esame risolti degli anni scorsi sono disponibili alle pagine web del corso degli scorsi A.A. ([https://baggiogi.github.io/TDS1920.html 2019\/20], [https://baggiogi.github.io/TDS2021.html 2020\/21]).
+
+#🗣 [./download/esempi_domande_2021.pdf Esempi di domande prova orale].
+#- [./download/simulazione.pdf Simulazione d'esame.]
+
+
+*FAQs:*
+
+
+. {{<u>Come è strutturato l'esame?</u>}}\n
+L'esame del modulo A (Teoria dei Sistemi) è composto da un homework (10 punti) ed una prova orale (5 punti). L'homework consiste in una breve relazione scritta su un problema di analisi e controllo di un sistema dinamico e contiene delle parti da svolgere in MATLAB. Al punteggio di homework o orale possono venire aggiunti 2 punti extra, a discrezione del docente, per premiare impegno, ordine, chiarezza, etc. Sia il modulo A che il modulo B hanno un punteggio massimo di 17 punti. Il voto finale del corso integrato (modulo A+modulo B) è dato dalla somma dei voti dei due moduli (arrotondata per eccesso in caso di mezzo voto). Un voto finale $\geq$ 31 corrisponde a 30 e lode.
+. {{<u>Quando verrà reso disponibile l'homework?</u>}}\n
+L'homework verrà reso disponibile durante l'ultima settimana di lezione del modulo A.
+. {{<u>Ho consegnato l'homework, quando posso sostenere l'orale?</u>}}\n
+L'orale può essere sostenuto in un qualsiasi appello entro e non oltre il 28 febbraio 2023. 
+. {{<u>Posso consegnare l'homework del modulo A e la relazione di laboratorio del modulo B in appelli diversi?</u>}}\n
+Sì è possibile, purché entrambi vengano consegnati in appelli non successivi al 28 febbraio 2023.
+. {{<u>Ho già consegnato l'homework, ma vorrei rifarlo. Posso?</u>}}\n
+No. Una volta consegnato l'homework non è possibile rifarlo. \n
+\ {{<u>E se non supero l'esame a causa di un punteggio troppo basso ($\le$ 4) nell'homework?</u>}}\n
+In questo caso l'esame verrà interamente sostituito da un esame orale (ovviamente più approfondito di quello standard).
+. {{<u>Posso usare un qualsiasi editor di testo per scrivere la relazione?</u>}}\n
+Sì è possibile usare un qualsiasi editor di testo. Tuttavia poiché ci saranno delle equazioni da scrivere è fortemente consigliato l'utilizzo di [https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes LaTeX]. Per chi volesse, verrà reso disponibile un template LaTeX di relazione. *In ogni caso, la relazione andrà consegnata in formato pdf*.
+. {{<u>Posso far riferimento al materiale didattico usato negli scorsi A.A.?</u>}}\n
+Anche se il programma del modulo A rimane pressoché invariato rispetto a quello degli scorsi A.A., ci saranno delle modifiche di alcune parti del materiale didattico. Il nuovo materiale didattico (slides ed esercizi) relativo ad un argomento verrà reso disponibile in questa pagina web ed in moodle qualche giorno prima delle lezioni in oggetto. *Si consiglia fortemente di utilizzare il materiale didattico aggiornato di quest'anno.*
+. {{<u>Ho superato la prova scritta nello scorso A.A., ma mi manca l'orale. Posso sostenere solo la prova l'orale? </u>}} \n
+Se il voto della prova scritta è ancora valido, può sostenere la prova orale. Se il voto della prova scritta è scaduto, dovrà sostenere l'intero esame secondo le nuove modalità.
+. {{<u>Non ho MATLAB installato nel mio computer. Come faccio?</u>}}\n
+L'Università di Padova mette a disposizione dei suoi studenti una licenza gratuita per l'installazione e utilizzo di MATLAB. Si faccia riferimento a [https://www.ict.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-e-licenze/matlab questa pagina] per ulteriori informazioni. In alternativa, è possibile utilizzare MATLAB attraverso una macchina virtuale (quindi senza doverlo installare nel proprio computer) grazie al Progetto Taliercio 2020 dell'Università di Padova (contattare la segreteria didattica per maggiori informazioni).
+. {{<u>Le esercitazioni MATLAB sono facoltative?</u>}}\n
+No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quindi parte integrante del corso. Inoltre alcuni parti dell'homework richiederanno l'utilizzo di MATLAB. 
+
+== Lezioni e materiale didattico
+
+
+~~~
+{}{table}{lezioni2}
+*lezione*  | *contenuti* | *slides* | *slides annotate* | *extra* ||
+28\/02\/22 | Introduzione al corso, \n concetto di sistema dinamico| -- | -- |  [https://www.youtube.com/watch?v=XJLMW6l303g  Breve video\n sull'ingegneria del controllo]  ||
+02\/03\/22 | Classificazione di sistemi, \n rappresentazione in spazio di stato | -- | -- | --  ||
+03\/03\/22 | Esempi di modelli in spazio di stato | -- | -- | --  ||
+03\/03\/22 | Equilibri, definizioni di stabilità,\n linearizzazione  | -- | -- | --  ||
+07\/03\/22 | Richiami di algebra lineare | -- | -- | --  ||
+09\/03\/22 | Soluzioni a tempo continuo, esponenziale di matrice, \n definizione ed esempi di calcolo | -- | -- | --  ||
+10\/03\/22 | Calcolo dell'esponenziale di matrice,\n forma di Jordan  | -- | -- | --  ||
+{{<font color="white">10/03/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Introduzione}} | -- | -- | --  ||
+14\/03\/22 | Modi elementari, evoluzione libera e\n forzata a tempo continuo | -- | -- | --  ||
+16\/03\/22 | Modi elementari, evoluzione libera e\n forzata a tempo discreto  | -- | -- | --  ||
+17\/03\/22 | Stabilità di sistemi lineari e non-lineari  | -- | -- | --  ||
+{{<font color="white">17/03/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Simulazione di un segway}}  | -- | -- | --  ||
+21\/03\/22 | Raggiungibilità a tempo discreto,\n ingresso a energia minima  | -- | -- | --  ||
+23\/03\/22 | Forma canonica di raggiungibilità, test PBH.  | -- | -- | --  ||
+24\/03\/22 | Controllabilità a tempo discreto  | -- | -- | --  ||
+24\/03\/22 | Raggiungibilità e controllabilità a tempo continuo  | -- | -- | --  ||
+28\/03\/22 | Introduzione al problema di controllo,\n esempi di controllo in retroazione dallo stato\/uscita  | -- | -- | --  ||
+30\/03\/22 | Retroazione dallo stato con uno o più ingressi,\n stabilizzabilità  | -- | -- | --  ||
+31\/03\/22 | Esercizi su raggiungibilità,\n controllabilità e retroazione dallo stato  | -- | -- | --  ||
+31\/03\/22 | Osservabilità e ricostruibilità a tempo discreto e continuo  | -- | -- | --  ||
+04\/04\/22 | Dualità, stimatori dello stato, rivelabilità  | -- | -- | --  ||
+06\/04\/22 | Sintesi del regolatore  | -- | -- | --  ||
+07\/04\/22 | Esercizi su osservabilità,\n ricostruibilità e sintesi di regolatori  | -- | -- | --  ||
+{{<font color="white">07/04/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Controllo di un segway}}  | -- | -- | --  
+~~~
+
+{{
+<dl>
+    <dt class="partI"></dt>
+    <dd>Parte I: Modelli, soluzioni, stabilità di sistemi dinamici</dd>
+    <dt class="partIII"></dt>
+    <dd>Parte II: Analisi e controllo di sistemi dinamici lineari</dd>
+    <dt class="lab"></dt>
+    <dd>MATLAB<sup>&reg;</sup></dd>
+</dl>
+}}
