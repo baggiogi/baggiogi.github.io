@@ -60,16 +60,16 @@ Appunti e slides delle lezioni.
 
 
 - {{<u>I appello:</u>}} \n
-○ Consegna Homework: 20\/06\/22, ore 23:59. \n
+○ Consegna Homework: 20\/06\/22, ⏱ 23:59. \n
 ○ Orale: 23-24\/06\/22, Aula VM12.
 - {{<u>II appello:</u>}} \n
-○ Consegna Homework: 01\/07\/22, ore 23:59. \n 
+○ Consegna Homework: 01\/07\/22, ⏱ 23:59. \n 
 ○ Orale: 06-07\/07\/22, Aula VM12.
 - {{<u>III appello:</u>}} \n
-○ Consegna Homework: 29\/08\/22, ore 23:59. \n 
+○ Consegna Homework: 29\/08\/22, ⏱ 23:59. \n 
 ○ Orale: 01-02\/09\/22, Aula VM12.
 - {{<u>IV appello:</u>}} \n
-○ Consegna Homework: 12\/09\/22, ore 23:59. \n 
+○ Consegna Homework: 12\/09\/22, ⏱ 23:59. \n 
 ○ Orale: 15-16\/09\/22, Aula VM12.
 
 
@@ -120,11 +120,11 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 07\/03\/22 | Richiami di algebra lineare | -- | -- | --  ||
 09\/03\/22 | Soluzioni a tempo continuo, esponenziale di matrice, \n definizione ed esempi di calcolo | -- | -- | --  ||
 10\/03\/22 | Calcolo dell'esponenziale di matrice,\n forma di Jordan  | -- | -- | --  ||
-{{<font color="white">10/03/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Introduzione}} | -- | -- | --  ||
+{{<font color="white">10/03/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Introduzione}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  ||
 14\/03\/22 | Modi elementari, evoluzione libera e\n forzata a tempo continuo | -- | -- | --  ||
 16\/03\/22 | Modi elementari, evoluzione libera e\n forzata a tempo discreto  | -- | -- | --  ||
 17\/03\/22 | Stabilità di sistemi lineari e non-lineari  | -- | -- | --  ||
-{{<font color="white">17/03/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Simulazione di un segway}}  | -- | -- | --  ||
+{{<font color="white">17/03/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Simulazione di un segway}}  | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  ||
 21\/03\/22 | Raggiungibilità a tempo discreto,\n ingresso a energia minima  | -- | -- | --  ||
 23\/03\/22 | Forma canonica di raggiungibilità, test PBH.  | -- | -- | --  ||
 24\/03\/22 | Controllabilità a tempo discreto  | -- | -- | --  ||
@@ -136,7 +136,7 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 04\/04\/22 | Dualità, stimatori dello stato, rivelabilità  | -- | -- | --  ||
 06\/04\/22 | Sintesi del regolatore  | -- | -- | --  ||
 07\/04\/22 | Esercizi su osservabilità,\n ricostruibilità e sintesi di regolatori  | -- | -- | --  ||
-{{<font color="white">07/04/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Controllo di un segway}}  | -- | -- | --  
+{{<font color="white">07/04/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Controllo di un segway}}  | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  
 ~~~
 
 {{
