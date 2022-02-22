@@ -47,7 +47,7 @@ Il corso prevede una parte di programmazione in MATLAB{{</u><sup>&reg;</sup>}}. 
 
 *Testo di riferimento:*
 
-Appunti e slides delle lezioni.
+📝 Appunti e slides delle lezioni.
 
 *Testi per consultazione:*
 
@@ -123,7 +123,7 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 {{<font color="white">10/03/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Introduzione}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  ||
 14\/03\/22 | Modi elementari, evoluzione libera e\n forzata a tempo continuo | -- | -- | --  ||
 16\/03\/22 | Modi elementari, evoluzione libera e\n forzata a tempo discreto  | -- | -- | --  ||
-17\/03\/22 | Stabilità di sistemi lineari e non-lineari  | -- | -- | --  ||
+17\/03\/22 | Stabilità di sistemi lineari e non-lineari (cenni)  | -- | -- | --  ||
 {{<font color="white">17/03/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Simulazione di un segway}}  | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  ||
 21\/03\/22 | Raggiungibilità a tempo discreto,\n ingresso a energia minima  | -- | -- | --  ||
 23\/03\/22 | Forma canonica di raggiungibilità, test PBH.  | -- | -- | --  ||
