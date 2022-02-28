@@ -113,10 +113,10 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 ~~~
 {}{table}{lezioni2}
 *lezione*  | *contenuti* | *slides* | *slides annotate* | *extra* ||
-28\/02\/22 | Introduzione al corso, \n concetto di sistema dinamico| -- | -- |  [https://www.youtube.com/watch?v=XJLMW6l303g  Breve video\n sull'ingegneria del controllo]  ||
-02\/03\/22 | Classificazione di sistemi, \n rappresentazione in spazio di stato | -- | -- | --  ||
-03\/03\/22 | Esempi di modelli in spazio di stato | -- | -- | --  ||
-03\/03\/22 | Equilibri, definizioni di stabilità,\n linearizzazione  | -- | -- | --  ||
+28\/02\/22 | Introduzione al corso, \n concetto di sistema dinamico| [./download/main_lez1_2122.pdf Lezione 1] | -- |  [https://www.youtube.com/watch?v=XJLMW6l303g  Breve video\n sull'ingegneria del controllo]  ||
+02\/03\/22 | Classificazione di sistemi, \n rappresentazione in spazio di stato | [./download/main_lez2_2122.pdf Lezione 2] \n [./download/main_lez2_2122_4p.pdf Lezione 2 (2x2)] \n [./download/main_lez2_2122_2pn.pdf Lezione 2 (2x1\+N)] | -- | --  ||
+03\/03\/22 | Esempi di modelli in spazio di stato | [./download/main_lez3_2122.pdf Lezione 3] \n [./download/main_lez3_2122_4p.pdf Lezione 3 (2x2)] \n [./download/main_lez3_2122_2pn.pdf Lezione 3 (2x1\+N)] | -- | --  ||
+03\/03\/22 | Equilibri, definizioni di stabilità,\n linearizzazione  | [./download/main_lez4_2122.pdf Lezione 4] \n [./download/main_lez4_2122_4p.pdf Lezione 4 (2x2)] \n [./download/main_lez4_2122_2pn.pdf Lezione 4 (2x1\+N)] | -- | --  ||
 07\/03\/22 | Richiami di algebra lineare | -- | -- | --  ||
 09\/03\/22 | Soluzioni a tempo continuo, esponenziale di matrice, \n definizione ed esempi di calcolo | -- | -- | --  ||
 10\/03\/22 | Calcolo dell'esponenziale di matrice,\n forma di Jordan  | -- | -- | --  ||
