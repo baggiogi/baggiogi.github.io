@@ -138,7 +138,7 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 
 
 ~~~
-{}{table}{lezioni2}
+{}{table}{lezioni3}
 *lezione*  | *contenuti* | *slides* | *slides annotate* | *testo* | *esercizi* | *extra* ||
 01\/03\/21  | Introduzione al corso, \n concetto di sistema dinamico| [./download/main_lez1_2021.pdf Lezione 1] | -- | -- | -- |  [https://www.youtube.com/watch?v=XJLMW6l303g  Breve video\n sull'ingegneria del controllo]  ||
 03\/03\/21  | Classificazione di sistemi, \n rappresentazione in spazio di stato | [./download/main_lez2_2021.pdf Lezione 2] \n [./download/main_lez2_2021_4p.pdf Lezione 2 (2x2)] \n [./download/main_lez2_2021_2pn.pdf Lezione 2 (2x1\+N)] | [./download/main_lez2_2021_ann.pdf Lezione 2]\n [./download/main_lez2_2021_ann2.pdf Lezione 2 (solo note)] | § 1.1, 1.2 | [./download/es_lez2_2021.pdf Esercizi] | --  ||
