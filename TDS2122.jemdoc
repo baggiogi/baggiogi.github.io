@@ -27,7 +27,7 @@ Il corso prevede una parte di programmazione in MATLAB{{</u><sup>&reg;</sup>}}. 
 
 *News:*
 
-📣 *06\/03\/22*: La lezione 8 di giovedì 10/03 ore 14:30-16:30 sarà dedicata ad una introduzione a MATLAB{{</u><sup>&reg;</sup>}} e si terrà in Aula VM14 (aula informatica). 
+📣 *13\/03\/22*: La lezione 12 di giovedì 10/03 ore 14:30-16:30 sarà dedicata a MATLAB{{</u><sup>&reg;</sup>}} e si terrà in Aula VM14 (aula informatica). 
 
 
 *Ricevimento:*
@@ -120,9 +120,9 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 09\/03\/22 | Complementi di algebra lineare, \n forma di Jordan | [./download/main_lez6_2122.pdf Lezione 6] \n [./download/main_lez6_2122_4p.pdf Lezione 6 (2x2)] \n [./download/main_lez6_2122_2pn.pdf Lezione 6 (2x1\+N)] | [./download/main_lez6_2122_ann.pdf Lezione 6] | --  ||
 10\/03\/22 | Soluzioni di sistemi lineari autonomi,\n esponenziale di matrice  | [./download/main_lez7_2122.pdf Lezione 7] \n [./download/main_lez7_2122_4p.pdf Lezione 7 (2x2)] \n [./download/main_lez7_2122_2pn.pdf Lezione 7 (2x1\+N)] | [./download/main_lez7_2122_ann.pdf Lezione 7] | --  ||
 {{<font color="white">10/03/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Introduzione}} | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">Vedere pagina moodle}}\n {{<font color="white">per il materiale}}  ||
-14\/03\/22 | Modi elementari, evoluzione libera e\n forzata a tempo continuo | -- | -- | --  ||
-16\/03\/22 | Modi elementari, evoluzione libera e\n forzata a tempo discreto  | -- | -- | --  ||
-17\/03\/22 | Stabilità di sistemi lineari e non-lineari (cenni)  | -- | -- | --  ||
+14\/03\/22 | Modi elementari, evoluzione libera e\n forzata a tempo continuo | [./download/main_lez9_2122.pdf Lezione 9] \n [./download/main_lez9_2122_4p.pdf Lezione 9 (2x2)] \n [./download/main_lez9_2122_2pn.pdf Lezione 9 (2x1\+N)] | -- | --  ||
+16\/03\/22 | Modi elementari, evoluzione libera e\n forzata a tempo discreto  | [./download/main_lez10_2122.pdf Lezione 10] \n [./download/main_lez10_2122_4p.pdf Lezione 10 (2x2)] \n [./download/main_lez10_2122_2pn.pdf Lezione 10 (2x1\+N)] | -- | --  ||
+17\/03\/22 | Stabilità di sistemi lineari e non-lineari (cenni)  | [./download/main_lez11_2122.pdf Lezione 11] \n [./download/main_lez11_2122_4p.pdf Lezione 11 (2x2)] \n [./download/main_lez11_2122_2pn.pdf Lezione 11 (2x1\+N)] | -- | --  ||
 {{<font color="white">17/03/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Simulazione di un segway}}  | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">--}}  ||
 21\/03\/22 | Raggiungibilità a tempo discreto,\n ingresso a energia minima  | -- | -- | --  ||
 23\/03\/22 | Forma canonica di raggiungibilità, test PBH.  | -- | -- | --  ||
