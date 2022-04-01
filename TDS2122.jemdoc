@@ -27,7 +27,7 @@ Il corso prevede una parte di programmazione in MATLAB{{</u><sup>&reg;</sup>}}. 
 
 *News:*
 
-📣 *27\/03\/22*: La lezione 20 di giovedì 31/03 ore 10:30-12:30 sarà dedicata a MATLAB{{</u><sup>&reg;</sup>}} e si terrà in Aula VM13 (aula informatica). 
+📣 *01\/04\/22*: La lezione 24 di giovedì 07/04 ore 14:30-16:30 sarà dedicata a MATLAB{{</u><sup>&reg;</sup>}} e si terrà in Aula VM13 (aula informatica). 
 
 
 *Ricevimento:*
@@ -127,11 +127,11 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 21\/03\/22 | Raggiungibilità a tempo discreto,\n criterio del rango  | [./download/main_lez13_2122.pdf Lezione 13] \n [./download/main_lez13_2122_4p.pdf Lezione 13 (2x2)] \n [./download/main_lez13_2122_2pn.pdf Lezione 13 (2x1\+N)]  | [./download/main_lez13_2122_ann.pdf Lezione 13] | --  ||
 23\/03\/22 | Ingresso a energia minima,\n forma canonica di raggiungibilità, test PBH  | [./download/main_lez14_2122.pdf Lezione 14] \n [./download/main_lez14_2122_4p.pdf Lezione 14 (2x2)] \n [./download/main_lez14_2122_2pn.pdf Lezione 14 (2x1\+N)]  | [./download/main_lez14_2122_ann.pdf Lezione 14] | --  ||
 24\/03\/22 | Controllabilità a tempo discreto  | [./download/main_lez15_2122.pdf Lezione 15] \n [./download/main_lez15_2122_4p.pdf Lezione 15 (2x2)] \n [./download/main_lez15_2122_2pn.pdf Lezione 15 (2x1\+N)]  | [./download/main_lez15_2122_ann.pdf Lezione 15] | --  ||
-24\/03\/22 | Raggiungibilità e controllabilità a tempo continuo  | [./download/main_lez16_2122.pdf Lezione 16] \n [./download/main_lez16_2122_4p.pdf Lezione 16 (2x2)] \n [./download/main_lez16_2122_2pn.pdf Lezione 16 (2x1\+N)]  | -- | --  ||
-28\/03\/22 | Introduzione al problema di controllo,\n esempi di controllo in retroazione dallo stato\/uscita  | [./download/main_lez17_2122.pdf Lezione 17] \n [./download/main_lez17_2122_4p.pdf Lezione 17 (2x2)] \n [./download/main_lez17_2122_2pn.pdf Lezione 17 (2x1\+N)] | -- | --  ||
-30\/03\/22 | Retroazione dallo stato con un ingresso  | [./download/main_lez18_2122.pdf Lezione 18] \n [./download/main_lez18_2122_4p.pdf Lezione 18 (2x2)] \n [./download/main_lez18_2122_2pn.pdf Lezione 18 (2x1\+N)] | -- | --  ||
+24\/03\/22 | Raggiungibilità e controllabilità a tempo continuo  | [./download/main_lez16_2122.pdf Lezione 16] \n [./download/main_lez16_2122_4p.pdf Lezione 16 (2x2)] \n [./download/main_lez16_2122_2pn.pdf Lezione 16 (2x1\+N)]  | [./download/main_lez16_2122_ann.pdf Lezione 16] | --  ||
+28\/03\/22 | Introduzione al problema di controllo,\n esempi di controllo in retroazione dallo stato\/uscita  | [./download/main_lez17_2122.pdf Lezione 17] \n [./download/main_lez17_2122_4p.pdf Lezione 17 (2x2)] \n [./download/main_lez17_2122_2pn.pdf Lezione 17 (2x1\+N)] | [./download/main_lez17_2122_ann.pdf Lezione 17] | --  ||
+30\/03\/22 | Retroazione dallo stato con un ingresso  | [./download/main_lez18_2122.pdf Lezione 18] \n [./download/main_lez18_2122_4p.pdf Lezione 18 (2x2)] \n [./download/main_lez18_2122_2pn.pdf Lezione 18 (2x1\+N)] | [./download/main_lez18_2122_ann.pdf Lezione 18] | --  ||
 {{<font color="white">31/03/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Controllo di un segway (parte 1)}}  | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">Vedere pagina moodle}}\n {{<font color="white">per il materiale}}|| 
-31\/03\/22 | Retroazione dallo stato con più ingressi,\n stabilizzabilità  | [./download/main_lez20_2122.pdf Lezione 20] \n [./download/main_lez20_2122_4p.pdf Lezione 20 (2x2)] \n [./download/main_lez20_2122_2pn.pdf Lezione 20 (2x1\+N)] | -- | --  ||
+31\/03\/22 | Retroazione dallo stato con più ingressi,\n stabilizzabilità  | [./download/main_lez20_2122.pdf Lezione 20] \n [./download/main_lez20_2122_4p.pdf Lezione 20 (2x2)] \n [./download/main_lez20_2122_2pn.pdf Lezione 20 (2x1\+N)] | [./download/main_lez20_2122_ann.pdf Lezione 20] | --  ||
 04\/04\/22 | Osservabilità e ricostruibilità a tempo discreto e continuo  | -- | -- | --  ||
 06\/04\/22 | Dualità, stimatori dello stato, rivelabilità  | -- | -- | --  ||
 07\/04\/22 | Sintesi del regolatore  | -- | -- | --  ||
