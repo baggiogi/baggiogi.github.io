@@ -31,14 +31,26 @@ A. Scampicchio, and
 </ul>
 }}
 
-{{<ul class="accept">
+{{<ul>
 <li><span style="color: black">
 <u>G. Baggio</u>, 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a>,
 and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a> <br /> 
 “Energy-Aware Controllability of Complex Networks”<br /> 
-<i>Annual Review of Control, Robotics, and Autonomous Systems</i>, 2021. Note: <span style="color: green"> To appear</span>. <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-control-042920-014957" target=&ldquo;blank&rdquo;>[online]</a>
-</span>
+<i>Annual Review of Control, Robotics, and Autonomous Systems</i>, vol. 5, no. 1, May 2022. <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-control-042920-014957" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+ <button onClick="copyToClipboard('GB-SZ:21')">copy text</button>
+  <p id="GB-FP-SZ:22"> &nbsp <br/>
+  @article{GB-FP-SZ:22, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Energy-Aware Controllability of Complex Networks}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Pasqualetti, Fabio and Zampieri, Sandro}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {Annual Review of Control, Robotics, and Autonomous Systems}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {5}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {1}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2022} <br/>
+}</p>
+</div>
 </li>
 </ul>
 }}
@@ -440,6 +452,42 @@ N. Bof,
  
 === Conference Papers {{<span style="font-size: 12pt;font-weight:normal"> (<span style="color: black"> Published</span> / <span style="color: green"> To appear</span> / <span style="color: orange"> Submitted</span> )</span>}}
 
+{{
+<ul class="submit">
+<li><span style="color: black">
+<a href="https://federicoceli.github.io" target=&ldquo;blank&rdquo;>F. Celi</a>, <u>G. Baggio</u>, and 
+<a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
+“Closed-form Estimates Of The LQR Gain From Finite Data”<br /> 
+2022. Note: <span style="color: orange"> Submitted</span>.
+</li>
+</ul>
+}}
+
+
+{{
+<ul class="submit">
+<li><span style="color: black">
+<u>G. Baggio</u> and
+<a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
+“Reachable Volume of Large-Scale Linear Network Systems: The Single-Input Case”<br />
+2022. Note: <span style="color: orange"> Submitted</span>.
+</li>
+</ul>
+}}
+
+
+{{
+<ul class="submit">
+<li><span style="color: black">
+<u>G. Baggio</u>,
+<a href="https://www.algocare.it" target=&ldquo;blank&rdquo;>A. Carè</a>, and 
+<a href="http://www.dei.unipd.it/~giapi/" target=&ldquo;blank&rdquo;>G. Pillonetto</a><br />
+“Finite-Sample Guarantees for State-Space System Identification”<br />
+2022. Note: <span style="color: orange"> Submitted</span>. <a href="https://github.com/baggiogi/ssSPS" target=&ldquo;blank&rdquo;>[code]</a>
+</li>
+</ul>
+}}
+
 
 {{
 <ul class="submit">
@@ -452,17 +500,6 @@ N. Bof,
 </ul>
 }}
 
-{{
-<ul class="submit">
-<li><span style="color: black">
-<u>G. Baggio</u>,
-<a href="https://www.algocare.it" target=&ldquo;blank&rdquo;>A. Carè</a>, and 
-<a href="http://www.dei.unipd.it/~giapi/" target=&ldquo;blank&rdquo;>G. Pillonetto</a><br />
-“Finite-Sample Guarantees for State-Space System Identification”<br />
-2021. Note: <span style="color: orange"> Submitted</span>. <a href="https://github.com/baggiogi/ssSPS" target=&ldquo;blank&rdquo;>[code]</a>
-</li>
-</ul>
-}}
 
 {{
 <ul>
@@ -471,6 +508,7 @@ N. Bof,
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
 “Distributed Learning of Optimal Controls for Linear Systems”<br /> 
 <i>IEEE Conference on Decision and Control (CDC)</i>, Austin, TX, USA, 2021. 
+<a href="https://ieeexplore.ieee.org/document/9683707" target=&ldquo;blank&rdquo;>[online]</a>
 <button class="collapsible">[bibTeX]</button>
 <div class="content">
  <button onClick="copyToClipboard('FC-GB-FP:21')">copy text</button>
