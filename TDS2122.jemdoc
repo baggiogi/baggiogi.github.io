@@ -27,7 +27,7 @@ Il corso prevede una parte di programmazione in MATLAB{{</u><sup>&reg;</sup>}}. 
 
 *News:*
 
-📣 *01\/04\/22*: La lezione 24 di giovedì 07/04 ore 14:30-16:30 sarà dedicata a MATLAB{{</u><sup>&reg;</sup>}} e si terrà in Aula VM13 (aula informatica). 
+📣 *08\/04\/22*: L'homework del corso verrà rilasciato entro giovedì 14\/04\/22. Nella lezione di giovedì mattina 14\/04\/22 del modulo B verranno date alcune istruzioni per il suo svolgimento.
 
 
 *Ricevimento:*
@@ -132,9 +132,9 @@ No, le esercitazioni MATLAB sono a tutti gli effetti ore di lezione e sono quind
 30\/03\/22 | Retroazione dallo stato con un ingresso  | [./download/main_lez18_2122.pdf Lezione 18] \n [./download/main_lez18_2122_4p.pdf Lezione 18 (2x2)] \n [./download/main_lez18_2122_2pn.pdf Lezione 18 (2x1\+N)] | [./download/main_lez18_2122_ann.pdf Lezione 18] | --  ||
 {{<font color="white">31/03/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Controllo di un segway (parte 1)}}  | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">Vedere pagina moodle}}\n {{<font color="white">per il materiale}}|| 
 31\/03\/22 | Retroazione dallo stato con più ingressi,\n stabilizzabilità  | [./download/main_lez20_2122.pdf Lezione 20] \n [./download/main_lez20_2122_4p.pdf Lezione 20 (2x2)] \n [./download/main_lez20_2122_2pn.pdf Lezione 20 (2x1\+N)] | [./download/main_lez20_2122_ann.pdf Lezione 20] | --  ||
-04\/04\/22 | Osservabilità e ricostruibilità a tempo discreto  | [./download/main_lez21_2122.pdf Lezione 21] \n [./download/main_lez21_2122_4p.pdf Lezione 21 (2x2)] \n [./download/main_lez21_2122_2pn.pdf Lezione 21 (2x1\+N)] | -- | --  ||
-06\/04\/22 | Osservabilità e ricostruibilità a tempo continuo, \n dualità  | [./download/main_lez22_2122.pdf Lezione 22] \n [./download/main_lez22_2122_4p.pdf Lezione 22 (2x2)] \n [./download/main_lez22_2122_2pn.pdf Lezione 22 (2x1\+N)] | -- | --  ||
-07\/04\/22 | Stimatori dello stato, rivelabilità, \n sintesi del regolatore  | [./download/main_lez23_2122.pdf Lezione 23] \n [./download/main_lez23_2122_4p.pdf Lezione 23 (2x2)] \n [./download/main_lez23_2122_2pn.pdf Lezione 23 (2x1\+N)] | -- | --  ||
+04\/04\/22 | Osservabilità e ricostruibilità a tempo discreto  | [./download/main_lez21_2122.pdf Lezione 21] \n [./download/main_lez21_2122_4p.pdf Lezione 21 (2x2)] \n [./download/main_lez21_2122_2pn.pdf Lezione 21 (2x1\+N)] | [./download/main_lez21_2122_ann.pdf Lezione 21] | --  ||
+06\/04\/22 | Osservabilità e ricostruibilità a tempo continuo, \n dualità  | [./download/main_lez22_2122.pdf Lezione 22] \n [./download/main_lez22_2122_4p.pdf Lezione 22 (2x2)] \n [./download/main_lez22_2122_2pn.pdf Lezione 22 (2x1\+N)] | [./download/main_lez22_2122_ann.pdf Lezione 22] | --  ||
+07\/04\/22 | Stimatori dello stato, rivelabilità, \n sintesi del regolatore  | [./download/main_lez23_2122.pdf Lezione 23] \n [./download/main_lez23_2122_4p.pdf Lezione 23 (2x2)] \n [./download/main_lez23_2122_2pn.pdf Lezione 23 (2x1\+N)] | [./download/main_lez23_2122_ann.pdf Lezione 23] | --  ||
 {{<font color="white">07/04/22}} | {{<font color="white">MATLAB<sup>&reg;</sup>: Controllo di un segway (parte 2)}}  | {{<font color="white">--}} | {{<font color="white">--}} | {{<font color="white">Vedere pagina moodle}}\n {{<font color="white">per il materiale}}   
 ~~~
 
