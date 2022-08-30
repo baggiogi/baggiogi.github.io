@@ -3,19 +3,6 @@
 
 === Journal Papers {{<span style="font-size: 12pt;font-weight:normal"> (<span style="color: black"> Published</span> / <span style="color: green"> To appear</span> / <span style="color: orange"> Submitted</span> )</span>}}
 
-{{<ul class="accept">
-<li><span style="color: black">
-<a href="https://tommasomenara.com" target=&ldquo;blank&rdquo;>T. Menara</a>, 
-<u>G. Baggio</u>, 
-<a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, 
-and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a>  <br /> 
-“Functional Control of Oscillator Networks”<br /> 
-<i>Nature Communications</i>, 2022.  Note: <span style="color: green">To appear</span>. 
-</span>
-<a href="https://arxiv.org/abs/2102.08566" target=&ldquo;blank&rdquo;>[arXiv]</a> 
-</li>
-</ul>
-}}
 
 
 {{
@@ -30,6 +17,36 @@ A. Scampicchio, and
 </li>
 </ul>
 }}
+
+
+{{<ul>
+<li><span style="color: black">
+<a href="https://tommasomenara.com" target=&ldquo;blank&rdquo;>T. Menara</a>, 
+<u>G. Baggio</u>, 
+<a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, 
+and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a>  <br /> 
+“Functional Control of Oscillator Networks”<br /> 
+<i>Nature Communications</i>, vol. 13, no. 1, pp. 1-13, 2022.
+</span>
+<a href="https://arxiv.org/abs/2102.08566" target=&ldquo;blank&rdquo;>[arXiv]</a> <a href="https://www.nature.com/articles/s41467-022-31733-2" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+  <button onClick="copyToClipboard('TM-GB-DSB-FP:22')">copy text</button>
+  <p id="TM-GB-DSB-FP:22"> &nbsp <br/>
+  @article{TM-GB-DSB-FP:22, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Functional Control of Oscillator Networks}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Menara, Tommaso and Baggio, Giacomo and Bassett, Danielle S and Pasqualetti, Fabio}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {Nature Communications}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {13}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {1}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {1-13}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2022} <br/>
+}</p>
+</div>
+</li>
+</ul>
+}}
+
 
 {{<ul>
 <li><span style="color: black">
@@ -490,12 +507,29 @@ N. Bof,
 
 
 {{
-<ul class="accept">
+<ul class>
 <li><span style="color: black">
 <u>G. Baggio</u> and
 <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
 “Worst-Case Control Energy of Single-Input Network Systems”<br />
-<i>IFAC Conference on Networked Systems (NecSys)</i>, Zurich, 2022. Note: <span style="color: green"> To appear</span>.
+<i>IFAC Conference on Networked Systems (NecSys)</i>, Zurich, 2022.
+<a href="https://www.sciencedirect.com/science/article/pii/S2405896322006255" target=&ldquo;blank&rdquo;>[online]</a>
+<button class="collapsible">[bibTeX]</button>
+<div class="content">
+ <button onClick="copyToClipboard('GB-SZ:22a')">copy text</button>
+  <p id="GB-SZ:22a"> &nbsp <br/>
+  @inproceedings{GB-SZ:22a, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Worst-Case Control Energy of Single-Input Network Systems}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Baggio, Giacomo and Zampieri, Sandro}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IFAC-PapersOnLine}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {55}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  number = {13}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {55-60}, <br/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2022} <br/>
+}</p>
+</div>
+</li>
+</ul>
 </li>
 </ul>
 }}
