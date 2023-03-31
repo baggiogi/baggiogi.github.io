@@ -512,6 +512,38 @@ N. Bof,
 === Conference Papers {{<span style="font-size: 12pt;font-weight:normal"> (<span style="color: black"> Published</span> / <span style="color: green"> To appear</span> / <span style="color: orange"> Submitted</span> )</span>}}
 
 {{
+<ul class="submit">
+<li><span style="color: black">
+U. Casti, <u>G. Baggio</u>, D. Benozzo, <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>, A. Bertoldo, and A. Chiuso <br />
+“Dynamic Brain Networks with Prescribed Functional Connectivity”<br /> 
+2023.  Note: <span style="color: orange"> Submitted</span>.
+</li>
+</ul>
+}}
+
+
+{{
+<ul class="submit">
+<li><span style="color: black">
+<a href="https://federicoceli.github.io" target=&ldquo;blank&rdquo;>F. Celi</a>, <u>G. Baggio</u>, and 
+<a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
+“Data-driven Eigenstructure Assignment for Sparse Feedback Design”<br /> 
+2023.  Note: <span style="color: orange"> Submitted</span>.
+</li>
+</ul>
+}}
+
+{{
+<ul class="submit">
+<li><p><span style="color: black">
+D. Benozzo, G. Baron, <u>G. Baggio</u>, A. Gozzi, M. Corbetta, A. Chiuso, <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>, and A. Bertoldo <br />
+“Single Region Contribution to the Brain Dynamic (In)stability”<br /> 
+2023.  Note: <span style="color: orange"> Submitted</span>.
+</li>
+</ul>
+}}
+
+{{
 <ul class>
 <li><span style="color: black">
 <a href="https://federicoceli.github.io" target=&ldquo;blank&rdquo;>F. Celi</a>, <u>G. Baggio</u>, and 
@@ -948,6 +980,18 @@ A. Cenedese</a>, and
 
 
 === Posters & Extended Abstracts
+
+
+#{{
+#<ul class="submit">
+#<li><p><span style="color: black">
+#G. Baron, D. Benozzo, <u>G. Baggio</u>, A. Chiuso, <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>, M. Corbetta, and A. Bertoldo <br />
+#“Inferring the Cortical Hierarchy of Information Processing from Whole-Brain Effective Connectivity”<br /> 
+#2023.  Note: <span style="color: orange"> Submitted</span>.
+#</li>
+#</ul>
+#}}
+
 
 {{<ul>
 <li><p><span style="color: black">
