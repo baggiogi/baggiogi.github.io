@@ -1,44 +1,27 @@
 # jemdoc: menu{MENU}{publications.html}, showsource 
 = Publications & Preprints
 
-=== Journal Papers
+=== Journal Papers {{<span style="font-size: 12pt;font-weight:normal"> (<span style="color: black"> Published</span> / <span style="color: green"> To appear</span> / <span style="color: orange"> Submitted</span> )</span>}}
 
 
 {{
-<ul class>
+<ul class="submit">
 <li><span style="color: black">
 <u>G. Baggio</u> and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
 “Controllability of Large-Scale Networks: The Control Energy Exponents”<br />
-<i>IEEE Transactions on Control of Network Systems</i>, 2023. To appear. 
-</span>
-<a href="https://ieeexplore.ieee.org/document/10239479" target=&ldquo;blank&rdquo;>[online]</a>
+2023.  Note: <span style="color: orange"> Submitted</span>.
 </li>
 </ul>
 }}
 
 
 {{
-<ul class>
+<ul class="accept">
 <li><span style="color: black">
 <a href="https://federicoceli.github.io" target=&ldquo;blank&rdquo;>F. Celi</a>, <u>G. Baggio</u>, and 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
 “Distributed Data-Driven Control of Network Systems”<br /> 
-<i>IEEE Open Journal of Control Systems</i>, vol. 2, pp. 93-107, 2023
-</span>
-<a href="https://ieeexplore.ieee.org/abstract/document/10076813" target=&ldquo;blank&rdquo;>[online]</a>
-<button class="collapsible">[bibTeX]</button>
-<div class="content">
-  <button onClick="copyToClipboard('FC-GB-FP:23')">copy text</button>
-  <p id="FC-GB-FP:23"> &nbsp <br/>
-  @article{FC-GB-FP:23, <br/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  title = {Distributed Data-Driven Control of Network Systems}, <br/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  author = {Celi, Federico and Baggio, Giacomo and Pasqualetti, Fabio}, <br/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  journal = {IEEE Open Journal of Control Systems}, <br/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  volume = {2}, <br/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  pages = {93-107}, <br/>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  year = {2023} <br/>
-}</p>
-</div>
+<i>IEEE Open Journal of Control Systems</i>, 2023.  Note: <span style="color: green"> To appear</span>.
 </li>
 </ul>
 }}
@@ -526,36 +509,36 @@ N. Bof,
 </ul>
 }}
  
-=== Conference Papers
+=== Conference Papers {{<span style="font-size: 12pt;font-weight:normal"> (<span style="color: black"> Published</span> / <span style="color: green"> To appear</span> / <span style="color: orange"> Submitted</span> )</span>}}
+
 {{
-<ul class>
+<ul class="submit">
 <li><span style="color: black">
 U. Casti, <u>G. Baggio</u>, D. Benozzo, <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>, A. Bertoldo, and A. Chiuso <br />
 “Dynamic Brain Networks with Prescribed Functional Connectivity”<br /> 
-<i>IEEE Conference on Decision and Control (CDC)</i>, Singapore, 2023. To appear. 
+2023.  Note: <span style="color: orange"> Submitted</span>.
 </li>
 </ul>
 }}
 
 
 {{
-<ul class>
+<ul class="submit">
 <li><span style="color: black">
 <a href="https://federicoceli.github.io" target=&ldquo;blank&rdquo;>F. Celi</a>, <u>G. Baggio</u>, and 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
 “Data-driven Eigenstructure Assignment for Sparse Feedback Design”<br /> 
-<i>IEEE Conference on Decision and Control (CDC)</i>, Singapore, 2023. To appear.
+2023.  Note: <span style="color: orange"> Submitted</span>.
 </li>
 </ul>
 }}
 
 {{
-<ul class>
+<ul class="submit">
 <li><p><span style="color: black">
 D. Benozzo, G. Baron, <u>G. Baggio</u>, A. Gozzi, M. Corbetta, A. Chiuso, <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>, and A. Bertoldo <br />
 “Single Region Contribution to the Brain Dynamic (In)stability”<br /> 
-2023.  
-<i>Eighth National Congress of Bioengineering, GNB2023,</i>, Padova, 2023. <a href="https://www.researchgate.net/publication/373389319_Single_region_contribution_to_the_brain_dynamic_instability" target=&ldquo;blank&rdquo;>[online]</a> 
+2023.  Note: <span style="color: orange"> Submitted</span>.
 </li>
 </ul>
 }}
