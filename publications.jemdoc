@@ -7,6 +7,19 @@
 {{
 <ul class>
 <li><span style="color: black">
+<a href="https://federicoceli.github.io" target=&ldquo;blank&rdquo;>F. Celi</a>, <u>G. Baggio</u>, and 
+<a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
+“Closed-form and Robust Expressions for Data-driven LQ Control”<br /> 
+<i>Annual Reviews in Control</i>, 2023. To appear.
+</span>
+</li>
+</ul>
+}}
+
+
+{{
+<ul class>
+<li><span style="color: black">
 <u>G. Baggio</u> and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
 “Controllability of Large-Scale Networks: The Control Energy Exponents”<br />
 <i>IEEE Transactions on Control of Network Systems</i>, 2023. To appear. 
@@ -527,6 +540,17 @@ N. Bof,
 }}
  
 === Conference Papers
+
+{{
+<ul class>
+<li><span style="color: black">
+M. Peruzzo, <u>G. Baggio</u>, and <a href="http://www.dei.unipd.it/~ticozzi/" target=&ldquo;blank&rdquo;>F. Ticozzi</a> <br />
+“Exploring the Impact of Memory on Network Controllability”<br /> 
+2023. Submitted.
+</li>
+</ul>
+}}
+
 {{
 <ul class>
 <li><span style="color: black">
