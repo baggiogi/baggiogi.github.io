@@ -7,13 +7,25 @@
 {{
 <ul class>
 <li><span style="color: black">
-D. Benozzo, <u>G. Baggio</u>, G. Baron, A. Chiuso, <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>, and A. Bertoldo <br />
-“Analyzing Asymmetry in Brain Hierarchies with a Linear State-space Model of Resting-state fMRI Data”<br /> 
-Submitted, 2023. </span>
-<a href="https://www.biorxiv.org/content/10.1101/2023.11.04.565625.abstract" target=&ldquo;blank&rdquo;>[bioRxiv]</a>
+S. Betteti, <u>G. Baggio</u>, <a href="https://fbullo.github.io" target=&ldquo;blank&rdquo;>F. Bullo</a>,  and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a> <br />
+“Stimulus-Driven Dynamics for Robust Memory Retrieval in Hopfield Networks ”<br /> 
+Submitted, 2024. </span>
 </li>
 </ul>
 }}
+
+
+{{
+<ul class>
+<li><span style="color: black">
+D. Benozzo, <u>G. Baggio</u>, G. Baron, A. Chiuso, <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>, and A. Bertoldo <br />
+“Analyzing Asymmetry in Brain Hierarchies with a Linear State-space Model of Resting-state fMRI Data”<br /> 
+<i>Network Neuroscience</i>, 2024. </span>
+<a href="https://www.biorxiv.org/content/10.1101/2023.11.04.565625.abstract" target=&ldquo;blank&rdquo;>[bioRxiv]</a> <a href="https://tinyurl.com/25w9cacj" target=&ldquo;blank&rdquo;>[online]</a>
+</li>
+</ul>
+}}
+
 
 
 {{
@@ -22,11 +34,14 @@ Submitted, 2023. </span>
 <a href="https://federicoceli.github.io" target=&ldquo;blank&rdquo;>F. Celi</a>, <u>G. Baggio</u>, and 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
 “Closed-form and Robust Expressions for Data-driven LQ Control”<br /> 
-<i>Annual Reviews in Control</i>, 2023. To appear.
+<i>Annual Reviews in Control</i>, 2023.
 </span>
+<a href="https://www.sciencedirect.com/science/article/pii/S1367578823000809" target=&ldquo;blank&rdquo;>[online]</a>
 </li>
 </ul>
 }}
+
+
 
 
 {{
@@ -34,7 +49,7 @@ Submitted, 2023. </span>
 <li><span style="color: black">
 <u>G. Baggio</u> and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a><br />
 “Controllability of Large-Scale Networks: The Control Energy Exponents”<br />
-<i>IEEE Transactions on Control of Network Systems</i>, 2023. To appear. 
+<i>IEEE Transactions on Control of Network Systems</i>, 2023.
 </span>
 <a href="https://ieeexplore.ieee.org/document/10239479" target=&ldquo;blank&rdquo;>[online]</a>
 </li>
@@ -307,7 +322,7 @@ and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</
 <u>G. Baggio</u>, 
 <a href="https://www.danisbassett.com/" target=&ldquo;blank&rdquo;>D. S. Bassett</a>, and 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a> <br /> 
-“Stability Conditions for Cluster Synchronization in Networks of Heterogenous Kuramoto Oscillators” <br /> 
+“Stability Conditions for Cluster Synchronization in Networks of Heterogeneous Kuramoto Oscillators” <br /> 
 <i>IEEE Transactions on Control of Network Systems</i>, vol. 7, no. 1, pp. 302-314, March 2020. 
 <a href="https://arxiv.org/abs/1806.06083" target=&ldquo;blank&rdquo;>[arXiv]</a> 
 <a href="https://ieeexplore.ieee.org/document/8663340" target=&ldquo;blank&rdquo;>[online]</a>
@@ -556,9 +571,30 @@ N. Bof,
 {{
 <ul class>
 <li><span style="color: black">
+U. Casti, <u>G. Baggio</u>, <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>, and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
+“Controllable Neural Architectures for Multi-Task Control”<br /> 
+Submitted, 2024.
+</li>
+</ul>
+}}
+
+{{
+<ul class>
+<li><span style="color: black">
+S. Betteti, <u>G. Baggio</u>, and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a> <br />
+“On the Capacity of Continuous-Time Hopfield models”<br /> 
+Submitted, 2024.
+</li>
+</ul>
+}}
+
+
+{{
+<ul class>
+<li><span style="color: black">
 M. Peruzzo, <u>G. Baggio</u>, and <a href="http://www.dei.unipd.it/~ticozzi/" target=&ldquo;blank&rdquo;>F. Ticozzi</a> <br />
 “Exploring the Impact of Memory on Network Controllability”<br /> 
-2023. Submitted.
+European Control Conference, 2024.
 </li>
 </ul>
 }}
