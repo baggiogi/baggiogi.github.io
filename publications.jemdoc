@@ -568,22 +568,13 @@ N. Bof,
  
 === Conference Papers
 
-{{
-<ul class>
-<li><span style="color: black">
-U. Casti, <u>G. Baggio</u>, <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>, and <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
-“Controllable Neural Architectures for Multi-Task Control”<br /> 
-Submitted, 2024.
-</li>
-</ul>
-}}
 
 {{
 <ul class>
 <li><span style="color: black">
 S. Betteti, <u>G. Baggio</u>, and <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a> <br />
 “On the Capacity of Continuous-Time Hopfield models”<br /> 
-Submitted, 2024.
+<i>IEEE Conference on Decision and Control (CDC)</i>, Milan, 2024. To appear.
 </li>
 </ul>
 }}
@@ -604,7 +595,7 @@ European Control Conference, 2024.
 <li><span style="color: black">
 U. Casti, <u>G. Baggio</u>, D. Benozzo, <a href="http://automatica.dei.unipd.it/people/zampieri.html" target=&ldquo;blank&rdquo;>S. Zampieri</a>, A. Bertoldo, and A. Chiuso <br />
 “Dynamic Brain Networks with Prescribed Functional Connectivity”<br /> 
-<i>IEEE Conference on Decision and Control (CDC)</i>, Marina Bay Sands, Singapore, 2023. To appear. 
+<i>IEEE Conference on Decision and Control (CDC)</i>, Marina Bay Sands, Singapore, 2023. 
 </span>
 <a href="https://arxiv.org/abs/2310.07262" target=&ldquo;blank&rdquo;>[arXiv]</a>
 </li>
@@ -618,7 +609,7 @@ U. Casti, <u>G. Baggio</u>, D. Benozzo, <a href="http://automatica.dei.unipd.it/
 <a href="https://federicoceli.github.io" target=&ldquo;blank&rdquo;>F. Celi</a>, <u>G. Baggio</u>, and 
 <a href="http://www.fabiopas.it" target=&ldquo;blank&rdquo;>F. Pasqualetti</a><br />
 “Data-driven Eigenstructure Assignment for Sparse Feedback Design”<br /> 
-<i>IEEE Conference on Decision and Control (CDC)</i>, Marina Bay Sands, Singapore, 2023. To appear.
+<i>IEEE Conference on Decision and Control (CDC)</i>, Marina Bay Sands, Singapore, 2023.
 </span>
 <a href="https://arxiv.org/abs/2303.18209" target=&ldquo;blank&rdquo;>[arXiv]</a>
 </li>
