@@ -228,6 +228,13 @@
     }
   ],
 "supervision": [
+{
+    "name": "Riccardo Zattra",
+    "level": "PhD co-supervisor",
+    "institution": "University of Padova",
+    "year": "2025 - PRESENT",
+    "title": "Dynamical systems for Generative AI"
+  },
   {
     "name": "Marco Peruzzo",
     "level": "PhD co-supervisor",
@@ -240,7 +247,7 @@
     "name": "Umberto Casti",
     "level": "PhD co-supervisor",
     "institution": "University of Padova",
-    "year": "2022 - PRESENT",
+    "year": "2022 - 2026",
     "title": "Neural-inspired systems and generative AI",
     "url": "https://it.linkedin.com/in/umberto-casti-289251242?original_referer=https%3A%2F%2Fwww.google.com%2F"
   },
@@ -248,7 +255,7 @@
     "name": "Simone Betteti",
     "level": "PhD co-supervisor",
     "institution": "University of Padova",
-    "year": "2022 - PRESENT",
+    "year": "2022 - 2026",
     "title": "Neural dynamics and Hopfield networks",
     "url": "https://sim1bet.github.io"
   }
